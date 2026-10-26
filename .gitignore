@@ -1,0 +1,115 @@
+# --- Secrets & local runtime state (never commit) ---
+secrets/
+*.env
+.env
+.env.*
+!.env.example
+*.p8
+*.pem
+*.key
+*.mobileprovision
+*.p12
+*.cer
+
+# --- Data, state, scratch ---
+/data/
+/state/
+/incoming/
+/tmp-*/
+venv*/
+.venv/
+.claude/
+
+# --- Backup / snapshot copies of the app and server ---
+/ios.bak-*/
+/ios.pre-*/
+/server.pre-*/
+*.bak
+*.orig
+
+# --- Dev screenshots (38 MB of simulator captures; README images live in docs/screenshots/) ---
+/ios/screenshots/
+
+# --- Xcode / Swift build products ---
+build/
+DerivedData/
+*.xcarchive
+*.ipa
+*.dSYM/
+*.dSYM.zip
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+.swiftpm/
+.build/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.nbi
+*.nbc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+
+# --- Databases ---
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# --- Media / audio / large binaries ---
+*.flac
+*.mp3
+*.m4a
+*.aac
+*.wav
+*.aiff
+*.aif
+*.ogg
+*.opus
+*.alac
+*.ape
+*.wv
+*.dsf
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.npy
+*.npz
+*.pt
+*.bin
+*.onnx
+
+# --- OS / editor cruft ---
+.DS_Store
+._*
+.idea/
+.vscode/
+*.swp
+*.log
+
+# --- Local build config with private server addresses ---
+/ios/Config/Local.xcconfig
+
+# --- Private local settings (NAS login, share names): see local.env.example ---
+/local.env
+
+# --- Internal working notes (handoffs, triage, plans with machine/budget details) ---
+/docs/HANDOFF-*.md
+/docs/TRIAGE-*.md
+/docs/plans/alignment-v2.md
+/docs/plans/cd-catalog.md
+/docs/plans/cd-catalog-review3.md
+/docs/plans/ios-update-2026-10-21.md
+/docs/plans/themed-programming.md

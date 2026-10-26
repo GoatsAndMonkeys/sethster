@@ -1,0 +1,34 @@
+{
+ "performance_id": "bayreuth-76-walkuere",
+ "model": "mlx-community/whisper-large-v3-turbo",
+ "segments": [
+  {
+   "track_id": "bayreuth-76-walkuere:26",
+   "track_index": 26,
+   "start": 246.7,
+   "end": 247.6,
+   "text": "spot",
+   "language": "en",
+   "confidence": -0.79
+  },
+  {
+   "track_id": "bayreuth-76-walkuere:26",
+   "track_index": 26,
+   "start": 247.6,
+   "end": 248.7,
+   "text": "your",
+   "language": "en",
+   "confidence": -0.79
+  },
+  {
+   "track_id": "bayreuth-76-walkuere:26",
+   "track_index": 26,
+   "start": 248.7,
+   "end": 250.2,
+   "text": "shoes",
+   "language": "en",
+   "confidence": -0.79
+  }
+ ],
+ "unmapped_segments": 0
+}

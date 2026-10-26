@@ -1,0 +1,715 @@
+{
+ "id": "met-920307-rigoletto",
+ "title": "Rigoletto",
+ "subtitle": "Nucci, Swenson, Leech · Santi",
+ "composers": [
+  {
+   "id": "giuseppe-verdi",
+   "name": "Giuseppe Verdi"
+  }
+ ],
+ "date": "1992-03-07",
+ "date_status": "confirmed",
+ "venue": {
+  "id": "metropolitan-opera-house-lincoln-center",
+  "name": "Metropolitan Opera House, Lincoln Center",
+  "city": "New York"
+ },
+ "kind": "broadcast",
+ "collection": "Met",
+ "duration_s": 9600,
+ "artwork_url": null,
+ "confirmed_ratio": 0.8,
+ "summary": "Off-air recording of the Metropolitan Opera's live Texaco-Metropolitan Opera Saturday matinee broadcast of Verdi's Rigoletto on March 7, 1992 (Met performance no. 682). Leo Nucci sings Rigoletto, Ruth Ann Swenson Gilda and Richard Leech the Duke; Nello Santi conducts. The 16 files (about 117 min) seem to hold only the opera, without the intermission features.",
+ "date_evidence": "The folder name '920307' means 1992-03-07, a Saturday. The MetOpera Database record (CID 307650) gives 'Rigoletto (682), Metropolitan Opera House, Sat, March 7, 1992, Matinee Broadcast'. It is the only performance flagged as broadcast among the twelve Rigolettos of the 1991-92 run (nos. 677-688, Feb 17 to Mar 28, 1992). The NYPL Rodgers and Hammerstein Archives record of the Met's own broadcast tapes says 'Live broadcast from the Metropolitan Opera House, New York City, Mar. 7, 1992.' The broadcast was live, so the broadcast and performance dates are the same.",
+ "candidate_dates": [
+  "1992-03-07"
+ ],
+ "broadcast_date": "1992-03-07",
+ "broadcaster": "Texaco-Metropolitan Opera International Radio Network (the local station the collector recorded from is unknown)",
+ "event_name": "Met Opera Saturday matinee broadcast (Texaco-Metropolitan Opera radio broadcast), 1991-92 season",
+ "program": [
+  {
+   "work_id": "verdi-rigoletto",
+   "title": "Rigoletto",
+   "composer": {
+    "id": "giuseppe-verdi",
+    "name": "Giuseppe Verdi"
+   },
+   "catalogue": null,
+   "notes": "Opera in three acts, sung in Italian, to a libretto by Francesco Maria Piave. Otto Schenk production (new in 1989)."
+  }
+ ],
+ "credits": [
+  {
+   "person": {
+    "id": "leo-nucci",
+    "name": "Leo Nucci",
+    "image_url": null
+   },
+   "role": "Rigoletto",
+   "work_id": "verdi-rigoletto",
+   "status": "confirmed",
+   "notes": "This is where a substitution would show. Matteo Manuguerra sang Rigoletto at the Feb 17, 1992 run opener (s3), but both date-specific sources for March 7 name Nucci: the Met record (s1) and the NYPL broadcast-tape record (s2).",
+   "source_ids": [
+    "s1",
+    "s2"
+   ]
+  },
+  {
+   "person": {
+    "id": "ruth-ann-swenson",
+    "name": "Ruth Ann Swenson",
+    "image_url": null
+   },
+   "role": "Gilda",
+   "work_id": "verdi-rigoletto",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1",
+    "s2"
+   ]
+  },
+  {
+   "person": {
+    "id": "richard-leech",
+    "name": "Richard Leech",
+    "image_url": null
+   },
+   "role": "Duke of Mantua",
+   "work_id": "verdi-rigoletto",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1",
+    "s2"
+   ]
+  },
+  {
+   "person": {
+    "id": "wendy-white",
+    "name": "Wendy White",
+    "image_url": null
+   },
+   "role": "Maddalena",
+   "work_id": "verdi-rigoletto",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1",
+    "s2"
+   ]
+  },
+  {
+   "person": {
+    "id": "jan-hendrik-rootering",
+    "name": "Jan-Hendrik Rootering",
+    "image_url": null
+   },
+   "role": "Sparafucile",
+   "work_id": "verdi-rigoletto",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1",
+    "s2"
+   ]
+  },
+  {
+   "person": {
+    "id": "alan-held",
+    "name": "Alan Held",
+    "image_url": null
+   },
+   "role": "Monterone",
+   "work_id": "verdi-rigoletto",
+   "status": "confirmed",
+   "notes": "The NYPL record lists him as 'Held, Alan, 1959-'. Wikidata Q42303126 is labelled 'Alan Held' and has no English description; the Claude researcher matched it on the 1959 birth year.",
+   "source_ids": [
+    "s1",
+    "s2"
+   ]
+  },
+  {
+   "person": {
+    "id": "charles-anthony",
+    "name": "Charles Anthony",
+    "image_url": null
+   },
+   "role": "Borsa",
+   "work_id": "verdi-rigoletto",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1",
+    "s2"
+   ]
+  },
+  {
+   "person": {
+    "id": "dwayne-croft",
+    "name": "Dwayne Croft",
+    "image_url": null
+   },
+   "role": "Marullo",
+   "work_id": "verdi-rigoletto",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1",
+    "s2"
+   ]
+  },
+  {
+   "person": {
+    "id": "hao-jiang-tian",
+    "name": "Hao Jiang Tian",
+    "image_url": null
+   },
+   "role": "Count Ceprano",
+   "work_id": "verdi-rigoletto",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1",
+    "s2"
+   ]
+  },
+  {
+   "person": {
+    "id": "korliss-uecker",
+    "name": "Korliss Uecker",
+    "image_url": null
+   },
+   "role": "Countess Ceprano",
+   "work_id": "verdi-rigoletto",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1",
+    "s2"
+   ]
+  },
+  {
+   "person": {
+    "id": "jane-shaulis",
+    "name": "Jane Shaulis",
+    "image_url": null
+   },
+   "role": "Giovanna",
+   "work_id": "verdi-rigoletto",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1",
+    "s2"
+   ]
+  },
+  {
+   "person": {
+    "id": "charlotte-philley",
+    "name": "Charlotte Philley",
+    "image_url": null
+   },
+   "role": "Page",
+   "work_id": "verdi-rigoletto",
+   "status": "confirmed",
+   "notes": "Constance Green sang the Page on Feb 17, 1992 (s3). Both March 7 sources name Philley.",
+   "source_ids": [
+    "s1",
+    "s2"
+   ]
+  },
+  {
+   "person": {
+    "id": "glenn-bater",
+    "name": "Glenn Bater",
+    "image_url": null
+   },
+   "role": "Guard",
+   "work_id": "verdi-rigoletto",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1",
+    "s2"
+   ]
+  },
+  {
+   "person": {
+    "id": "nello-santi",
+    "name": "Nello Santi",
+    "image_url": null
+   },
+   "role": "conductor",
+   "work_id": "verdi-rigoletto",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1",
+    "s2"
+   ]
+  },
+  {
+   "person": {
+    "id": "metropolitan-opera-orchestra",
+    "name": "Metropolitan Opera Orchestra",
+    "image_url": null
+   },
+   "role": "orchestra",
+   "work_id": "verdi-rigoletto",
+   "status": "inferred",
+   "notes": "The March 7 Met record does not name the orchestra. The Met's house orchestra plays every Met performance, and Operadis (s4) names the 'Metropolitan Opera' orchestra for what it calls this apparent broadcast.",
+   "source_ids": [
+    "s1",
+    "s4"
+   ]
+  },
+  {
+   "person": {
+    "id": "metropolitan-opera-chorus",
+    "name": "Metropolitan Opera Chorus",
+    "image_url": null
+   },
+   "role": "chorus",
+   "work_id": "verdi-rigoletto",
+   "status": "inferred",
+   "notes": "Not named on the March 7 Met record. Inferred because the house chorus sings every Met performance; Operadis (s4) names the 'Metropolitan Opera' chorus.",
+   "source_ids": [
+    "s1",
+    "s4"
+   ]
+  },
+  {
+   "person": {
+    "id": "peter-allen",
+    "name": "Peter Allen",
+    "image_url": null
+   },
+   "role": "announcer",
+   "work_id": "verdi-rigoletto",
+   "status": "confirmed",
+   "notes": "The NYPL record lists 'Allen, Peter, 1920-2016, commentator'. Its contents give him the introduction, act synopses and closing remarks. He was the broadcast's announcer, but the files may not include his segments (see open questions). No Wikidata QID, because 'Peter Allen' resolves to a disambiguation page.",
+   "source_ids": [
+    "s2"
+   ]
+  },
+  {
+   "person": {
+    "id": "nimet-habachy",
+    "name": "Nimet Habachy",
+    "image_url": null
+   },
+   "role": "intermission host (Opera News on the Air)",
+   "work_id": "verdi-rigoletto",
+   "status": "confirmed",
+   "notes": "Part of the broadcast, according to the NYPL record. These files seem not to include the intermission features.",
+   "source_ids": [
+    "s2"
+   ]
+  },
+  {
+   "person": {
+    "id": "edward-downes",
+    "name": "Edward Downes",
+    "image_url": null
+   },
+   "role": "intermission host (Texaco Opera Quiz)",
+   "work_id": "verdi-rigoletto",
+   "status": "confirmed",
+   "notes": "The NYPL record lists 'Downes, Edward, 1911-2001'. He was the quiz host, not the conductor of the same name. Probably not in these files.",
+   "source_ids": [
+    "s2"
+   ]
+  },
+  {
+   "person": {
+    "id": "marvin-david-levy",
+    "name": "Marvin David Levy",
+    "image_url": null
+   },
+   "role": "Opera Quiz panelist",
+   "work_id": "verdi-rigoletto",
+   "status": "confirmed",
+   "notes": "Intermission feature, probably not in these files.",
+   "source_ids": [
+    "s2"
+   ]
+  },
+  {
+   "person": {
+    "id": "william-livingstone",
+    "name": "William Livingstone",
+    "image_url": null
+   },
+   "role": "Opera Quiz panelist",
+   "work_id": "verdi-rigoletto",
+   "status": "confirmed",
+   "notes": "Intermission feature, probably not in these files.",
+   "source_ids": [
+    "s2"
+   ]
+  },
+  {
+   "person": {
+    "id": "christopher-purdy",
+    "name": "Christopher Purdy",
+    "image_url": null
+   },
+   "role": "Opera Quiz panelist",
+   "work_id": "verdi-rigoletto",
+   "status": "confirmed",
+   "notes": "Intermission feature, probably not in these files.",
+   "source_ids": [
+    "s2"
+   ]
+  },
+  {
+   "person": {
+    "id": "otto-schenk",
+    "name": "Otto Schenk",
+    "image_url": null
+   },
+   "role": "production",
+   "work_id": "verdi-rigoletto",
+   "status": "production_only",
+   "notes": "Named on the Feb 17, 1992 record of the same run. The March 7 record lists no production credits.",
+   "source_ids": [
+    "s3"
+   ]
+  },
+  {
+   "person": {
+    "id": "sharon-thomas",
+    "name": "Sharon Thomas",
+    "image_url": null
+   },
+   "role": "stage director",
+   "work_id": "verdi-rigoletto",
+   "status": "production_only",
+   "notes": "Named on the Feb 17, 1992 record of the same run, not on the March 7 record.",
+   "source_ids": [
+    "s3"
+   ]
+  },
+  {
+   "person": {
+    "id": "gil-wechsler",
+    "name": "Gil Wechsler",
+    "image_url": null
+   },
+   "role": "lighting designer",
+   "work_id": "verdi-rigoletto",
+   "status": "production_only",
+   "notes": "Named on the Feb 17, 1992 record of the same run, not on the March 7 record.",
+   "source_ids": [
+    "s3"
+   ]
+  }
+ ],
+ "tracks": [
+  {
+   "id": "met-920307-rigoletto:01",
+   "index": 1,
+   "description": "Act 1: Prelude (inferred from duration, 2:23)",
+   "title": "Act 1: Prelude (inferred from duration, 2:23)",
+   "work_id": "verdi-rigoletto",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/met-920307-rigoletto:01/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-920307-rigoletto:02",
+   "index": 2,
+   "description": "Act 1, scene 1: ballroom, from 'Della mia bella incognita' and 'Questa o quella' to Monterone's curse (inferred, 13:04)",
+   "title": "Act 1, scene 1: ballroom, from 'Della mia bella incognita' and 'Questa o quella' to Monterone's curse (inferred, 13:04)",
+   "work_id": "verdi-rigoletto",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/met-920307-rigoletto:02/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-920307-rigoletto:03",
+   "index": 3,
+   "description": "Act 1, scene 2: 'Quel vecchio maledivami' and the Rigoletto-Sparafucile duet (inferred, 4:30)",
+   "title": "Act 1, scene 2: 'Quel vecchio maledivami' and the Rigoletto-Sparafucile duet (inferred, 4:30)",
+   "work_id": "verdi-rigoletto",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/met-920307-rigoletto:03/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-920307-rigoletto:04",
+   "index": 4,
+   "description": "Act 1, scene 2: 'Pari siamo' and the Rigoletto-Gilda duet, through 'Veglia, o donna' (inferred, 15:32)",
+   "title": "Act 1, scene 2: 'Pari siamo' and the Rigoletto-Gilda duet, through 'Veglia, o donna' (inferred, 15:32)",
+   "work_id": "verdi-rigoletto",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/met-920307-rigoletto:04/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-920307-rigoletto:05",
+   "index": 5,
+   "description": "Act 1, scene 2: 'Giovanna, ho dei rimorsi', the Duke's entrance and 'È il sol dell'anima' (inferred, 6:25)",
+   "title": "Act 1, scene 2: 'Giovanna, ho dei rimorsi', the Duke's entrance and 'È il sol dell'anima' (inferred, 6:25)",
+   "work_id": "verdi-rigoletto",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/met-920307-rigoletto:05/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-920307-rigoletto:06",
+   "index": 6,
+   "description": "Act 1, scene 2: 'Che m'ami, deh! ripetimi' and 'Addio, addio, speranza ed anima' (inferred, 1:50)",
+   "title": "Act 1, scene 2: 'Che m'ami, deh! ripetimi' and 'Addio, addio, speranza ed anima' (inferred, 1:50)",
+   "work_id": "verdi-rigoletto",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/met-920307-rigoletto:06/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-920307-rigoletto:07",
+   "index": 7,
+   "description": "Act 1, scene 2: 'Gualtier Maldè' and 'Caro nome', probably with applause (inferred, 7:43)",
+   "title": "Act 1, scene 2: 'Gualtier Maldè' and 'Caro nome', probably with applause (inferred, 7:43)",
+   "work_id": "verdi-rigoletto",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/met-920307-rigoletto:07/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-920307-rigoletto:08",
+   "index": 8,
+   "description": "Act 1 finale: Rigoletto returns, abduction chorus 'Zitti, zitti', to 'Ah! la maledizione!' (inferred, 4:58)",
+   "title": "Act 1 finale: Rigoletto returns, abduction chorus 'Zitti, zitti', to 'Ah! la maledizione!' (inferred, 4:58)",
+   "work_id": "verdi-rigoletto",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/met-920307-rigoletto:08/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-920307-rigoletto:09",
+   "index": 9,
+   "description": "Act 2: 'Ella mi fu rapita' and 'Parmi veder le lagrime' (inferred, 5:28)",
+   "title": "Act 2: 'Ella mi fu rapita' and 'Parmi veder le lagrime' (inferred, 5:28)",
+   "work_id": "verdi-rigoletto",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/met-920307-rigoletto:09/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-920307-rigoletto:10",
+   "index": 10,
+   "description": "Act 2: courtiers' chorus 'Scorrendo uniti', 'Possente amor', Rigoletto's entrance and probably 'Cortigiani, vil razza dannata' (inferred, 10:41; the endpoint needs listening)",
+   "title": "Act 2: courtiers' chorus 'Scorrendo uniti', 'Possente amor', Rigoletto's entrance and probably 'Cortigiani, vil razza dannata' (inferred, 10:41; the endpoint needs listening)",
+   "work_id": "verdi-rigoletto",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/met-920307-rigoletto:10/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-920307-rigoletto:11",
+   "index": 11,
+   "description": "Act 2: Gilda's entrance, 'Tutte le feste al tempio' and the Gilda-Rigoletto duet 'Piangi, fanciulla' (inferred, 8:43; the start needs listening)",
+   "title": "Act 2: Gilda's entrance, 'Tutte le feste al tempio' and the Gilda-Rigoletto duet 'Piangi, fanciulla' (inferred, 8:43; the start needs listening)",
+   "work_id": "verdi-rigoletto",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/met-920307-rigoletto:11/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-920307-rigoletto:12",
+   "index": 12,
+   "description": "Act 2 finale: Monterone passes, then 'Sì, vendetta, tremenda vendetta' (inferred, 3:35)",
+   "title": "Act 2 finale: Monterone passes, then 'Sì, vendetta, tremenda vendetta' (inferred, 3:35)",
+   "work_id": "verdi-rigoletto",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/met-920307-rigoletto:12/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-920307-rigoletto:13",
+   "index": 13,
+   "description": "Act 3: opening scene 'E l'ami?' and 'La donna è mobile' (inferred, 4:18)",
+   "title": "Act 3: opening scene 'E l'ami?' and 'La donna è mobile' (inferred, 4:18)",
+   "work_id": "verdi-rigoletto",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/met-920307-rigoletto:13/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-920307-rigoletto:14",
+   "index": 14,
+   "description": "Act 3: 'Un dì, se ben rammentomi' and the quartet 'Bella figlia dell'amore' (inferred, 6:21)",
+   "title": "Act 3: 'Un dì, se ben rammentomi' and the quartet 'Bella figlia dell'amore' (inferred, 6:21)",
+   "work_id": "verdi-rigoletto",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/met-920307-rigoletto:14/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-920307-rigoletto:15",
+   "index": 15,
+   "description": "Act 3: Gilda sent away, Sparafucile and Maddalena, the storm and the trio, Gilda stabbed (inferred, 10:05)",
+   "title": "Act 3: Gilda sent away, Sparafucile and Maddalena, the storm and the trio, Gilda stabbed (inferred, 10:05)",
+   "work_id": "verdi-rigoletto",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/met-920307-rigoletto:15/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-920307-rigoletto:16",
+   "index": 16,
+   "description": "Act 3 finale: 'Della vendetta alfin giunge l'istante', the sack, 'La donna è mobile' reprise, final duet 'Lassù in cielo', to the end (inferred, 11:29)",
+   "title": "Act 3 finale: 'Della vendetta alfin giunge l'istante', the sack, 'La donna è mobile' reprise, final duet 'Lassù in cielo', to the end (inferred, 11:29)",
+   "work_id": "verdi-rigoletto",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/met-920307-rigoletto:16/stream",
+   "format": "mp3"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "url": "https://archives.metopera.org/MetOperaSearch/record.jsp?dockey=0380052",
+   "wayback_url": "http://web.archive.org/web/20240326150334/https://archives.metopera.org/MetOperaSearch/record.jsp?dockey=0380052",
+   "title": "MetOpera Database: Rigoletto (682), Sat, March 7, 1992 Matinee Broadcast (CID 307650)",
+   "type": "archive_record",
+   "date_specific": true,
+   "excerpt": "Metropolitan Opera House, Sat, March 7, 1992 Matinee Broadcast ... Rigoletto: Leo Nucci; Gilda: Ruth Ann Swenson; Duke of Mantua: Richard Leech; Maddalena: Wendy White; Sparafucile: Jan-Hendrik Rootering; Monterone: Alan Held; Borsa: Charles Anthony; Marullo: Dwayne Croft; Count Ceprano: Hao Jiang Tian; Countess Ceprano: Korliss Uecker; Giovanna: Jane Shaulis; Page: Charlotte Philley; Guard: Glenn Bater; Conductor: Nello Santi. (The reconciler re-read it on 2026-10-17 and it matches. No production credits or cast-change notes are on the page.)"
+  },
+  {
+   "id": "s2",
+   "url": "https://www.nypl.org/research/research-catalog/bib/b12963270",
+   "wayback_url": null,
+   "title": "NYPL Research Catalog: Rigoletto (Texaco-Metropolitan Opera International Radio Network; broadcast of Mar. 7, 1992)",
+   "type": "archive_record",
+   "date_specific": true,
+   "excerpt": "Live broadcast from the Metropolitan Opera House, New York City, Mar. 7, 1992. ... Durations: 0:52:12 (synopses and features) ; 2:11:41 (opera). ... Production notes and official cast list (4 p.) on file ... Preservation copy re-recorded at NYPL in July, 1992, from borrowed masters ... lent by the Metropolitan Opera. Contents: CD 1. Introduction and synopsis of act I (Peter Allen) ; Act I -- CD 2. Act II ; Act III ; Closing remarks (Allen) -- CD 3. Opera news on the air (Nimet Habachy) ; Synopsis of act II (Allen) ; Texaco's opera quiz (Edward Downes, host, with Marvin David Levy, William Livingstone and Christopher Purdy) ; Synopsis of act III (Allen). Contributors include Nucci, Leo; Swenson, Ruth Ann; Leech, Richard (Tenor); White, Wendy; Rootering, Jan-Hendrik; Held, Alan, 1959-; Anthony, Charles; Croft, Dwayne; Tian, Haojiang; Uecker, Korliss; Shaulis, Jane; Philley, Charlotte; Bater, Glenn; Santi, Nello, conductor. (Read through the NYPL discovery API, platform.nypl.org/api/v0.1/discovery/resources/b12963270, on 2026-10-17.)"
+  },
+  {
+   "id": "s3",
+   "url": "https://archives.metopera.org/MetOperaSearch/record.jsp?dockey=0380033",
+   "wayback_url": "http://web.archive.org/web/20250121090409/https://archives.metopera.org/MetOperaSearch/record.jsp?dockey=0380033",
+   "title": "MetOpera Database: Rigoletto (677), Mon, February 17, 1992 (opening night of the 1991-92 run)",
+   "type": "archive_record",
+   "date_specific": false,
+   "excerpt": "Rigoletto: Matteo Manuguerra ... Page: Constance Green ... Conductor: Nello Santi. Production: Otto Schenk; Stage Director: Sharon Thomas; Lighting Designer: Gil Wechsler. 'Rigoletto received twelve performances this season.' Includes Martin Mayer's review from Opera."
+  },
+  {
+   "id": "s4",
+   "url": "https://www.operadis-opera-discography.org.uk/CLVERIGO.HTM",
+   "wayback_url": null,
+   "title": "Operadis: Rigoletto discography, Nello Santi 1992 (LI), Metropolitan Opera",
+   "type": "discography",
+   "date_specific": true,
+   "excerpt": "Conductor Nello Santi - 1992(LI) Orchestra - Metropolitan Opera Chorus - Metropolitan Opera Rigoletto - Leo Nucci Gilda - Ruth Ann Swenson Duca di Mantova - Richard Leech ... Compact Disc; - Celestial Audio CA 813 {2CDRS} (2008) ... *This recording appears to be of a performance at the MET on 7 March 1992 which was broadcast."
+  },
+  {
+   "id": "s5",
+   "url": "https://archives.metopera.org/MetOperaSearch/search.jsp?q=\"Rigoletto\"&src=browser&sort=PDATE",
+   "wayback_url": null,
+   "title": "MetOpera Database: Rigoletto performances by date",
+   "type": "archive_record",
+   "date_specific": false,
+   "excerpt": "Rigoletto (677) Mon, February 17, 1992 ... (682) Sat, March 7, 1992 Broadcast ... (688) Sat, March 28, 1992. No. 682 is the only broadcast in the run."
+  },
+  {
+   "id": "s6",
+   "url": "https://www.metopera.org/globalassets/mood/mood-student-access/metoperaondemand_cataloglisting_672_8-29-18_studentaccess.pdf",
+   "wayback_url": null,
+   "title": "Met Opera on Demand: Student Access Catalog (August 2018)",
+   "type": "archive_record",
+   "date_specific": true,
+   "excerpt": "As quoted by the Codex researcher: 'Rigoletto Verdi 3/7/1992 Santi Swenson, White, Leech, Nucci, Rootering Audio.' The reconciler got a 404 on 2026-10-17 and found no Wayback copy, so this could not be re-read. No credit rests on it alone."
+  },
+  {
+   "id": "s7",
+   "url": "https://www.metopera.org/discover/synopses/rigoletto/",
+   "wayback_url": null,
+   "title": "Metropolitan Opera: Rigoletto synopsis",
+   "type": "other",
+   "date_specific": false,
+   "excerpt": "Composer Giuseppe Verdi ... Librettist Francesco Maria Piave ... Sung In Italian. (Read by the Codex researcher.)"
+  }
+ ],
+ "resources": [
+  {
+   "url": "https://archives.metopera.org/MetOperaSearch/record.jsp?dockey=0380052",
+   "wayback_url": "http://web.archive.org/web/20240326150334/https://archives.metopera.org/MetOperaSearch/record.jsp?dockey=0380052",
+   "title": "MetOpera Database: Rigoletto, March 7, 1992 Matinee Broadcast",
+   "kind": "archive record",
+   "description": "The Met's official record of this broadcast, with the full cast and conductor."
+  },
+  {
+   "url": "https://www.nypl.org/research/research-catalog/bib/b12963270",
+   "wayback_url": null,
+   "title": "NYPL Rodgers and Hammerstein Archives: Met broadcast of Rigoletto, Mar. 7, 1992",
+   "kind": "archive record",
+   "description": "Library record of the Met's preserved broadcast tapes. It lists the announcer (Peter Allen), Opera News on the Air (Nimet Habachy) and the Texaco Opera Quiz (Edward Downes)."
+  },
+  {
+   "url": "https://ondemand.metopera.org/performance/detail/b74c305a-b72b-5bdb-980c-1b8e4b2fbe92",
+   "wayback_url": null,
+   "title": "Met Opera on Demand: Rigoletto (March 7, 1992)",
+   "kind": "broadcast page",
+   "description": "The Met's streaming page for the preserved audio of this broadcast. The page needs JavaScript, and the reconciler could not read its contents."
+  },
+  {
+   "url": "https://archives.metopera.org/MetOperaSearch/record.jsp?dockey=0380033",
+   "wayback_url": "http://web.archive.org/web/20250121090409/https://archives.metopera.org/MetOperaSearch/record.jsp?dockey=0380033",
+   "title": "MetOpera Database: Rigoletto, Feb 17, 1992 (run opener)",
+   "kind": "archive record",
+   "description": "Opening night of the 1991-92 run of the Otto Schenk production, with Manuguerra as Rigoletto. Gives the production credits and Martin Mayer's review in Opera, and notes Charles Anthony's record-breaking 2,397th Met performance."
+  },
+  {
+   "url": "https://www.operadis-opera-discography.org.uk/CLVERIGO.HTM",
+   "wayback_url": null,
+   "title": "Operadis Rigoletto discography",
+   "kind": "discography",
+   "description": "Lists the 1992 Santi/Met live recording, apparently this broadcast, issued on Celestial Audio CA 813 (2 CD-R, 2008)."
+  },
+  {
+   "url": "https://www.metopera.org/discover/synopses/rigoletto/",
+   "wayback_url": null,
+   "title": "Metropolitan Opera: Rigoletto synopsis",
+   "kind": "article",
+   "description": "The Met's synopsis of the opera."
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Rigoletto",
+   "wayback_url": null,
+   "title": "Rigoletto (Wikipedia)",
+   "kind": "wiki",
+   "description": "Background on Verdi's opera."
+  }
+ ],
+ "open_questions": [
+  "The track contents are inferred only from durations and order; nobody has listened to the files. The two researchers disagreed on tracks A5-A7 and A10-B6. The merged map uses Codex's reading for A5-A7 and Claude's for A9-B6, because those give plausible act lengths: Act 1 about 56 min, Act 2 about 28 min, Act 3 about 32 min. Check by listening: does A6 hold 'Addio, addio' or the 'Gualtier Maldè' recitative? Does A10 end after 'Cortigiani'? Does B3 hold 'La donna è mobile'?",
+  "The files total about 117 min. The NYPL copy gives 2:11:41 for the opera and a further 0:52:12 for synopses and features. The roughly 15-minute gap is probably announcer act introductions, applause and pauses between scenes edited out, but missing music has not been ruled out. Is any of Peter Allen's commentary in the files?",
+  "The A/B split (A about 72.6 min, B about 44.5 min) looks like two tape sides or two recording sessions, with B starting partway through Act 2. Was any music lost at the side change?",
+  "The local station the collector recorded from is unknown (for example WQXR in New York).",
+  "The March 7 Met record lists no production credits. The Schenk, Thomas and Wechsler credits come from the Feb 17, 1992 record of the same run.",
+  "No review of the March 7 performance and no broadcast-day station listing was found. The Opera News broadcast listing (v. 56, no. 12, Feb. 29, 1992) was not read online. No evidence of a cast change for March 7 was found: the Met record and the NYPL record of the Met's broadcast tapes agree on every role.",
+  "The Met Opera on Demand catalog PDF (s6) that Codex cited now returns 404 and has no Wayback copy, so it could not be re-checked. It is not needed for any confirmation."
+ ],
+ "folder": "Met/920307 Rigoletto A"
+}

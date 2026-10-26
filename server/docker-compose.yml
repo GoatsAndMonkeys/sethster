@@ -1,0 +1,24 @@
+# Synology NAS deployment (Container Manager -> Project, or `docker compose up -d --build` over SSH).
+# Set SETHSTER_MEDIA_DIR (the recordings share on the host) in .env next to this file.
+# The media share is mounted read-only.
+services:
+  sethster:
+    build: .
+    image: sethster-server:latest
+    container_name: sethster
+    restart: unless-stopped
+    ports:
+      - "8642:8642"
+    environment:
+      # comma-separated bearer tokens; leave empty ONLY on a trusted LAN (disables auth)
+      SETHSTER_TOKENS: "${SETHSTER_TOKENS:-}"
+      SETHSTER_AUTH: "${SETHSTER_AUTH:-}"
+      TZ: "${TZ:-America/New_York}"
+      # accounts (docs/plans/accounts.md): off | dormant | on
+      SETHSTER_ACCOUNTS: "${SETHSTER_ACCOUNTS:-off}"
+      APNS_KEY_ID: "${APNS_KEY_ID:-}"
+      SETHSTER_CONTACT_EMAIL: "${SETHSTER_CONTACT_EMAIL:-}"   # contact shown on /privacy
+    volumes:
+      - ../data:/data                                        # results/dossiers/wiki in, sethster.db + cache/ out
+      - "${SETHSTER_MEDIA_DIR:?set SETHSTER_MEDIA_DIR in .env}:/media:ro"  # the audio share, READ-ONLY
+      - ../secrets:/secrets:ro                               # apns.p8 (push); absent = push off

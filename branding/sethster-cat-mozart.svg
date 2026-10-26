@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <rect width="1024" height="1024" fill="#fff"/>
+  <path d="M640 740 C700 780 730 830 738 890" fill="none" stroke="#000" stroke-width="92" stroke-linecap="round"/>
+  <path d="M640 740 C700 780 730 830 738 890" fill="none" stroke="#fff" stroke-width="50" stroke-linecap="round"/>
+  <g fill="#000" stroke="#fff" stroke-width="10" stroke-linejoin="round" transform="rotate(-14 740 880)">
+    <path d="M740 880 L650 822 L660 938 Z"/><path d="M740 880 L830 822 L820 938 Z"/>
+    <circle cx="740" cy="880" r="28"/>
+  </g>
+  <path d="M300 214 L432 336 Q512 318 592 336 L724 214 L742 520 C742 704 640 806 512 806 C384 806 282 704 282 520 Z" fill="#fff" stroke="#000" stroke-width="46" stroke-linejoin="round"/>
+  <path d="M300 470 C330 390 420 352 512 352 C604 352 694 390 724 470 C680 432 600 418 512 418 C424 418 344 432 300 470 Z" fill="#fff" stroke="#000" stroke-width="22" stroke-linejoin="round"/>
+  <rect x="214" y="440" width="150" height="74" rx="37" fill="#fff" stroke="#000" stroke-width="22" stroke-linejoin="round"/>
+  <rect x="660" y="440" width="150" height="74" rx="37" fill="#fff" stroke="#000" stroke-width="22" stroke-linejoin="round"/>
+  <rect x="220" y="520" width="144" height="74" rx="37" fill="#fff" stroke="#000" stroke-width="22" stroke-linejoin="round"/>
+  <rect x="660" y="520" width="144" height="74" rx="37" fill="#fff" stroke="#000" stroke-width="22" stroke-linejoin="round"/>
+  <!-- Slanted leaf eyes -->
+  <path d="M352 548 Q414 506 486 556 Q432 604 352 548 Z" fill="#000"/>
+  <path d="M672 548 Q610 506 538 556 Q592 604 672 548 Z" fill="#000"/>
+  <!-- Nose and crescent mouth -->
+  <path d="M488 640 L536 640 L512 664 Z" fill="#000" stroke="#000" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M430 690 Q512 734 594 690 Q512 778 430 690 Z" fill="#000"/>
+</svg>

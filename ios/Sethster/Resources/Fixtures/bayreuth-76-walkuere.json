@@ -1,0 +1,972 @@
+{
+ "id": "bayreuth-76-walkuere",
+ "title": "Die Walküre",
+ "subtitle": "Hofmann, Bode, Salminen · Boulez",
+ "composers": [
+  {
+   "id": "richard-wagner",
+   "name": "Richard Wagner"
+  }
+ ],
+ "date": "1976-07-25",
+ "date_status": "inferred",
+ "venue": {
+  "id": "bayreuth-festspielhaus",
+  "name": "Bayreuth Festspielhaus",
+  "city": "Bayreuth"
+ },
+ "kind": "live_unofficial_release",
+ "collection": "Bayreuth",
+ "duration_s": 24000,
+ "artwork_url": null,
+ "confirmed_ratio": 0.79,
+ "summary": "Complete Die Walküre from the Bayreuth Festival's centenary Ring (Chéreau production, Boulez conducting). It is most likely the premiere on 25 July 1976, the only 1976 Walküre known to have been broadcast or recorded. This copy appears to be Opera Depot's 3-CD issue OD 10747-3 (39 tracks, 2012).",
+ "date_evidence": "Folder '76 Walk Bayreuth' and album tag 'Die Walküre - Bayreuth, '76' give only the year. The 1976 Walküre was given on 25 July and 5, 13 and 22 Aug (s1). Wagnerdisco's list of all known Bayreuth recordings names only one 1976 Walküre source: the 25 July premiere broadcast (s7; re-read by the reconciler). The tags name McIntyre, which rules out 5 Aug (Hans Sotin was Wotan, s1). The Opera Depot cast has Salminen as Hunding (s3), and Ridderbusch replaced him on 5, 13 and 22 Aug (s1, s5), which leaves 25 July. Wagnerdisco gives this cast and the OD label for the 25 July 1976 broadcast (s2). The files have 39 tracks, as OD 10747-3 does (OD splits the acts 14/12/13; this copy splits the discs 16/10/13), and the tags carry 2012, the OD issue year. The date stays inferred: the insert PDF, which may state it, was not read (the reconciler had no NAS access), and no one has listened to the recording.",
+ "candidate_dates": [
+  "1976-07-25",
+  "1976-08-05",
+  "1976-08-13",
+  "1976-08-22"
+ ],
+ "broadcast_date": "1976-07-25",
+ "broadcaster": "Bayerischer Rundfunk (live festival broadcast; the broadcaster is presumed, not confirmed from a listing)",
+ "event_name": "Bayreuther Festspiele 1976, centenary Ring (Jahrhundertring), premiere of Die Walküre",
+ "program": [
+  {
+   "work_id": "wagner-die-walkure",
+   "title": "Die Walküre",
+   "composer": {
+    "id": "richard-wagner",
+    "name": "Richard Wagner"
+   },
+   "catalogue": "WWV 86B",
+   "notes": "First day of Der Ring des Nibelungen (Q190237); centenary production (Jahrhundertring, Q1678690)."
+  }
+ ],
+ "credits": [
+  {
+   "person": {
+    "id": "pierre-boulez",
+    "name": "Pierre Boulez",
+    "image_url": null
+   },
+   "role": "conductor",
+   "work_id": "wagner-die-walkure",
+   "status": "confirmed",
+   "notes": "s2 is the 25 July 1976 broadcast entry; s1 lists Boulez as sole conductor of the 1976 Walküre.",
+   "source_ids": [
+    "s1",
+    "s2",
+    "s3"
+   ]
+  },
+  {
+   "person": {
+    "id": "orchester-der-bayreuther-festspiele",
+    "name": "Orchester der Bayreuther Festspiele",
+    "image_url": null
+   },
+   "role": "orchestra",
+   "work_id": "wagner-die-walkure",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s2"
+   ]
+  },
+  {
+   "person": {
+    "id": "peter-hofmann",
+    "name": "Peter Hofmann",
+    "image_url": null
+   },
+   "role": "Siegmund",
+   "work_id": "wagner-die-walkure",
+   "status": "confirmed",
+   "notes": "s2 (wagnerdisco entry for the 25 July 1976 broadcast) names this singer; s1 (festival performance DB) lists this singer for the 1976 run with no per-date replacement, so also on 25 July. Also in tag artist field. Reconciler re-read s1 and s2 (2026-10-17) and found the same name. Caveat: the festival DB seems to omit at least one per-date replacement (Fricka), so 'no replacement listed' is weaker evidence than it looks. Confirmation rests mainly on s2, which describes the recording itself.",
+   "source_ids": [
+    "s1",
+    "s2",
+    "s3"
+   ]
+  },
+  {
+   "person": {
+    "id": "hannelore-bode",
+    "name": "Hannelore Bode",
+    "image_url": null
+   },
+   "role": "Sieglinde",
+   "work_id": "wagner-die-walkure",
+   "status": "confirmed",
+   "notes": "s2 (wagnerdisco entry for the 25 July 1976 broadcast) names this singer; s1 (festival performance DB) lists this singer for the 1976 run with no per-date replacement, so also on 25 July. Reconciler re-read s1 and s2 (2026-10-17) and found the same name. Caveat: the festival DB seems to omit at least one per-date replacement (Fricka), so 'no replacement listed' is weaker evidence than it looks. Confirmation rests mainly on s2, which describes the recording itself.",
+   "source_ids": [
+    "s1",
+    "s2",
+    "s3"
+   ]
+  },
+  {
+   "person": {
+    "id": "matti-salminen",
+    "name": "Matti Salminen",
+    "image_url": null
+   },
+   "role": "Hunding",
+   "work_id": "wagner-die-walkure",
+   "status": "confirmed",
+   "notes": "s1/s5: Salminen is the 1976 Hunding with Karl Ridderbusch as replacement only on 5, 13 and 22 Aug 1976, so Salminen sang 25 July; s2 (25 July broadcast) agrees. Hunding is also the cast detail that rules out the August dates. Reconciler re-read s1 and s2 (2026-10-17) and found the same name. Caveat: the festival DB seems to omit at least one per-date replacement (Fricka), so 'no replacement listed' is weaker evidence than it looks. Confirmation rests mainly on s2, which describes the recording itself.",
+   "source_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s5"
+   ]
+  },
+  {
+   "person": {
+    "id": "donald-mcintyre",
+    "name": "Donald McIntyre",
+    "image_url": null
+   },
+   "role": "Wotan",
+   "work_id": "wagner-die-walkure",
+   "status": "confirmed",
+   "notes": "s1: Hans Sotin replaced McIntyre only on 5 Aug 1976; s2 names McIntyre for 25 July. Also in tag artist field. Reconciler re-read s1 and s2 (2026-10-17) and found the same name. Caveat: the festival DB seems to omit at least one per-date replacement (Fricka), so 'no replacement listed' is weaker evidence than it looks. Confirmation rests mainly on s2, which describes the recording itself.",
+   "source_ids": [
+    "s1",
+    "s2",
+    "s3"
+   ]
+  },
+  {
+   "person": {
+    "id": "gwyneth-jones",
+    "name": "Gwyneth Jones",
+    "image_url": null
+   },
+   "role": "Brünnhilde",
+   "work_id": "wagner-die-walkure",
+   "status": "confirmed",
+   "notes": "s2 (wagnerdisco entry for the 25 July 1976 broadcast) names this singer; s1 (festival performance DB) lists this singer for the 1976 run with no per-date replacement, so also on 25 July. Also in tag artist field. Reconciler re-read s1 and s2 (2026-10-17) and found the same name. Caveat: the festival DB seems to omit at least one per-date replacement (Fricka), so 'no replacement listed' is weaker evidence than it looks. Confirmation rests mainly on s2, which describes the recording itself.",
+   "source_ids": [
+    "s1",
+    "s2",
+    "s3"
+   ]
+  },
+  {
+   "person": {
+    "id": "eva-randova",
+    "name": "Eva Randová",
+    "image_url": null
+   },
+   "role": "Fricka",
+   "work_id": "wagner-die-walkure",
+   "status": "conflict",
+   "notes": "Unresolved; leaning Randová. For Eva Randová: wagnerdisco's 25 July 1976 broadcast entry (s2) and the Opera Depot OD 10747-3 cast and description (s3), but these two are not independent, because s2 lists the OD release. For Yvonne Minton (Q437381): the festival DB's 1976 Walküre cast (s1) and its Walküre Fricka role page (s10), 1976 Minton and 1977 Randová, neither with a replacement; Wikipedia's Jahrhundertring cast table (s8), which is production-level and probably drawn from the DB; and Minton's biography (s6), which has her 'taking on Fricka in Das Rheingold and Die Walküre' in 1976. Points towards Randová on 25 July: the festival DB's own Rheingold role page (s4) lists Randová as the regular 1976 Fricka, with Minton as replacement only on 4 and 21 Aug, the Rheingolds of cycles 2 and 4. Both the OD Rheingold release (s11) and wagnerdisco's 24 July 1976 Rheingold broadcast entry (s12) list Randová as Fricka. A plausible reading is that the two women shared Fricka in both operas: Randová in cycles 1 and 3 (25 July and 13 Aug), Minton in cycles 2 and 4 (5 and 22 Aug). The DB's Walküre record may simply omit that replacement. This is inference; no source names the 25 July Fricka apart from the OD release. Randová is a Czech mezzo, Minton an Australian mezzo with a different timbre, so listening to Act II, Scene 1 should settle it.",
+   "source_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s6",
+    "s8",
+    "s10",
+    "s11",
+    "s12"
+   ]
+  },
+  {
+   "person": {
+    "id": "rachel-yakar",
+    "name": "Rachel Yakar",
+    "image_url": null
+   },
+   "role": "Gerhilde",
+   "work_id": "wagner-die-walkure",
+   "status": "confirmed",
+   "notes": "s2 (wagnerdisco entry for the 25 July 1976 broadcast) names this singer; s1 (festival performance DB) lists this singer for the 1976 run with no per-date replacement, so also on 25 July. Reconciler re-read s1 and s2 (2026-10-17) and found the same name. Caveat: the festival DB seems to omit at least one per-date replacement (Fricka), so 'no replacement listed' is weaker evidence than it looks. Confirmation rests mainly on s2, which describes the recording itself.",
+   "source_ids": [
+    "s1",
+    "s2",
+    "s3"
+   ]
+  },
+  {
+   "person": {
+    "id": "irja-auroora",
+    "name": "Irja Auroora",
+    "image_url": null
+   },
+   "role": "Ortlinde",
+   "work_id": "wagner-die-walkure",
+   "status": "confirmed",
+   "notes": "s2 (wagnerdisco entry for the 25 July 1976 broadcast) names this singer; s1 (festival performance DB) lists this singer for the 1976 run with no per-date replacement, so also on 25 July. Reconciler re-read s1 and s2 (2026-10-17) and found the same name. Caveat: the festival DB seems to omit at least one per-date replacement (Fricka), so 'no replacement listed' is weaker evidence than it looks. Confirmation rests mainly on s2, which describes the recording itself.",
+   "source_ids": [
+    "s1",
+    "s2",
+    "s3"
+   ]
+  },
+  {
+   "person": {
+    "id": "doris-soffel",
+    "name": "Doris Soffel",
+    "image_url": null
+   },
+   "role": "Waltraute",
+   "work_id": "wagner-die-walkure",
+   "status": "confirmed",
+   "notes": "s2 (wagnerdisco entry for the 25 July 1976 broadcast) names this singer; s1 (festival performance DB) lists this singer for the 1976 run with no per-date replacement, so also on 25 July. Reconciler re-read s1 and s2 (2026-10-17) and found the same name. Caveat: the festival DB seems to omit at least one per-date replacement (Fricka), so 'no replacement listed' is weaker evidence than it looks. Confirmation rests mainly on s2, which describes the recording itself.",
+   "source_ids": [
+    "s1",
+    "s2",
+    "s3"
+   ]
+  },
+  {
+   "person": {
+    "id": "adelheid-krauss",
+    "name": "Adelheid Krauss",
+    "image_url": null
+   },
+   "role": "Schwertleite",
+   "work_id": "wagner-die-walkure",
+   "status": "confirmed",
+   "notes": "s2 (wagnerdisco entry for the 25 July 1976 broadcast) names this singer; s1 (festival performance DB) lists this singer for the 1976 run with no per-date replacement, so also on 25 July. Reconciler re-read s1 and s2 (2026-10-17) and found the same name. Caveat: the festival DB seems to omit at least one per-date replacement (Fricka), so 'no replacement listed' is weaker evidence than it looks. Confirmation rests mainly on s2, which describes the recording itself.",
+   "source_ids": [
+    "s1",
+    "s2",
+    "s3"
+   ]
+  },
+  {
+   "person": {
+    "id": "katie-clarke",
+    "name": "Katie Clarke",
+    "image_url": null
+   },
+   "role": "Helmwige",
+   "work_id": "wagner-die-walkure",
+   "status": "confirmed",
+   "notes": "s2 (wagnerdisco entry for the 25 July 1976 broadcast) names this singer; s1 (festival performance DB) lists this singer for the 1976 run with no per-date replacement, so also on 25 July. Reconciler re-read s1 and s2 (2026-10-17) and found the same name. Caveat: the festival DB seems to omit at least one per-date replacement (Fricka), so 'no replacement listed' is weaker evidence than it looks. Confirmation rests mainly on s2, which describes the recording itself.",
+   "source_ids": [
+    "s1",
+    "s2",
+    "s3"
+   ]
+  },
+  {
+   "person": {
+    "id": "alicia-nafe",
+    "name": "Alicia Nafé",
+    "image_url": null
+   },
+   "role": "Siegrune",
+   "work_id": "wagner-die-walkure",
+   "status": "confirmed",
+   "notes": "s2 (wagnerdisco entry for the 25 July 1976 broadcast) names this singer; s1 (festival performance DB) lists this singer for the 1976 run with no per-date replacement, so also on 25 July. Reconciler re-read s1 and s2 (2026-10-17) and found the same name. Caveat: the festival DB seems to omit at least one per-date replacement (Fricka), so 'no replacement listed' is weaker evidence than it looks. Confirmation rests mainly on s2, which describes the recording itself.",
+   "source_ids": [
+    "s1",
+    "s2",
+    "s3"
+   ]
+  },
+  {
+   "person": {
+    "id": "ilse-gramatzki",
+    "name": "Ilse Gramatzki",
+    "image_url": null
+   },
+   "role": "Grimgerde",
+   "work_id": "wagner-die-walkure",
+   "status": "confirmed",
+   "notes": "s2 (wagnerdisco entry for the 25 July 1976 broadcast) names this singer; s1 (festival performance DB) lists this singer for the 1976 run with no per-date replacement, so also on 25 July. Reconciler re-read s1 and s2 (2026-10-17) and found the same name. Caveat: the festival DB seems to omit at least one per-date replacement (Fricka), so 'no replacement listed' is weaker evidence than it looks. Confirmation rests mainly on s2, which describes the recording itself.",
+   "source_ids": [
+    "s1",
+    "s2",
+    "s3"
+   ]
+  },
+  {
+   "person": {
+    "id": "elisabeth-glauser",
+    "name": "Elisabeth Glauser",
+    "image_url": null
+   },
+   "role": "Rossweisse",
+   "work_id": "wagner-die-walkure",
+   "status": "confirmed",
+   "notes": "s2 (wagnerdisco entry for the 25 July 1976 broadcast) names this singer; s1 (festival performance DB) lists this singer for the 1976 run with no per-date replacement, so also on 25 July. Reconciler re-read s1 and s2 (2026-10-17) and found the same name. Caveat: the festival DB seems to omit at least one per-date replacement (Fricka), so 'no replacement listed' is weaker evidence than it looks. Confirmation rests mainly on s2, which describes the recording itself.",
+   "source_ids": [
+    "s1",
+    "s2",
+    "s3"
+   ]
+  },
+  {
+   "person": {
+    "id": "patrice-chereau",
+    "name": "Patrice Chéreau",
+    "image_url": null
+   },
+   "role": "director",
+   "work_id": "wagner-die-walkure",
+   "status": "production_only",
+   "notes": "Stage director of the 1976 centenary production (Jahrhundertring); not a performer on the night.",
+   "source_ids": [
+    "s1",
+    "s2"
+   ]
+  },
+  {
+   "person": {
+    "id": "richard-peduzzi",
+    "name": "Richard Peduzzi",
+    "image_url": null
+   },
+   "role": "stage designer",
+   "work_id": "wagner-die-walkure",
+   "status": "production_only",
+   "notes": null,
+   "source_ids": [
+    "s1"
+   ]
+  },
+  {
+   "person": {
+    "id": "jacques-schmidt",
+    "name": "Jacques Schmidt",
+    "image_url": null
+   },
+   "role": "costume designer",
+   "work_id": "wagner-die-walkure",
+   "status": "production_only",
+   "notes": null,
+   "source_ids": [
+    "s1"
+   ]
+  }
+ ],
+ "tracks": [
+  {
+   "id": "bayreuth-76-walkuere:01",
+   "index": 1,
+   "description": "Act I, Scene 1: prelude (storm) and Siegmund's arrival ('Wes Herd dies auch sei')",
+   "title": "Act I, Scene 1: prelude (storm) and Siegmund's arrival ('Wes Herd dies auch sei')",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:01/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:02",
+   "index": 2,
+   "description": "Act I, Scene 1: 'Ein fremder Mann?' (Sieglinde finds Siegmund)",
+   "title": "Act I, Scene 1: 'Ein fremder Mann?' (Sieglinde finds Siegmund)",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:02/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:03",
+   "index": 3,
+   "description": "Act I, Scene 1: 'Kühlende Labung gab mir der Quell'",
+   "title": "Act I, Scene 1: 'Kühlende Labung gab mir der Quell'",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:03/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:04",
+   "index": 4,
+   "description": "Act I, Scene 2: Hunding's arrival ('Müd am Herd fand ich den Mann')",
+   "title": "Act I, Scene 2: Hunding's arrival ('Müd am Herd fand ich den Mann')",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:04/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:05",
+   "index": 5,
+   "description": "Act I, Scene 2: Siegmund's narration ('Friedmund darf ich nicht heissen')",
+   "title": "Act I, Scene 2: Siegmund's narration ('Friedmund darf ich nicht heissen')",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:05/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:06",
+   "index": 6,
+   "description": "Act I, Scene 2: 'Die so leidig Los dir beschied'",
+   "title": "Act I, Scene 2: 'Die so leidig Los dir beschied'",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:06/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:07",
+   "index": 7,
+   "description": "Act I, Scene 2: Hunding's challenge ('Ich weiss ein wildes Geschlecht')",
+   "title": "Act I, Scene 2: Hunding's challenge ('Ich weiss ein wildes Geschlecht')",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:07/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:08",
+   "index": 8,
+   "description": "Act I, Scene 3: Siegmund's monologue ('Ein Schwert verhiess mir der Vater', 'Wälse! Wälse!')",
+   "title": "Act I, Scene 3: Siegmund's monologue ('Ein Schwert verhiess mir der Vater', 'Wälse! Wälse!')",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:08/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:09",
+   "index": 9,
+   "description": "Act I, Scene 3: Sieglinde returns ('Schläfst du, Gast?')",
+   "title": "Act I, Scene 3: Sieglinde returns ('Schläfst du, Gast?')",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:09/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:10",
+   "index": 10,
+   "description": "Act I, Scene 3: Sieglinde's narration ('Der Männer Sippe')",
+   "title": "Act I, Scene 3: Sieglinde's narration ('Der Männer Sippe')",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:10/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:11",
+   "index": 11,
+   "description": "Act I, Scene 3: 'Winterstürme wichen dem Wonnemond'",
+   "title": "Act I, Scene 3: 'Winterstürme wichen dem Wonnemond'",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:11/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:12",
+   "index": 12,
+   "description": "Act I, Scene 3: 'Du bist der Lenz'",
+   "title": "Act I, Scene 3: 'Du bist der Lenz'",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:12/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:13",
+   "index": 13,
+   "description": "Act I, Scene 3: 'O süsseste Wonne! O seligstes Weib!'",
+   "title": "Act I, Scene 3: 'O süsseste Wonne! O seligstes Weib!'",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:13/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:14",
+   "index": 14,
+   "description": "Act I, Scene 3: 'War Wälse dein Vater' to end of Act I (Nothung drawn)",
+   "title": "Act I, Scene 3: 'War Wälse dein Vater' to end of Act I (Nothung drawn)",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:14/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:15",
+   "index": 15,
+   "description": "Act II, Scene 1: prelude and 'Nun zäume dein Ross' (Wotan, Brünnhilde, 'Hojotoho')",
+   "title": "Act II, Scene 1: prelude and 'Nun zäume dein Ross' (Wotan, Brünnhilde, 'Hojotoho')",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:15/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:16",
+   "index": 16,
+   "description": "Act II, Scene 1: Fricka's entrance ('Der alte Sturm, die alte Müh'!')",
+   "title": "Act II, Scene 1: Fricka's entrance ('Der alte Sturm, die alte Müh'!')",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:16/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:17",
+   "index": 17,
+   "description": "Act II, Scene 1: Fricka-Wotan scene continued ('Heut' hast du's erlebt!')",
+   "title": "Act II, Scene 1: Fricka-Wotan scene continued ('Heut' hast du's erlebt!')",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:17/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:18",
+   "index": 18,
+   "description": "Act II, Scene 1: end of Fricka-Wotan scene ('Was verlangst du?')",
+   "title": "Act II, Scene 1: end of Fricka-Wotan scene ('Was verlangst du?')",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:18/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:19",
+   "index": 19,
+   "description": "Act II, Scene 2: Wotan and Brünnhilde ('Schlimm, fürcht' ich, schloss der Streit')",
+   "title": "Act II, Scene 2: Wotan and Brünnhilde ('Schlimm, fürcht' ich, schloss der Streit')",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:19/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:20",
+   "index": 20,
+   "description": "Act II, Scene 2: Wotan's monologue ('Als junger Liebe Lust mir verblich')",
+   "title": "Act II, Scene 2: Wotan's monologue ('Als junger Liebe Lust mir verblich')",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:20/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:21",
+   "index": 21,
+   "description": "Act II, Scene 2: Wotan's monologue concluded ('Und für das Ende sorgt Alberich!') and Wotan's command",
+   "title": "Act II, Scene 2: Wotan's monologue concluded ('Und für das Ende sorgt Alberich!') and Wotan's command",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:21/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:22",
+   "index": 22,
+   "description": "Act II, Scene 2: Brünnhilde alone ('So sah ich Siegvater nie')",
+   "title": "Act II, Scene 2: Brünnhilde alone ('So sah ich Siegvater nie')",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:22/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:23",
+   "index": 23,
+   "description": "Act II, Scene 3: Siegmund and Sieglinde in flight ('Raste nun hier; gönne dir Ruh'!')",
+   "title": "Act II, Scene 3: Siegmund and Sieglinde in flight ('Raste nun hier; gönne dir Ruh'!')",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:23/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:24",
+   "index": 24,
+   "description": "Act II, Scene 4: Todesverkündigung ('Siegmund! Sieh auf mich!')",
+   "title": "Act II, Scene 4: Todesverkündigung ('Siegmund! Sieh auf mich!')",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:24/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:25",
+   "index": 25,
+   "description": "Act II, Scene 4 end: 'Zauberfest bezähmt ein Schlaf'",
+   "title": "Act II, Scene 4 end: 'Zauberfest bezähmt ein Schlaf'",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:25/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:26",
+   "index": 26,
+   "description": "Act II, Scene 5: the fight, Siegmund's death, to end of Act II ('Kehrte der Vater nur heim!')",
+   "title": "Act II, Scene 5: the fight, Siegmund's death, to end of Act II ('Kehrte der Vater nur heim!')",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:26/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:27",
+   "index": 27,
+   "description": "Act III, Scene 1: prelude, Ride of the Valkyries ('Hojotoho! Heiaha!')",
+   "title": "Act III, Scene 1: prelude, Ride of the Valkyries ('Hojotoho! Heiaha!')",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:27/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:28",
+   "index": 28,
+   "description": "Act III, Scene 1: Brünnhilde arrives with Sieglinde ('Schützt mich und helft in höchster Not!')",
+   "title": "Act III, Scene 1: Brünnhilde arrives with Sieglinde ('Schützt mich und helft in höchster Not!')",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:28/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:29",
+   "index": 29,
+   "description": "Act III, Scene 1: 'Nicht sehre dich Sorge um mich' (incl. Sieglinde's 'O hehrstes Wunder')",
+   "title": "Act III, Scene 1: 'Nicht sehre dich Sorge um mich' (incl. Sieglinde's 'O hehrstes Wunder')",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:29/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:30",
+   "index": 30,
+   "description": "Act III, Scene 1: 'Fort denn eile, nach Osten gewandt!' (Wotan approaches)",
+   "title": "Act III, Scene 1: 'Fort denn eile, nach Osten gewandt!' (Wotan approaches)",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:30/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:31",
+   "index": 31,
+   "description": "Act III, Scene 2: Wotan's arrival ('Wo ist Brünnhild', wo die Verbrecherin?')",
+   "title": "Act III, Scene 2: Wotan's arrival ('Wo ist Brünnhild', wo die Verbrecherin?')",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:31/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:32",
+   "index": 32,
+   "description": "Act III, Scene 2: 'Hier bin ich, Vater: gebiete die Strafe!' (Wotan's sentence, Valkyries flee)",
+   "title": "Act III, Scene 2: 'Hier bin ich, Vater: gebiete die Strafe!' (Wotan's sentence, Valkyries flee)",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:32/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:33",
+   "index": 33,
+   "description": "Act III, Scene 3: 'War es so schmählich, was ich verbrach'",
+   "title": "Act III, Scene 3: 'War es so schmählich, was ich verbrach'",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:33/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:34",
+   "index": 34,
+   "description": "Act III, Scene 3: 'So tatest du, was so gern zu tun ich begehrt'",
+   "title": "Act III, Scene 3: 'So tatest du, was so gern zu tun ich begehrt'",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:34/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:35",
+   "index": 35,
+   "description": "Act III, Scene 3: 'Wohl taugte dir nicht die tör'ge Maid'",
+   "title": "Act III, Scene 3: 'Wohl taugte dir nicht die tör'ge Maid'",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:35/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:36",
+   "index": 36,
+   "description": "Act III, Scene 3: 'Du zeugtest ein edles Geschlecht'",
+   "title": "Act III, Scene 3: 'Du zeugtest ein edles Geschlecht'",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:36/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:37",
+   "index": 37,
+   "description": "Act III, Scene 3: 'Soll fesselnder Schlaf fest mich binden'",
+   "title": "Act III, Scene 3: 'Soll fesselnder Schlaf fest mich binden'",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:37/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:38",
+   "index": 38,
+   "description": "Act III, Scene 3: Wotan's Farewell ('Leb' wohl, du kühnes, herrliches Kind!')",
+   "title": "Act III, Scene 3: Wotan's Farewell ('Leb' wohl, du kühnes, herrliches Kind!')",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:38/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:39",
+   "index": 39,
+   "description": "Act III, Scene 3: Magic Fire Music ('Loge, hör'!') to end of opera; 5.5 min track may include closing applause (not verified by listening)",
+   "title": "Act III, Scene 3: Magic Fire Music ('Loge, hör'!') to end of opera; 5.5 min track may include closing applause (not verified by listening)",
+   "work_id": "wagner-die-walkure",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:39/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "bayreuth-76-walkuere:40",
+   "index": 40,
+   "description": "Sidecar PDF insert (booklet/inlay of the release); not read, per instructions (NAS/audio folder off-limits)",
+   "title": "Sidecar PDF insert (booklet/inlay of the release); not read, per instructions (NAS/audio folder off-limits)",
+   "work_id": null,
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/bayreuth-76-walkuere:40/stream",
+   "format": "pdf"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "url": "https://www.bayreuther-festspiele.de/en/fsdb/productions/die-walkuere/1976/2065/",
+   "wayback_url": "https://web.archive.org/web/20190720210915/https://www.bayreuther-festspiele.de/fsdb/inszenierungen/die-walkuere/1976/2065/",
+   "title": "Bayreuth Festival performance database: Die Walküre, cast 1976",
+   "type": "archive_record",
+   "date_specific": true,
+   "excerpt": "Hunding: Matti Salminen, Karl Ridderbusch (08.05., 08.13., 08.22., 5.8, 13.8, 22.8) / Wotan: Donald McIntyre, Hans Sotin (08.05., 5.8) / Fricka: Yvonne Minton / Events: Sunday, 25. July 1976; Thursday, 05. August 1976; Friday, 13. August 1976; Sunday, 22. August 1976"
+  },
+  {
+   "id": "s2",
+   "url": "https://wagnerdisco.net/awa/awa-1970-1979/1976-07-25-boulez-bayreuth/",
+   "wayback_url": "https://web.archive.org/web/20260218182307/https://wagnerdisco.net/awa/awa-1970-1979/1976-07-25-boulez-bayreuth/",
+   "title": "Wagner Discography: Die Walküre 1976-07-25 Boulez Bayreuth",
+   "type": "discography",
+   "date_specific": true,
+   "excerpt": "Date/Location 25 July 1976 Festspielhaus Bayreuth ... Hunding Matti Salminen ... Fricka Eva Randová ... Media Type/Label OD ... Broadcast from the Bayreuth festival. A production by Patrice Chéreau (premiere)"
+  },
+  {
+   "id": "s3",
+   "url": "https://operadepot.com/products/wagner-die-walkure-jones-mcintyre-bode-hofmann-randova-salminen-boulez",
+   "wayback_url": "https://web.archive.org/web/20200930225814/https://operadepot.com/products/wagner-die-walkure-jones-mcintyre-bode-hofmann-randova-salminen-boulez",
+   "title": "Opera Depot OD 10747-3: Wagner, Die Walküre (Bayreuth 1976, Boulez)",
+   "type": "release_info",
+   "date_specific": false,
+   "excerpt": "Fricka – Eva Randová ... Hunding – Matti Salminen ... Location: Bayreuth / Date: 1976 / Catalogue Number: OD 10747-3 / Number of Discs: 3 / In Stereo. Track list 14 (Act I) + 12 (Act II) + 13 (Act III) = 39 tracks; no exact date given."
+  },
+  {
+   "id": "s4",
+   "url": "https://www.bayreuther-festspiele.de/en/fsdb/parts/das-rheingold/fricka/",
+   "wayback_url": null,
+   "title": "Bayreuth Festival performance database: role history, Fricka (Das Rheingold)",
+   "type": "archive_record",
+   "date_specific": false,
+   "excerpt": "1976 Eva Randová / Yvonne Minton 8/4, 8/21 (Replacement) (4.8, 21.8). 1977 Eva Randová. (Reconciler re-read 2026-10-17.)"
+  },
+  {
+   "id": "s5",
+   "url": "https://www.bayreuther-festspiele.de/en/fsdb/parts/die-walkuere/hunding/",
+   "wayback_url": null,
+   "title": "Bayreuth Festival performance database: role history, Hunding",
+   "type": "archive_record",
+   "date_specific": true,
+   "excerpt": "1976 Matti Salminen Karl Ridderbusch 8/5, 8/13, 8/22 (Replacement) (5.8, 13.8, 22.8)"
+  },
+  {
+   "id": "s6",
+   "url": "https://theatreheritage.org.au/on-stage-magazine/profiles/item/1082-marvellous-minton-yvonne-minton-at-86-part-2",
+   "wayback_url": null,
+   "title": "Marvellous Minton: Yvonne Minton at 86, part 2 (Theatre Heritage Australia)",
+   "type": "other",
+   "date_specific": false,
+   "excerpt": "Minton escalated her commitment to Bayreuth in the summer of 1976 by taking on Fricka in Das Rheingold and Die Walküre and Waltraute in Götterdämmerung"
+  },
+  {
+   "id": "s7",
+   "url": "https://wagnerdisco.net/bayreuth-recordings/",
+   "wayback_url": null,
+   "title": "Wagner Discography: Complete list of all known Bayreuth recordings",
+   "type": "discography",
+   "date_specific": true,
+   "excerpt": "1976 ... 24 July Das Rheingold (Premiere, Patrice Chéreau) Pierre Boulez broadcast; 25 July Die Walküre (Premiere, Patrice Chéreau) Pierre Boulez broadcast; 27 July Siegfried ... broadcast; 29 July Götterdämmerung ... broadcast (with G. Jones); ... 9 August Götterdämmerung Pierre Boulez in-house recording (Reconciler re-read: these are the only 1976 Ring entries; only the 9 Aug Götterdämmerung is an in-house tape, and no other 1976 Walküre is listed.)"
+  },
+  {
+   "id": "s8",
+   "url": "https://en.wikipedia.org/wiki/Jahrhundertring",
+   "wayback_url": "https://web.archive.org/web/20150606012746/http://en.wikipedia.org/wiki/Jahrhundertring",
+   "title": "Jahrhundertring (Wikipedia)",
+   "type": "wikipedia",
+   "date_specific": false,
+   "excerpt": "Singers table, 1976: 'Fricka: Yvonne Minton (Rheingold, Walküre)'; Hunding Matti Salminen; Siegmund Peter Hofmann; Sieglinde Hannelore Bode; alternates Hans Sotin (Wotan), Karl Ridderbusch (Hunding). It is production-level and gives no per-date casts."
+  },
+  {
+   "id": "s9",
+   "url": "(dossier) Bayreuth/76 Walk Bayreuth",
+   "wayback_url": null,
+   "title": "Folder name and embedded tags",
+   "type": "tags",
+   "date_specific": false,
+   "excerpt": "album 'Die Walküre - Bayreuth, '76 (1..3)'; artist 'Jones, McIntyre, Hofmann'; tag date 2012; 3 discs of 16 + 10 + 13 = 39 tracks; sidecar 'Walkuere - Insert.pdf'"
+  },
+  {
+   "id": "s10",
+   "url": "https://www.bayreuther-festspiele.de/en/fsdb/parts/die-walkuere/fricka/",
+   "wayback_url": null,
+   "title": "Bayreuth Festival performance database: role history, Fricka (Die Walküre)",
+   "type": "archive_record",
+   "date_specific": false,
+   "excerpt": "1977 Eva Randová / 1976 Yvonne Minton (no replacement listed for either year)"
+  },
+  {
+   "id": "s11",
+   "url": "https://operadepot.com/products/wagner-das-rheingold-mcintyre-randova-zednik-keleman-boulez",
+   "wayback_url": null,
+   "title": "Opera Depot OD 10746-2: Wagner, Das Rheingold (Bayreuth 1976, Boulez)",
+   "type": "release_info",
+   "date_specific": false,
+   "excerpt": "Fricka: Eva Randová ... Location: Bayreuth / Date: 1976 / Catalogue Number: OD 10746-2. Description notes that Randová's Fricka is a sharp-tongued figure rather than a regal queen."
+  },
+  {
+   "id": "s12",
+   "url": "https://wagnerdisco.net/arg/arg-1970-1979/1976-07-24-boulez-bayreuth/",
+   "wayback_url": null,
+   "title": "Wagner Discography: Das Rheingold 1976-07-24 Boulez Bayreuth",
+   "type": "discography",
+   "date_specific": true,
+   "excerpt": "24 July 1976, Festspielhaus Bayreuth ... Fricka: Eva Randová ... OD 10746 (CD cover, 2 CDs, 2012)"
+  }
+ ],
+ "resources": [
+  {
+   "url": "https://www.bayreuther-festspiele.de/en/fsdb/productions/die-walkuere/1976/2065/",
+   "wayback_url": "https://web.archive.org/web/20190720210915/https://www.bayreuther-festspiele.de/fsdb/inszenierungen/die-walkuere/1976/2065/",
+   "title": "Bayreuth Festival performance database: Die Walküre, cast 1976",
+   "kind": "archive record",
+   "description": "Official festival record of the 1976 Walküre: full cast with per-date replacements and the four performance dates, plus production photos (Impressions)."
+  },
+  {
+   "url": "https://wagnerdisco.net/awa/awa-1970-1979/1976-07-25-boulez-bayreuth/",
+   "wayback_url": "https://web.archive.org/web/20260218182307/https://wagnerdisco.net/awa/awa-1970-1979/1976-07-25-boulez-bayreuth/",
+   "title": "Wagner Discography: Die Walküre 1976-07-25 Boulez Bayreuth",
+   "kind": "discography",
+   "description": "Discography entry for the 25 July 1976 premiere broadcast, the performance this recording captures."
+  },
+  {
+   "url": "https://wagnerdisco.net/bayreuth-recordings/",
+   "wayback_url": null,
+   "title": "Wagner Discography: Complete list of all known Bayreuth recordings",
+   "kind": "discography",
+   "description": "List of all known Bayreuth broadcasts and in-house recordings; shows the whole 1976 premiere Ring was broadcast."
+  },
+  {
+   "url": "https://operadepot.com/products/wagner-die-walkure-jones-mcintyre-bode-hofmann-randova-salminen-boulez",
+   "wayback_url": "https://web.archive.org/web/20200930225814/https://operadepot.com/products/wagner-die-walkure-jones-mcintyre-bode-hofmann-randova-salminen-boulez",
+   "title": "Opera Depot OD 10747-3: Wagner, Die Walküre (Bayreuth 1976, Boulez)",
+   "kind": "release",
+   "description": "Opera Depot's 3-CD issue of this broadcast (OD 10747-3), with cast and a listener review."
+  },
+  {
+   "url": "https://theatreheritage.org.au/on-stage-magazine/profiles/item/1082-marvellous-minton-yvonne-minton-at-86-part-2",
+   "wayback_url": null,
+   "title": "Marvellous Minton: Yvonne Minton at 86, part 2 (Theatre Heritage Australia)",
+   "kind": "article",
+   "description": "Yvonne Minton profile covering her 1976 Bayreuth Fricka and Waltraute."
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Jahrhundertring",
+   "wayback_url": "https://web.archive.org/web/20150606012746/http://en.wikipedia.org/wiki/Jahrhundertring",
+   "title": "Jahrhundertring (Wikipedia)",
+   "kind": "wiki",
+   "description": "Background on Chéreau and Boulez's centenary Ring (1976-1980)."
+  },
+  {
+   "url": "https://wagnerdisco.net/arg/arg-1970-1979/1976-07-24-boulez-bayreuth/",
+   "wayback_url": null,
+   "title": "Wagner Discography: Das Rheingold 1976-07-24 Boulez Bayreuth",
+   "kind": "discography",
+   "description": "The previous night's Rheingold premiere broadcast in the same cycle (Randová as Fricka)."
+  },
+  {
+   "url": "https://www.bayreuther-festspiele.de/en/fsdb/parts/das-rheingold/fricka/",
+   "wayback_url": null,
+   "title": "Bayreuth Festival database: Fricka (Das Rheingold) role history",
+   "kind": "archive record",
+   "description": "Shows Randová and Minton sharing Fricka in the 1976 Rheingold, which is the key to who sang Fricka in this Walküre."
+  }
+ ],
+ "open_questions": [
+  "Fricka: Eva Randová or Yvonne Minton? Only the OD release (and wagnerdisco, which lists it) names Randová for 25 July. The festival DB's Walküre record names only Minton. The festival's Rheingold record shows the two sharing Fricka in 1976, with Randová in cycles 1 and 3, which favors Randová for 25 July. Listen to Act II, Scene 1 (Disc 1 track 16 to Disc 2 track 2) and compare with known Randová and Minton recordings, or read the insert PDF.",
+  "The date assumes this copy is the OD 10747-3 issue or the same 25 July broadcast (39 tracks, 2012 tag, Hofmann/McIntyre in tags). Read 'Walkuere - Insert.pdf' for the label, catalogue number and stated date; the reconciler had no NAS access and did not read it.",
+  "Hunding: Salminen (25 July) vs Ridderbusch (all three August dates) is the audible check that pins the date if the insert doesn't. Disc 1 tracks 4 and 7.",
+  "No contemporary review of the 25 July 1976 Walküre and no BR broadcast listing were read. The web-search budget ran out during reconciliation. Reviews of the premiere week (Opera, Der Spiegel, FAZ, Süddeutsche) could confirm Fricka.",
+  "Act timings from durations: Act I 63.7 min, Act II 88.0 min, Act III 66.3 min. No one has listened to check for announcements or applause; the last track (5.5 min) may include closing applause.",
+  "Wikidata QIDs not found or not checked for Irja Auroora, Adelheid Krauss, Katie Clarke, Ilse Gramatzki, Elisabeth Glauser and Jacques Schmidt.",
+  "Codex did not run (usage limit), so this record rests on one researcher's work plus the reconciler's re-checks; it was not independently cross-checked."
+ ],
+ "folder": "Bayreuth/76 Walk Bayreuth/Walkuere - Disc 1"
+}

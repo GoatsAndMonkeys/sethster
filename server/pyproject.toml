@@ -1,0 +1,20 @@
+[project]
+name = "sethster-server"
+version = "0.1.0"
+description = "Sethster: private classical-broadcast streaming server (FastAPI + SQLite)"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.143.3",
+    "uvicorn[standard]>=0.54.0",
+    "PyJWT[crypto]>=2.8",   # APNs provider tokens (ES256)
+    "httpx[http2]>=0.27",   # APNs needs HTTP/2
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["sethster_server"]
+# GET /privacy serves static/privacy.html; listed so the Docker image (pip install .) always carries it
+artifacts = ["sethster_server/static/*.html"]

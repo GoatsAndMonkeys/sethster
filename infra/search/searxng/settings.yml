@@ -1,0 +1,34 @@
+use_default_settings:
+  engines:
+    keep_only: [presearch, google, bing, duckduckgo, brave, startpage, mojeek, yahoo, qwant, wikipedia, wikidata, google scholar, reuters]
+server:
+  secret_key: "sethster-local-lan-only-not-a-secret"
+  limiter: false          # private instance, no valkey/redis needed
+  image_proxy: false
+search:
+  safe_search: 0
+  formats: [html, json]
+  default_lang: en
+outgoing:
+  request_timeout: 6.0
+  max_request_timeout: 12.0
+  pool_connections: 30
+  pool_maxsize: 10
+  enable_http2: true
+engines:
+  # general web: several providers at once, so one engine being rate-limited/CAPTCHA'd only thins the results
+  - {name: google, disabled: false}
+  - {name: bing, disabled: true}
+  - {name: duckduckgo, disabled: false}
+  - {name: brave, disabled: false}
+  - {name: startpage, disabled: false}
+  - {name: mojeek, disabled: false}
+  - {name: presearch, disabled: false}
+  - {name: yahoo, disabled: false}
+  - {name: qwant, disabled: true}
+  - {name: wikipedia, disabled: false}
+  - {name: wikidata, disabled: false}
+  - {name: google scholar, disabled: true}
+  - {name: reuters, disabled: true}
+# a misbehaving engine is suspended instead of retried on every query (rate-limit friendly)
+  # (suspend times are SearXNG defaults: 1 day for access denied / CAPTCHA, 1 min for HTTP errors)

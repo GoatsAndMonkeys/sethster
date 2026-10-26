@@ -1,0 +1,88 @@
+{
+ "items": [
+  {
+   "performance_id": "met-160409-boccanegra",
+   "performance_title": "Simon Boccanegra",
+   "question": "Track boundaries come from file durations and the Met's published timings (Prologue & Act I 93 min; intermission 35 min; Acts II & III 61 min), not from listening. Files 01-12 (98.8 min) fit the introduction plus Prologue and Act I, file 13 (37.0 min) the intermission, and files 14-21 (67.1 min) Acts II-III plus curtain calls. The Prologue/Act I and Act II/Act III breaks are not pinned. Claude put Act III from file 18 and Codex from file 19; this record follows Claude.",
+   "answer": null,
+   "answered_at": null
+  },
+  {
+   "performance_id": "met-160409-boccanegra",
+   "performance_title": "Simon Boccanegra",
+   "question": "Files 08 and 17 are almost the same length (82.1 s and 82.0 s) but differ in byte size, so they are not file copies. They are taken to be scene-change pauses with host commentary. Only listening can confirm that, or show they are the same filler audio repeated.",
+   "answer": null,
+   "answered_at": null
+  },
+  {
+   "performance_id": "vienna-840322-boccanegra",
+   "performance_title": "Simon Boccanegra",
+   "question": "Play order: the folders are out of opera order. Folder B holds CD1 tracks 1-15 (Prologue and Act I up to 'Messeri, il re di Tartaria'). Folder A Track 01 is CD1 track 16 ('Plebe! Patrizi!', the end of Act I), and A Tracks 02-13 are CD2 (Acts II-III). Play B first, then A.",
+   "answer": null,
+   "answered_at": null
+  },
+  {
+   "performance_id": "vienna-840322-boccanegra",
+   "performance_title": "Simon Boccanegra",
+   "question": "These files match the commercial CD, so this is not an off-air copy. Does the collector also hold an off-air ORF broadcast of this performance? No broadcast-day listing or ORF air date was found.",
+   "answer": null,
+   "answered_at": null
+  },
+  {
+   "performance_id": "proms-150822-prom49",
+   "performance_title": "BBC Proms 2015, Prom 49",
+   "question": "The BBC Proms Performance Archive event page for 2015 Prom 49 was not found. The exact-date Royal Albert Hall archive record, the BBC broadcast pages and listings, and four reviews of the night all agree on the performers, and none reports a substitution.",
+   "answer": null,
+   "answered_at": null
+  },
+  {
+   "performance_id": "proms-150822-prom49",
+   "performance_title": "BBC Proms 2015, Prom 49",
+   "question": "The BBC lists a repeat on Mon 7 Sep 2015 at 2pm. The folder date 150822 points to the live 22 Aug broadcast, but the audio has not been checked. Since it is the same performance, only broadcast_date would change.",
+   "answer": null,
+   "answered_at": null
+  },
+  {
+   "performance_id": "met-920307-rigoletto",
+   "performance_title": "Rigoletto",
+   "question": "The track contents are inferred only from durations and order; nobody has listened to the files. The two researchers disagreed on tracks A5-A7 and A10-B6. The merged map uses Codex's reading for A5-A7 and Claude's for A9-B6, because those give plausible act lengths: Act 1 about 56 min, Act 2 about 28 min, Act 3 about 32 min. Check by listening: does A6 hold 'Addio, addio' or the 'Gualtier Maldè' recitative? Does A10 end after 'Cortigiani'? Does B3 hold 'La donna è mobile'?",
+   "answer": null,
+   "answered_at": null
+  },
+  {
+   "performance_id": "met-920307-rigoletto",
+   "performance_title": "Rigoletto",
+   "question": "The files total about 117 min. The NYPL copy gives 2:11:41 for the opera and a further 0:52:12 for synopses and features. The roughly 15-minute gap is probably announcer act introductions, applause and pauses between scenes edited out, but missing music has not been ruled out. Is any of Peter Allen's commentary in the files?",
+   "answer": null,
+   "answered_at": null
+  },
+  {
+   "performance_id": "nypo-160322-boulez",
+   "performance_title": "The New York Philharmonic This Week, program NYP 16-26: 'Remembering Pierre Boulez' / 'The New York Philharmonic Remembers Pierre Boulez'",
+   "question": "Where did the collector get this copy, and what does 160322 mean? The 15 files match the nyphil.org on-demand segments exactly, so it was probably captured or downloaded from the NY Phil web player, not taped off air. Is 22 March 2016 the capture date? Station listings show airings on 24 and 27 March, and the NY Phil normally posted episodes online on Fridays. No 22 March airing was found.",
+   "answer": null,
+   "answered_at": null
+  },
+  {
+   "performance_id": "nypo-160322-boulez",
+   "performance_title": "The New York Philharmonic This Week, program NYP 16-26: 'Remembering Pierre Boulez' / 'The New York Philharmonic Remembers Pierre Boulez'",
+   "question": "La Mer date: the listing says 3/16/88, but the NYP Performance History has no Boulez/NYP concert in March 1988. 16 March 1976 at Avery Fisher Hall fits the day and month; 18 June 1988 is the only 1988 date. Hearing the host's back announcement in file 03 may settle it.",
+   "answer": null,
+   "answered_at": null
+  },
+  {
+   "performance_id": "bayreuth-76-walkuere",
+   "performance_title": "Die Walküre",
+   "question": "Fricka: Eva Randová or Yvonne Minton? Only the OD release (and wagnerdisco, which lists it) names Randová for 25 July. The festival DB's Walküre record names only Minton. The festival's Rheingold record shows the two sharing Fricka in 1976, with Randová in cycles 1 and 3, which favors Randová for 25 July. Listen to Act II, Scene 1 (Disc 1 track 16 to Disc 2 track 2) and compare with known Randová and Minton recordings, or read the insert PDF.",
+   "answer": null,
+   "answered_at": null
+  },
+  {
+   "performance_id": "bayreuth-76-walkuere",
+   "performance_title": "Die Walküre",
+   "question": "The date assumes this copy is the OD 10747-3 issue or the same 25 July broadcast (39 tracks, 2012 tag, Hofmann/McIntyre in tags). Read 'Walkuere - Insert.pdf' for the label, catalogue number and stated date; the reconciler had no NAS access and did not read it.",
+   "answer": null,
+   "answered_at": null
+  }
+ ]
+}

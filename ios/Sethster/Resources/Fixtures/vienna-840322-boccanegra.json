@@ -1,0 +1,869 @@
+{
+ "id": "vienna-840322-boccanegra",
+ "title": "Simon Boccanegra",
+ "subtitle": "Bruson, Ricciarelli, Raimondi · Abbado",
+ "composers": [
+  {
+   "id": "giuseppe-verdi",
+   "name": "Giuseppe Verdi"
+  }
+ ],
+ "date": "1984-03-22",
+ "date_status": "confirmed",
+ "venue": {
+  "id": "wiener-staatsoper",
+  "name": "Wiener Staatsoper",
+  "city": "Vienna"
+ },
+ "kind": "commercial_release",
+ "collection": "Vienna",
+ "duration_s": 16800,
+ "artwork_url": null,
+ "confirmed_ratio": 1.0,
+ "summary": "Verdi's Simon Boccanegra (1881 version) at the Wiener Staatsoper on 22 March 1984. This was the Vienna premiere of the Strehler/Frigerio production, conducted by Claudio Abbado with Bruson, Ricciarelli, Raimondi and Luchetti. The 28 files are a track-for-track rip of the RCA Red Seal/BMG 'Wiener Staatsoper Live' 2-CD release 74321 57733-2 (1998) of Austrian Radio's (ORF) live recording of that night. They are not an off-air copy.",
+ "date_evidence": "The folder '840322' means 1984-03-22. The Staatsoper's own per-performance record (s1, re-read by the reconciler) lists 22.03.1984, Thursday 19:00, as the PREMIERE of the new Simon Boccanegra production. The release notes say 'Live recording by Austrian Radio (ORF) on March 22 1984' (s3), and Operadis, Busse and the Wiener Philharmoniker discography all give 22 March 1984 (s6, s5, s14). The 28 file durations match the RCA 2-CD track list (s4), within about 1 s on 27 tracks and 3 s on one. The release has Luchetti as Adorno, who sang only on 22.03; Carreras sang Adorno from 25.03 on (s2, s12). That independently fits the stated date.",
+ "candidate_dates": [
+  "1984-03-22"
+ ],
+ "broadcast_date": null,
+ "broadcaster": "ORF (Austrian Radio) made the original live recording, per the release data (s3). No broadcast-day listing was found, so the air date is unknown.",
+ "event_name": "Wiener Staatsoper: premiere of the new production (Giorgio Strehler staging, originally La Scala 1971)",
+ "program": [
+  {
+   "work_id": "verdi-simon-boccanegra",
+   "title": "Simon Boccanegra",
+   "composer": {
+    "id": "giuseppe-verdi",
+    "name": "Giuseppe Verdi"
+   },
+   "catalogue": null,
+   "notes": "1881 revised version (libretto by Piave, revised by Boito). Complete: prologue and three acts, about 134.7 min, sung in Italian."
+  }
+ ],
+ "credits": [
+  {
+   "person": {
+    "id": "renato-bruson",
+    "name": "Renato Bruson",
+    "image_url": null
+   },
+   "role": "Simon Boccanegra",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1",
+    "s3",
+    "s5",
+    "s6",
+    "s12"
+   ]
+  },
+  {
+   "person": {
+    "id": "katia-ricciarelli",
+    "name": "Katia Ricciarelli",
+    "image_url": null
+   },
+   "role": "Amelia Grimaldi (Maria Boccanegra)",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1",
+    "s3",
+    "s5",
+    "s6",
+    "s12"
+   ]
+  },
+  {
+   "person": {
+    "id": "ruggero-raimondi",
+    "name": "Ruggero Raimondi",
+    "image_url": null
+   },
+   "role": "Jacopo Fiesco (Andrea Grimaldi)",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1",
+    "s3",
+    "s5",
+    "s6",
+    "s12"
+   ]
+  },
+  {
+   "person": {
+    "id": "veriano-luchetti",
+    "name": "Veriano Luchetti",
+    "image_url": null
+   },
+   "role": "Gabriele Adorno",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": "Sang the premiere on 22.03.1984 only. José Carreras sang Adorno on 25, 28 and 31 March and 3 April 1984 (s2, s12). Busse spells the name 'Lucchetti'.",
+   "source_ids": [
+    "s1",
+    "s3",
+    "s5",
+    "s6",
+    "s12"
+   ]
+  },
+  {
+   "person": {
+    "id": "felice-schiavi",
+    "name": "Felice Schiavi",
+    "image_url": null
+   },
+   "role": "Paolo Albiani",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1",
+    "s3",
+    "s5",
+    "s6",
+    "s12"
+   ]
+  },
+  {
+   "person": {
+    "id": "konstantin-sfiris",
+    "name": "Konstantin Sfiris",
+    "image_url": null
+   },
+   "role": "Pietro",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": "Q136633594 is a sparse Wikidata item: label, birth year and GND/VIAF IDs, no description. Matched by exact name. Moderately confident.",
+   "source_ids": [
+    "s1",
+    "s3",
+    "s5",
+    "s6",
+    "s12"
+   ]
+  },
+  {
+   "person": {
+    "id": "ewald-aichberger",
+    "name": "Ewald Aichberger",
+    "image_url": null
+   },
+   "role": "Un capitano dei balestrieri (Ein Hauptmann der Armbrustschützen)",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": "Q136633595 is a sparse Wikidata item: label, birth year and GND/VIAF IDs, no description. Matched by exact name. Moderately confident.",
+   "source_ids": [
+    "s1",
+    "s3",
+    "s5",
+    "s6",
+    "s12"
+   ]
+  },
+  {
+   "person": {
+    "id": "anna-gonda",
+    "name": "Anna Gonda",
+    "image_url": null
+   },
+   "role": "Un'ancella di Amelia (Eine Dienerin Amelias)",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1",
+    "s3",
+    "s5",
+    "s6",
+    "s12"
+   ]
+  },
+  {
+   "person": {
+    "id": "claudio-abbado",
+    "name": "Claudio Abbado",
+    "image_url": null
+   },
+   "role": "conductor",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1",
+    "s3",
+    "s5",
+    "s6",
+    "s12"
+   ]
+  },
+  {
+   "person": {
+    "id": "orchester-der-wiener-staatsoper",
+    "name": "Orchester der Wiener Staatsoper",
+    "image_url": null
+   },
+   "role": "orchestra",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": "s1 has no orchestra row. The release credits (s3) and s12 name the house orchestra. s14 files it under 'Wiener Philharmoniker', whose players form the Staatsoper orchestra. No Wikidata QID was found.",
+   "source_ids": [
+    "s3",
+    "s5",
+    "s6",
+    "s12"
+   ]
+  },
+  {
+   "person": {
+    "id": "chor-der-wiener-staatsoper",
+    "name": "Chor der Wiener Staatsoper",
+    "image_url": null
+   },
+   "role": "chorus",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": "No Wikidata QID was found.",
+   "source_ids": [
+    "s3",
+    "s5",
+    "s6",
+    "s12"
+   ]
+  },
+  {
+   "person": {
+    "id": "helmuth-froschauer",
+    "name": "Helmuth Froschauer",
+    "image_url": null
+   },
+   "role": "chorus master",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1",
+    "s12"
+   ]
+  },
+  {
+   "person": {
+    "id": "giorgio-strehler",
+    "name": "Giorgio Strehler",
+    "image_url": null
+   },
+   "role": "director (Inszenierung)",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": "The production originated at La Scala (1971) and was brought to Vienna (s7, s16).",
+   "source_ids": [
+    "s1",
+    "s12"
+   ]
+  },
+  {
+   "person": {
+    "id": "ezio-frigerio",
+    "name": "Ezio Frigerio",
+    "image_url": null
+   },
+   "role": "set and costume designer (Ausstattung)",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1",
+    "s12"
+   ]
+  },
+  {
+   "person": {
+    "id": "marise-flach",
+    "name": "Marise Flach",
+    "image_url": null
+   },
+   "role": "choreographic assistant",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1"
+   ]
+  }
+ ],
+ "tracks": [
+  {
+   "id": "vienna-840322-boccanegra:01",
+   "index": 1,
+   "description": "Act I, Sc. X-XII: Council Chamber: \"Plebe! Patrizi! Popolo\" ... curse scene - end of Act I [= RCA 74321 57733-2 CD1 track 16, 641.3s] PLAY ORDER: folder B (CD1 tracks 1-15) comes first, then A Track 01 (CD1 track 16), then A Tracks 02-13 (CD2).",
+   "title": "Act I, Sc. X-XII: Council Chamber: \"Plebe! Patrizi! Popolo\" ... curse scene - end of Act I [= RCA 74321 57733-2 CD1 track 16, 641.3s] PLAY ORDER: folder B (CD1 tracks 1-15) comes first, then A Track 01 (CD1 track 16), then A Tracks 02-13 (CD2).",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:01/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:02",
+   "index": 2,
+   "description": "Act II, Sc. I-III: \"Quei due vedesti?\" (Paolo, Pietro, Fiesco) [= RCA 74321 57733-2 CD2 track 1, 242.5s]",
+   "title": "Act II, Sc. I-III: \"Quei due vedesti?\" (Paolo, Pietro, Fiesco) [= RCA 74321 57733-2 CD2 track 1, 242.5s]",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:02/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:03",
+   "index": 3,
+   "description": "Act II, Sc. IV: \"Udisti?\" - \"Vil disegno\" (Paolo, Gabriele) [= RCA 74321 57733-2 CD2 track 2, 34.8s]",
+   "title": "Act II, Sc. IV: \"Udisti?\" - \"Vil disegno\" (Paolo, Gabriele) [= RCA 74321 57733-2 CD2 track 2, 34.8s]",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:03/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:04",
+   "index": 4,
+   "description": "Act II, Sc. V: \"O inferno! Amelia qui!\" / \"Sento avvampar nell'anima\" (Gabriele) [= RCA 74321 57733-2 CD2 track 3, 291.6s]",
+   "title": "Act II, Sc. V: \"O inferno! Amelia qui!\" / \"Sento avvampar nell'anima\" (Gabriele) [= RCA 74321 57733-2 CD2 track 3, 291.6s]",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:04/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:05",
+   "index": 5,
+   "description": "Act II, Sc. VI: \"Tu qui?\" - \"Amelia\" (Amelia, Gabriele) [= RCA 74321 57733-2 CD2 track 4, 259.9s]",
+   "title": "Act II, Sc. VI: \"Tu qui?\" - \"Amelia\" (Amelia, Gabriele) [= RCA 74321 57733-2 CD2 track 4, 259.9s]",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:05/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:06",
+   "index": 6,
+   "description": "Act II, Sc. VII: \"Figlia!\" - \"Sì afflitto, o padre mio\" (Simon, Amelia) [= RCA 74321 57733-2 CD2 track 5, 348.0s]",
+   "title": "Act II, Sc. VII: \"Figlia!\" - \"Sì afflitto, o padre mio\" (Simon, Amelia) [= RCA 74321 57733-2 CD2 track 5, 348.0s]",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:06/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:07",
+   "index": 7,
+   "description": "Act II, Sc. VIII-IX: \"Ei dorme! Quale sento ritegno?\" (Gabriele, Amelia, Simon) [= RCA 74321 57733-2 CD2 track 6, 188.5s]",
+   "title": "Act II, Sc. VIII-IX: \"Ei dorme! Quale sento ritegno?\" (Gabriele, Amelia, Simon) [= RCA 74321 57733-2 CD2 track 6, 188.5s]",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:07/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:08",
+   "index": 8,
+   "description": "Act II, Sc. VIII-IX: \"Perdon, Amelia... Indomito geloso\" (trio) - end of Act II [= RCA 74321 57733-2 CD2 track 7, 296.9s]",
+   "title": "Act II, Sc. VIII-IX: \"Perdon, Amelia... Indomito geloso\" (trio) - end of Act II [= RCA 74321 57733-2 CD2 track 7, 296.9s]",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:08/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:09",
+   "index": 9,
+   "description": "Act III, Sc. I-II: \"Evviva il Doge!\" (chorus, Captain, Fiesco, Paolo) [= RCA 74321 57733-2 CD2 track 8, 279.6s]",
+   "title": "Act III, Sc. I-II: \"Evviva il Doge!\" (chorus, Captain, Fiesco, Paolo) [= RCA 74321 57733-2 CD2 track 8, 279.6s]",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:09/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:10",
+   "index": 10,
+   "description": "Act III, Sc. III: \"Cittadini! per ordine del Doge\" (Captain) [= RCA 74321 57733-2 CD2 track 9, 105.0s]",
+   "title": "Act III, Sc. III: \"Cittadini! per ordine del Doge\" (Captain) [= RCA 74321 57733-2 CD2 track 9, 105.0s]",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:10/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:11",
+   "index": 11,
+   "description": "Act III, Sc. III: \"M'ardon le tempia\" (Simon, Fiesco) [= RCA 74321 57733-2 CD2 track 10, 441.0s]",
+   "title": "Act III, Sc. III: \"M'ardon le tempia\" (Simon, Fiesco) [= RCA 74321 57733-2 CD2 track 10, 441.0s]",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:11/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:12",
+   "index": 12,
+   "description": "Act III, Sc. III: \"Piango, perché mi parla\" (Fiesco, Simon) [= RCA 74321 57733-2 CD2 track 11, 227.1s]",
+   "title": "Act III, Sc. III: \"Piango, perché mi parla\" (Fiesco, Simon) [= RCA 74321 57733-2 CD2 track 11, 227.1s]",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:12/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:13",
+   "index": 13,
+   "description": "Act III, Sc. IV: \"Chi veggo!\" - finale \"Gran Dio, li benedici\" (Amelia, Simon, Gabriele, Fiesco, chorus) - end of opera [= RCA 74321 57733-2 CD2 track 12, 622.5s]",
+   "title": "Act III, Sc. IV: \"Chi veggo!\" - finale \"Gran Dio, li benedici\" (Amelia, Simon, Gabriele, Fiesco, chorus) - end of opera [= RCA 74321 57733-2 CD2 track 12, 622.5s]",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:13/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:14",
+   "index": 14,
+   "description": "Prologue, Sc. I-IV: \"Che dicesti?\" (Paolo, Pietro - Simon) [= RCA 74321 57733-2 CD1 track 1, 298.6s]",
+   "title": "Prologue, Sc. I-IV: \"Che dicesti?\" (Paolo, Pietro - Simon) [= RCA 74321 57733-2 CD1 track 1, 298.6s]",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:14/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:15",
+   "index": 15,
+   "description": "Prologue, Sc. I-IV: \"All'alba tutti qui verrete\" (Pietro, chorus, Paolo) [= RCA 74321 57733-2 CD1 track 2, 111.3s]",
+   "title": "Prologue, Sc. I-IV: \"All'alba tutti qui verrete\" (Pietro, chorus, Paolo) [= RCA 74321 57733-2 CD1 track 2, 111.3s]",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:15/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:16",
+   "index": 16,
+   "description": "Prologue, Sc. I-IV: \"L'atra magion vedete?\" (Paolo, chorus, Pietro) [= RCA 74321 57733-2 CD1 track 3, 177.7s]",
+   "title": "Prologue, Sc. I-IV: \"L'atra magion vedete?\" (Paolo, chorus, Pietro) [= RCA 74321 57733-2 CD1 track 3, 177.7s]",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:16/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:17",
+   "index": 17,
+   "description": "Prologue, Sc. V: \"A te l'estremo addio\" / \"Il lacerato spirito\" (Fiesco, chorus) [= RCA 74321 57733-2 CD1 track 4, 318.4s]",
+   "title": "Prologue, Sc. V: \"A te l'estremo addio\" / \"Il lacerato spirito\" (Fiesco, chorus) [= RCA 74321 57733-2 CD1 track 4, 318.4s]",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:17/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:18",
+   "index": 18,
+   "description": "Prologue, Sc. VI-VII: \"Suona ogni labbro il mio nome\" (Simon, Fiesco) [= RCA 74321 57733-2 CD1 track 5, 366.9s]",
+   "title": "Prologue, Sc. VI-VII: \"Suona ogni labbro il mio nome\" (Simon, Fiesco) [= RCA 74321 57733-2 CD1 track 5, 366.9s]",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:18/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:19",
+   "index": 19,
+   "description": "Prologue, Sc. VI-VII: \"Oh de' Fieschi implacata\" (Simon, Fiesco, chorus) - end of Prologue [= RCA 74321 57733-2 CD1 track 6, 253.9s] NOTE: MusicBrainz lists this release track at 257s, 3.1s longer than the file; cause unknown (see open_questions).",
+   "title": "Prologue, Sc. VI-VII: \"Oh de' Fieschi implacata\" (Simon, Fiesco, chorus) - end of Prologue [= RCA 74321 57733-2 CD1 track 6, 253.9s] NOTE: MusicBrainz lists this release track at 257s, 3.1s longer than the file; cause unknown (see open_questions).",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:19/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:20",
+   "index": 20,
+   "description": "Act I, Sc. I: \"Come in quest'ora bruna\" (Amelia) [= RCA 74321 57733-2 CD1 track 7, 400.4s]",
+   "title": "Act I, Sc. I: \"Come in quest'ora bruna\" (Amelia) [= RCA 74321 57733-2 CD1 track 7, 400.4s]",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:20/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:21",
+   "index": 21,
+   "description": "Act I, Sc. II: \"Cielo di stelle orbato\" (Gabriele, Amelia) [= RCA 74321 57733-2 CD1 track 8, 146.1s] (MusicBrainz: 145s; within ~1s.)",
+   "title": "Act I, Sc. II: \"Cielo di stelle orbato\" (Gabriele, Amelia) [= RCA 74321 57733-2 CD1 track 8, 146.1s] (MusicBrainz: 145s; within ~1s.)",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:21/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:22",
+   "index": 22,
+   "description": "Act I, Sc. III: \"Vieni a mirar la cerula\" (Amelia) [= RCA 74321 57733-2 CD1 track 9, 162.5s]",
+   "title": "Act I, Sc. III: \"Vieni a mirar la cerula\" (Amelia) [= RCA 74321 57733-2 CD1 track 9, 162.5s]",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:22/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:23",
+   "index": 23,
+   "description": "Act I, Sc. IV: \"Ah!\" - \"Che fia?\" (Amelia, Gabriele) [= RCA 74321 57733-2 CD1 track 10, 117.9s]",
+   "title": "Act I, Sc. IV: \"Ah!\" - \"Che fia?\" (Amelia, Gabriele) [= RCA 74321 57733-2 CD1 track 10, 117.9s]",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:23/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:24",
+   "index": 24,
+   "description": "Act I, Sc. V: \"Propizio giunge\" (Gabriele, Fiesco) [= RCA 74321 57733-2 CD1 track 11, 264.7s]",
+   "title": "Act I, Sc. V: \"Propizio giunge\" (Gabriele, Fiesco) [= RCA 74321 57733-2 CD1 track 11, 264.7s]",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:24/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:25",
+   "index": 25,
+   "description": "Act I, Sc. VI: \"Paolo\" - \"Signor\" (Simon, Paolo, Amelia) [= RCA 74321 57733-2 CD1 track 12, 214.1s]",
+   "title": "Act I, Sc. VI: \"Paolo\" - \"Signor\" (Simon, Paolo, Amelia) [= RCA 74321 57733-2 CD1 track 12, 214.1s]",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:25/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:26",
+   "index": 26,
+   "description": "Act I, Sc. VII: \"Orfanella il tetto umile\" - Recognition duet (Amelia, Simon) [= RCA 74321 57733-2 CD1 track 13, 586.3s]",
+   "title": "Act I, Sc. VII: \"Orfanella il tetto umile\" - Recognition duet (Amelia, Simon) [= RCA 74321 57733-2 CD1 track 13, 586.3s]",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:26/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:27",
+   "index": 27,
+   "description": "Act I, Sc. VIII-IX: \"Il vuoi! Scordasti che mi devi\" (Paolo, Pietro) [= RCA 74321 57733-2 CD1 track 14, 54.1s]",
+   "title": "Act I, Sc. VIII-IX: \"Il vuoi! Scordasti che mi devi\" (Paolo, Pietro) [= RCA 74321 57733-2 CD1 track 14, 54.1s]",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:27/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "vienna-840322-boccanegra:28",
+   "index": 28,
+   "description": "Act I, Sc. X-XII: Council Chamber: \"Messeri, il re di Tartaria\" (Simon, chorus, Paolo, Pietro, Gabriele, Fiesco) [= RCA 74321 57733-2 CD1 track 15, 628.8s]",
+   "title": "Act I, Sc. X-XII: Council Chamber: \"Messeri, il re di Tartaria\" (Simon, chorus, Paolo, Pietro, Gabriele, Fiesco) [= RCA 74321 57733-2 CD1 track 15, 628.8s]",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 600,
+   "stream_url": "/api/tracks/vienna-840322-boccanegra:28/stream",
+   "format": "mp3"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "url": "https://archiv.wiener-staatsoper.at/performances/9206",
+   "wayback_url": "https://web.archive.org/web/20191120135620/https://archiv.wiener-staatsoper.at/performances/9206",
+   "title": "Spielplanarchiv der Wiener Staatsoper: Simon Boccanegra, 22.03.1984 (Premiere)",
+   "type": "archive_record",
+   "date_specific": true,
+   "excerpt": "Simon Boccanegra PREMIERE 22 März 1984 Donnerstag 19:00 Uhr ... Besetzung | 22.03.1984 Dirigent Claudio Abbado Inszenierung Giorgio Strehler Ausstattung Ezio Frigerio Choreographische Assistenz Marise Flach Chorleitung Helmuth Froschauer Simon Boccanegra Renato Bruson Amelia Grimaldi Katia Ricciarelli Jacopo Fiesco Ruggero Raimondi Paolo Albiani Felice Schiavi Pietro Konstantin Sfiris Gabriele Adorno Veriano Luchetti Ein Hauptmann der Armbrustschützen Ewald Aichberger Eine Dienerin Amelias Anna Gonda [Re-read by the reconciler 2026-10-17. The page has no note of any Umbesetzung, indisposition or replacement.] Further snapshots: 20240228014425, 20241111191935."
+  },
+  {
+   "id": "s2",
+   "url": "https://archiv.wiener-staatsoper.at/performances/9207",
+   "wayback_url": "https://web.archive.org/web/20240228195000/https://archiv.wiener-staatsoper.at/performances/9207",
+   "title": "Spielplanarchiv der Wiener Staatsoper: Simon Boccanegra, 25.03.1984 (2nd performance)",
+   "type": "archive_record",
+   "date_specific": true,
+   "excerpt": "'2. Aufführung in dieser Inszenierung' Sonntag 25. März 1984 19:00 ... Gabriele Adorno José Carreras. All other singers and the production team as on 22.03.1984 (Abbado, Bruson, Ricciarelli, Raimondi, Schiavi, Sfiris, Aichberger, Gonda). Re-read by the reconciler."
+  },
+  {
+   "id": "s3",
+   "url": "https://www.discogs.com/release/17681137",
+   "wayback_url": "https://web.archive.org/web/20210321124910/https://www.discogs.com/release/17681137",
+   "title": "Discogs: Verdi - Simon Boccanegra, Bruson/Ricciarelli/Raimondi/Luchetti, Abbado (RCA Red Seal / Wiener Staatsoper Live / ORF 74321577332, 1998)",
+   "type": "release_info",
+   "date_specific": true,
+   "excerpt": "Notes: 'Live recording by Austrian Radio (ORF) on March 22 1984. Fat box, 40 pages booklet.' Labels: RCA Red Seal / BMG Classics / ORF 74321577332, released 1998. Credits: Bruson, Ricciarelli, Raimondi, Luchetti, Schiavi, Sfiris, Gonda, Aichberger; Wiener Staatsopernchor, Orchester der Wiener Staatsoper, Claudio Abbado. Re-read via api.discogs.com by the reconciler."
+  },
+  {
+   "id": "s4",
+   "url": "https://musicbrainz.org/release/bd3d7fda-25cc-45c1-8682-b684f3575e2e",
+   "wayback_url": null,
+   "title": "MusicBrainz: Simon Boccanegra (RCA Red Seal 74321577332, 1998), 2 discs, 28 tracks",
+   "type": "release_info",
+   "date_specific": true,
+   "excerpt": "Release date 1998, RCA Red Seal 74321577332. Disc 1: 16 tracks (1 'Che dicesti?' 299s; 6 'O de' Fieschi implacata' 257s; 8 'Cielo di stelle orbato' 145s; 15 'Messeri, il re di Tartari' 629s; 16 'Plebe, Patrizi, Popolo' 641s). Disc 2: 12 tracks (1 'Quei due vedesti?' 242s; 12 'Chi veggo!' 622s). Re-read via the MusicBrainz WS2 API by the reconciler. 27 of 28 tracks match the files within about 1 s; disc 1 track 6 is 3 s longer."
+  },
+  {
+   "id": "s5",
+   "url": "https://user.phil-fak.uni-duesseldorf.de/~busse/SimonB/html/simon_boccanegra_16.html",
+   "wayback_url": null,
+   "title": "Busse, Simon Boccanegra discography (Univ. Duesseldorf): navigate by dates",
+   "type": "discography",
+   "date_specific": true,
+   "excerpt": "1984/03/22 Live Wien ... Simon B.: Renato Bruson; Amelia: Katia Ricciarelli; Fiesco: Ruggero Raimondi; Adorno: Veriano Lucchetti; Paolo: Felice Schiavi; Pietro: Konstantin Sfiris; Capo: Ewald Aichberger; Ancella: Anna Gonda; Chorus and Orchestra of the Wiener Staatsoper; Claudio Abbado; BMG RCA 74321 577 332 (2CD), BMG RCA 74321 59861 2 (12 CD; 'Wiener Staatsoper') [Re-read by the reconciler. The page has only this 1984 Vienna entry. Its asterisk after 'Live Wien' has no explanatory note.]"
+  },
+  {
+   "id": "s6",
+   "url": "https://www.operadis-opera-discography.org.uk/ALVESIMO.HTM",
+   "wayback_url": "https://web.archive.org/web/20240225045057/https://www.operadis-opera-discography.org.uk/ALVESIMO.HTM",
+   "title": "Operadis: recordings of Simon Boccanegra",
+   "type": "discography",
+   "date_specific": true,
+   "excerpt": "Recording of a performance at the Vienna State Opera (22 March 1984; see OPERA June 1984 pp.631-632) ... Simon Boccanegra - Renato Bruson; Jacopo Fiesco - Ruggero Raimondi; Amelia Grimaldi - Katia Ricciarelli; Gabriele Adorno - Veriano Luchetti; Paolo Albiani - Felice Schiavi; Pietro - Konstantin Sfiris; Un'ancella - Anna Gonda; Un capitano dei balestrieri - Ewald Aichberger. Compact Disc - RCA 'Wiener Staatsoper Live' 74321 57733-2 (2CDs) (1999) Reviews cited: Gramophone Feb 1999 p.96; Fanfare 22/5 May/June 1999; Orpheus März 1999; Opera Quarterly 17/2 2001; Diapason 455 Jan 1999. [Re-read by the reconciler.]"
+  },
+  {
+   "id": "s7",
+   "url": "https://parterre.com/2019/08/24/wien-disposition/",
+   "wayback_url": "https://web.archive.org/web/20250711114745/https://parterre.com/2019/08/24/wien-disposition/",
+   "title": "parterre box: 'Wien disposition' (2019)",
+   "type": "review",
+   "date_specific": false,
+   "excerpt": "a spectacular Simon Boccanegra from 1984 (the Strehler production having been imported from Milan), with an exciting cast that included Renato Bruson, Katia Ricciarelli, Veriano Luccheti, and Ruggiero Raimondi ... previously on RCA but now out of print"
+  },
+  {
+   "id": "s8",
+   "url": "https://musicbrainz.org/release/c380129e-4fad-4fb6-a796-d99e6864f904",
+   "wayback_url": null,
+   "title": "MusicBrainz search result: Japanese issue BVCC-37011 (1998-12-02), 28 tracks",
+   "type": "release_info",
+   "date_specific": false,
+   "excerpt": "Seen only as a MusicBrainz search hit (title, date, catalogue, track count); release page not read."
+  },
+  {
+   "id": "s9",
+   "url": "https://www.wikidata.org/",
+   "wayback_url": null,
+   "title": "Wikidata entity searches (wbsearchentities / wbgetentities)",
+   "type": "wikidata",
+   "date_specific": false,
+   "excerpt": "Q7317 Giuseppe Verdi; Q548161 Simon Boccanegra (opera by Verdi); Q942833 Renato Bruson; Q242538 Katia Ricciarelli; Q950894 Ruggero Raimondi; Q239347 Veriano Luchetti; Q67214811 Felice Schiavi (Italian baritone, b.1931); Q18669756 Anna Gonda (Hungarian singer); Q151608 Claudio Abbado; Q209937 Vienna State Opera house; Q737794 Giorgio Strehler; Q328177 Ezio Frigerio; Q114853 Helmuth Froschauer (Austrian conductor and choir director)"
+  },
+  {
+   "id": "s10",
+   "url": "file:dossiers/vienna-840322-boccanegra.json",
+   "wayback_url": null,
+   "title": "Dossier: folder name and track durations",
+   "type": "tags",
+   "date_specific": false,
+   "excerpt": "Folder 'Vienna/840322 Simon Boccanegra Bruson Vienna' A (13 tracks, 66.3 min) + B (15 tracks, 68.4 min); tags only 'Track NN'."
+  },
+  {
+   "id": "s11",
+   "url": "https://operadis-opera-discography.org.uk/ALSIBRUS.HTM",
+   "wayback_url": "https://web.archive.org/web/20241102201555/https://operadis-opera-discography.org.uk/ALSIBRUS.HTM",
+   "title": "Operadis: Renato Bruson discography (Simon Boccanegra)",
+   "type": "discography",
+   "date_specific": true,
+   "excerpt": "Codex: 'The RCA cast entry is identified as a recording at the Vienna State Opera on 22 March 1984.' On re-fetch the reconciler saw only the index line 'VERDI GIUSEPPE - SIMON BOCCANEGRA-Wiener Staatsoper - Abbado Claudio 1984(LI)*' because the page was truncated."
+  },
+  {
+   "id": "s12",
+   "url": "https://www.ne.jp/asahi/claudio/abbado/wienerphil/wienerphil2.html",
+   "wayback_url": "https://web.archive.org/web/20260323044016/https://www.ne.jp/asahi/claudio/abbado/wienerphil/wienerphil2.html",
+   "title": "Claudio Abbado Shiryokan: Vienna performances, 1984",
+   "type": "other",
+   "date_specific": true,
+   "excerpt": "Simon Boccanegra, '22 (Premiere), 25, 28, & 31 März, 3 April 1984' ... 'Veriano Luchetti (22 März), José Carreras (25, 28, & 31 März, 3 April) (Gabriele Adorno)'. Bruson, Ricciarelli, Raimondi, Schiavi, Sfiris, Aichberger, Gonda; Strehler, Frigerio, Froschauer; Orchester und Chor der Wiener Staatsoper. Re-read by the reconciler. This is a fan chronology, not an official record."
+  },
+  {
+   "id": "s13",
+   "url": "https://www.cede.com/en/classic/claudio-abbado-rca-and-sony-album-collection-39-cds-100179145",
+   "wayback_url": null,
+   "title": "cede.com: Claudio Abbado, The Complete RCA and Sony Album Collection (track listing)",
+   "type": "release_info",
+   "date_specific": true,
+   "excerpt": "Codex: discs 33-34 list all 28 live tracks and durations, each matching a dossier file within rounding. The reconciler's re-fetch got HTTP 403."
+  },
+  {
+   "id": "s14",
+   "url": "https://wph.zouri.jp/Rack2-4.html",
+   "wayback_url": "https://web.archive.org/web/20150818082709/https://wph.zouri.jp/Rack2-4.html",
+   "title": "Wiener Philharmoniker stereophonic discography: BMG 74321 57733 2",
+   "type": "discography",
+   "date_specific": true,
+   "excerpt": "'BMG *74321 57733 2 Giuseppe Verdi SIMON BOCCANEGRA' ... 'Wiener Philharmoniker | Claudio Abbado' ... Rec. Date, Location '1984 March 22 | Wiener Staatsoper'; CD1 #1-16, CD2 #1-12. Re-read by the reconciler."
+  },
+  {
+   "id": "s15",
+   "url": "https://www.mediatheques.strasbourg.eu/doc/RADIOFRANCE/2023M32814E0246/l-orchestre-dans-l-opera-italien-3-4-l-orchestre-verdien-1",
+   "wayback_url": null,
+   "title": "Radio France: L'orchestre dans l'opéra italien (3/4), l'orchestre verdien",
+   "type": "broadcast_listing",
+   "date_specific": true,
+   "excerpt": "Codex: the program names the Vienna chorus and orchestra, Abbado, Bruson and Schiavi, and gives the recording date as 22.3.1984. This is a later radio feature using the CD, not a 1984 broadcast. The reconciler's re-fetch got ECONNREFUSED."
+  },
+  {
+   "id": "s16",
+   "url": "https://www.diepresse.com/5635734/simon-boccanegra-es-ist-duester-weil-es-duester-sein-muss",
+   "wayback_url": null,
+   "title": "Die Presse: 'Simon Boccanegra: Es ist düster, weil es düster sein muss'",
+   "type": "review",
+   "date_specific": false,
+   "excerpt": "Codex: a retrospective that dates the Strehler production's Vienna premiere to March 1984 and names Abbado, Bruson, Raimondi and Ricciarelli. The reconciler could not re-fetch it (domain blocked)."
+  },
+  {
+   "id": "s17",
+   "url": "https://www.copyrightencyclopedia.com/altenberg-lieder-op-4-drei-stucke-aus-der-lyrischen-suite/",
+   "wayback_url": null,
+   "title": "US copyright registration SR0000277310: Simon Boccanegra, RCA Victor 74321 57733 2",
+   "type": "release_info",
+   "date_specific": false,
+   "excerpt": "'Simon Boccanegra / Guiseppe Verdi.' Publisher Number 'RCAVictor 74321 57733 2'; Date of Publication 'November 24, 1998'; claimant BMG Entertainment (employer for hire); registered 2000-02-14. Re-read by the reconciler."
+  }
+ ],
+ "resources": [
+  {
+   "url": "https://archiv.wiener-staatsoper.at/performances/9206",
+   "wayback_url": "https://web.archive.org/web/20191120135620/https://archiv.wiener-staatsoper.at/performances/9206",
+   "title": "Wiener Staatsoper archive: Simon Boccanegra, 22 March 1984 (Premiere)",
+   "kind": "archive record",
+   "description": "Official record of this night, with the full cast and production team."
+  },
+  {
+   "url": "https://archiv.wiener-staatsoper.at/performances/9207",
+   "wayback_url": "https://web.archive.org/web/20240228195000/https://archiv.wiener-staatsoper.at/performances/9207",
+   "title": "Wiener Staatsoper archive: Simon Boccanegra, 25 March 1984",
+   "kind": "archive record",
+   "description": "The second performance of the run, with José Carreras as Adorno."
+  },
+  {
+   "url": "https://www.ne.jp/asahi/claudio/abbado/wienerphil/wienerphil2.html",
+   "wayback_url": "https://web.archive.org/web/20260323044016/https://www.ne.jp/asahi/claudio/abbado/wienerphil/wienerphil2.html",
+   "title": "Claudio Abbado Shiryokan: Vienna chronology 1984",
+   "kind": "archive record",
+   "description": "Abbado's Vienna performances date by date, including the Luchetti/Carreras split in this run."
+  },
+  {
+   "url": "https://www.discogs.com/release/17681137",
+   "wayback_url": "https://web.archive.org/web/20210321124910/https://www.discogs.com/release/17681137",
+   "title": "Discogs: RCA 'Wiener Staatsoper Live' Simon Boccanegra (1998)",
+   "kind": "release",
+   "description": "The CD release these files come from, noted as an ORF live recording of 22 March 1984."
+  },
+  {
+   "url": "https://musicbrainz.org/release/bd3d7fda-25cc-45c1-8682-b684f3575e2e",
+   "wayback_url": null,
+   "title": "MusicBrainz: Simon Boccanegra, RCA Red Seal 74321577332",
+   "kind": "release",
+   "description": "Track list with durations."
+  },
+  {
+   "url": "https://www.operadis-opera-discography.org.uk/ALVESIMO.HTM",
+   "wayback_url": "https://web.archive.org/web/20240225045057/https://www.operadis-opera-discography.org.uk/ALVESIMO.HTM",
+   "title": "Operadis: Simon Boccanegra discography",
+   "kind": "discography",
+   "description": "Entry for Abbado's 1984 Vienna recording, citing OPERA June 1984 and reviews of the CD."
+  },
+  {
+   "url": "https://operadis-opera-discography.org.uk/ALSIBRUS.HTM",
+   "wayback_url": "https://web.archive.org/web/20241102201555/https://operadis-opera-discography.org.uk/ALSIBRUS.HTM",
+   "title": "Operadis: Renato Bruson as Simon Boccanegra",
+   "kind": "discography",
+   "description": "Bruson's recordings of the role, including this one."
+  },
+  {
+   "url": "https://user.phil-fak.uni-duesseldorf.de/~busse/SimonB/html/simon_boccanegra_16.html",
+   "wayback_url": null,
+   "title": "Busse Simon Boccanegra discography, by date",
+   "kind": "discography",
+   "description": null
+  },
+  {
+   "url": "https://wph.zouri.jp/Rack2-4.html",
+   "wayback_url": "https://web.archive.org/web/20150818082709/https://wph.zouri.jp/Rack2-4.html",
+   "title": "Wiener Philharmoniker stereophonic discography (BMG 74321 57733 2)",
+   "kind": "discography",
+   "description": "Recording date and location for the release."
+  },
+  {
+   "url": "https://www.cede.com/en/classic/claudio-abbado-rca-and-sony-album-collection-39-cds-100179145",
+   "wayback_url": null,
+   "title": "Abbado: Complete RCA and Sony Album Collection, track listing",
+   "kind": "release",
+   "description": "A later reissue that includes this recording (discs 33-34)."
+  },
+  {
+   "url": "https://www.mediatheques.strasbourg.eu/doc/RADIOFRANCE/2023M32814E0246/l-orchestre-dans-l-opera-italien-3-4-l-orchestre-verdien-1",
+   "wayback_url": null,
+   "title": "Radio France: L'orchestre verdien (feature using the Act I finale)",
+   "kind": "broadcast page",
+   "description": "A later radio feature that cites this recording and its date."
+  },
+  {
+   "url": "https://parterre.com/2019/08/24/wien-disposition/",
+   "wayback_url": "https://web.archive.org/web/20250711114745/https://parterre.com/2019/08/24/wien-disposition/",
+   "title": "parterre box: Wien disposition",
+   "kind": "article",
+   "description": "A look back at Abbado's Vienna years that praises this 1984 Boccanegra."
+  },
+  {
+   "url": "https://www.diepresse.com/5635734/simon-boccanegra-es-ist-duester-weil-es-duester-sein-muss",
+   "wayback_url": null,
+   "title": "Die Presse on the Strehler Simon Boccanegra",
+   "kind": "article",
+   "description": "Production history from La Scala (1971) to the March 1984 Vienna premiere."
+  }
+ ],
+ "open_questions": [
+  "Play order: the folders are out of opera order. Folder B holds CD1 tracks 1-15 (Prologue and Act I up to 'Messeri, il re di Tartaria'). Folder A Track 01 is CD1 track 16 ('Plebe! Patrizi!', the end of Act I), and A Tracks 02-13 are CD2 (Acts II-III). Play B first, then A.",
+  "These files match the commercial CD, so this is not an off-air copy. Does the collector also hold an off-air ORF broadcast of this performance? No broadcast-day listing or ORF air date was found.",
+  "The release is said to be edited from the premiere alone (Discogs: 'Live recording by Austrian Radio (ORF) on March 22 1984'), but its 40-page booklet was not read. Patching from later performances cannot be fully ruled out. Luchetti, who sang only the premiere, is on the release, which argues against patching in any scene with Adorno.",
+  "No cast-change evidence was found for 22.03.1984. The official archive record shows no Umbesetzung. The contemporary OPERA review (June 1984 pp.631-632) and the Gramophone CD review (Feb 1999 p.96; site returned 403) were not read. The search budget ran out before Austrian press of March 1984 could be checked.",
+  "Release year: Discogs, MusicBrainz and the US copyright registration (publication 24 Nov 1998) give 1998. Operadis gives 1999, probably because its cited reviews appeared in early 1999. Recorded as 1998.",
+  "Disc 1 track 6 ('O de' Fieschi implacata') is 257 s on MusicBrainz but 253.9 s in the file (B/Track 06). Is the rip missing about 3 s of applause or lead-out, or is the MusicBrainz figure off?",
+  "The reconciler could not re-fetch s13 (cede.com, 403), s15 (Radio France, connection refused) or s16 (Die Presse, blocked). Their excerpts rest on Codex's reading. None is needed for any credit.",
+  "No Wikidata QIDs were found for the Staatsoper orchestra and chorus, or for Marise Flach. The QIDs for Sfiris and Aichberger point to sparse items matched by name only."
+ ],
+ "folder": "Vienna/840322 Simon Boccanegra Bruson Vienna A"
+}

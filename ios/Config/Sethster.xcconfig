@@ -1,0 +1,9 @@
+// Shared build settings for the Sethster app target (committed).
+// Server addresses live in the gitignored Local.xcconfig; copy Local.example.xcconfig to start.
+// Without it the app builds with a placeholder server and no fallbacks.
+SETHSTER_DEFAULT_SERVER =
+SETHSTER_FALLBACK_SERVERS =
+SETHSTER_TRUSTED_ALIASES =
+SETHSTER_LEGACY_DEFAULTS =
+
+#include? "Local.xcconfig"

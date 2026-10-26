@@ -1,0 +1,690 @@
+{
+ "id": "nypo-160322-boulez",
+ "title": "The New York Philharmonic This Week, program NYP 16-26: 'Remembering Pierre Boulez' / 'The New York Philharmonic Remembers Pierre Boulez'",
+ "subtitle": "Boulez",
+ "composers": [
+  {
+   "id": "maurice-ravel",
+   "name": "Maurice Ravel"
+  },
+  {
+   "id": "claude-debussy",
+   "name": "Claude Debussy"
+  },
+  {
+   "id": "alban-berg",
+   "name": "Alban Berg"
+  },
+  {
+   "id": "pierre-boulez",
+   "name": "Pierre Boulez"
+  },
+  {
+   "id": "bela-bartok",
+   "name": "Béla Bartók"
+  },
+  {
+   "id": "igor-stravinsky",
+   "name": "Igor Stravinsky"
+  },
+  {
+   "id": "elliott-carter",
+   "name": "Elliott Carter"
+  },
+  {
+   "id": "edgard-varese",
+   "name": "Edgard Varèse"
+  },
+  {
+   "id": "gustav-mahler",
+   "name": "Gustav Mahler"
+  },
+  {
+   "id": "richard-wagner",
+   "name": "Richard Wagner"
+  }
+ ],
+ "date": "2016-03-22",
+ "date_status": "inferred",
+ "venue": {
+  "id": "radio-online-broadcast-compiled-from-ny-philharmonic-archival-and-commercial-recordings-most-archival-items-from-avery-fisher-hall-now-david-geffen-hall-lincoln-center",
+  "name": "Radio/online broadcast compiled from NY Philharmonic archival and commercial recordings (most archival items from Avery Fisher Hall, now David Geffen Hall, Lincoln Center)",
+  "city": "New York"
+ },
+ "kind": "broadcast",
+ "collection": "NY Phil",
+ "duration_s": 7015,
+ "artwork_url": null,
+ "confirmed_ratio": 0.25,
+ "summary": "'Remembering Pierre Boulez', a memorial episode of the syndicated radio series The New York Philharmonic This Week (WFMT program NYP 16-26, aired the week of 21-27 March 2016). It compiles archival and commercial NY Phil recordings conducted by Boulez, mostly from his 1971-77 music directorship. The collector's 15 files match, segment for segment, the 15-part on-demand version on nyphil.org (116.9 min). That version contains La Mer, Carter's A Symphony of Three Orchestras, Petrushka's Room, the Berg Lyric Suite, Mahler 3/III, Improvisation I sur Mallarmé and the Tannhäuser Overture, plus talk segments. It does not contain the Siegfried Idyll that the radio listings name.",
+ "date_evidence": "The folder '160322 Boulez NYPO' gives 2016-03-22 (a Tuesday), and the tags say 2016. Date-specific station listings put this episode in the week of 21-27 March 2016: Vermont Public Classical aired it Thursday 24 March at 8 p.m., and CapRadio aired it Sunday 27 March at 4 p.m. A WILL-FM listing for Thursday 24 March ('NYP 16-26') was seen only as a search snippet. No source found shows an airing or online posting on 22 March itself. The collector's 15 files match the 15 segment MP3s on the nyphil.org on-demand page, each within 0-4 s. That suggests the copy came from the NY Phil web stream rather than an off-air tape, so 160322 may be a capture or download date. All the music is archival, from 1969-2012 sources (see program notes). No item was performed on the folder date.",
+ "candidate_dates": [
+  "2016-03-22",
+  "2016-03-24",
+  "2016-03-27"
+ ],
+ "broadcast_date": "2016-03-22 (folder date, unverified; listed station airings 2016-03-24 and 2016-03-27)",
+ "broadcaster": "The New York Philharmonic This Week (produced by the NY Philharmonic, syndicated by the WFMT Radio Network). The collector's copy matches the nyphil.org on-demand stream; the station, if any, is unknown.",
+ "event_name": "The New York Philharmonic This Week, program NYP 16-26: 'Remembering Pierre Boulez' / 'The New York Philharmonic Remembers Pierre Boulez'",
+ "program": [
+  {
+   "work_id": "ravel-le-tombeau-de-couperin-rigaudon-excerpt",
+   "title": "Le Tombeau de Couperin: Rigaudon (excerpt)",
+   "composer": {
+    "id": "maurice-ravel",
+    "name": "Maurice Ravel"
+   },
+   "catalogue": null,
+   "notes": "Named in the CapRadio listing. Probably under or within the 2:30 'Billboard and opening remarks' segment (file 01); not heard. Boulez/NYP performed the suite in April-May 1971 and May 1977."
+  },
+  {
+   "work_id": "debussy-la-mer-complete",
+   "title": "La Mer (complete)",
+   "composer": {
+    "id": "claude-debussy",
+    "name": "Claude Debussy"
+   },
+   "catalogue": null,
+   "notes": "In the recording (file 02, 23:56). CapRadio: '(complete) 3/16/88 from NYP Archives'. The NYP Performance History has no Boulez/NYP La Mer in March 1988; that month's subscription concerts were led by Tennstedt and Kruglikov. Its 1988 Boulez La Mer is 18 June 1988 (Festival). It does list Boulez/NYP La Mer at Avery Fisher Hall on 4, 6 and 16 March 1976, so '88' is probably an error for 1976-03-16. Unresolved: CONFLICT."
+  },
+  {
+   "work_id": "debussy-jeux-excerpt",
+   "title": "Jeux (excerpt)",
+   "composer": {
+    "id": "claude-debussy",
+    "name": "Claude Debussy"
+   },
+   "catalogue": null,
+   "notes": "Named in the CapRadio listing. Probably inside file 03 ('Back announcement, discussion and introduction to Carter', 7:56). Boulez/NYP performances: March 1969 and March 1986."
+  },
+  {
+   "work_id": "berg-lulu-suite-rondo-excerpt",
+   "title": "Lulu Suite: Rondo (excerpt)",
+   "composer": {
+    "id": "alban-berg",
+    "name": "Alban Berg"
+   },
+   "catalogue": null,
+   "notes": "Named in the listing; probably in file 03. The only Boulez/NYP Lulu Suite is 29 April-4 May 1976; a Sony commercial recording (with Judith Blegen) also exists."
+  },
+  {
+   "work_id": "boulez-polyphonie-x-excerpt",
+   "title": "Polyphonie X (excerpt)",
+   "composer": {
+    "id": "pierre-boulez",
+    "name": "Pierre Boulez"
+   },
+   "catalogue": null,
+   "notes": "Listing: 'NYP Archives'. Probably in file 03. No Boulez-conducted Polyphonie X is in the NYP Performance History dataset."
+  },
+  {
+   "work_id": "bartok-music-for-strings-percussion-and-celesta-excerpt",
+   "title": "Music for Strings, Percussion and Celesta (excerpt)",
+   "composer": {
+    "id": "bela-bartok",
+    "name": "Béla Bartók"
+   },
+   "catalogue": null,
+   "notes": "Named in the listing; probably in file 03. Boulez/NYP: March 1969, Jan-Feb 1974, 11 June 1974 (Rug Concert)."
+  },
+  {
+   "work_id": "stravinsky-the-rite-of-spring-augurs-of-spring-harbingers-of-spring-excerpt",
+   "title": "The Rite of Spring: Augurs of Spring ('Harbingers of Spring') (excerpt)",
+   "composer": {
+    "id": "igor-stravinsky",
+    "name": "Igor Stravinsky"
+   },
+   "catalogue": null,
+   "notes": "Named in the listing; probably in file 03."
+  },
+  {
+   "work_id": "ravel-miroirs-une-barque-sur-l-ocean-excerpt",
+   "title": "Miroirs: Une barque sur l'océan (excerpt)",
+   "composer": {
+    "id": "maurice-ravel",
+    "name": "Maurice Ravel"
+   },
+   "catalogue": null,
+   "notes": "Named in the listing; probably in file 03. Boulez/NYP: 5 January 1973; 31 January-2 February 1974."
+  },
+  {
+   "work_id": "carter-a-symphony-of-three-orchestras",
+   "title": "A Symphony of Three Orchestras",
+   "composer": {
+    "id": "elliott-carter",
+    "name": "Elliott Carter"
+   },
+   "catalogue": null,
+   "notes": "In the recording (file 04, 15:40). Listing: 'NYP Premiere performance'. The NYP premiere run was 17, 18, 19 and 22 February 1977 at Avery Fisher Hall under Boulez; which night is not stated."
+  },
+  {
+   "work_id": "varese-deserts-excerpt",
+   "title": "Déserts (excerpt)",
+   "composer": {
+    "id": "edgard-varese",
+    "name": "Edgard Varèse"
+   },
+   "catalogue": null,
+   "notes": "Named in the listing; probably in file 05 (1:51 talk segment). The NYP Performance History has no Boulez-led Déserts (only Bernstein, 1964), so the source is probably a non-NYP or commercial recording. Unverified."
+  },
+  {
+   "work_id": "berg-lulu-suite-variations-excerpt",
+   "title": "Lulu Suite: Variations (excerpt)",
+   "composer": {
+    "id": "alban-berg",
+    "name": "Alban Berg"
+   },
+   "catalogue": null,
+   "notes": "Named in the listing; probably in file 05."
+  },
+  {
+   "work_id": "stravinsky-petrushka-1911-second-tableau-petrushka-s-room",
+   "title": "Petrushka (1911): second tableau, 'Petrushka's Room'",
+   "composer": {
+    "id": "igor-stravinsky",
+    "name": "Igor Stravinsky"
+   },
+   "catalogue": null,
+   "notes": "In the recording (file 06, 3:57). The source performance is not stated; there are many Boulez/NYP Petrushka performances, 1971-75."
+  },
+  {
+   "work_id": "berg-lyric-suite-three-movements-arranged-for-string-orchestra",
+   "title": "Lyric Suite: three movements arranged for string orchestra",
+   "composer": {
+    "id": "alban-berg",
+    "name": "Alban Berg"
+   },
+   "catalogue": "Sony SMK 45838",
+   "notes": "In the recording (file 08, 15:00). The nyphil.org page says 'Three Movements from the Lyric Suite' and 'Lyric Suite for String Orchestra'. The CapRadio listing says 'from SMK 45838' (a Sony commercial CD, Boulez/NYP). The release details were not checked against the label: a search result ties SMK 45838 to a Boulez/NYP Berg disc (Lulu Suite, Der Wein, Lyric Suite), but the catalog page could not be read."
+  },
+  {
+   "work_id": "mahler-symphony-no-3-in-d-minor-third-movement-comodo-scherzando-ohne-hast",
+   "title": "Symphony No. 3 in D minor: third movement (Comodo. Scherzando. Ohne Hast)",
+   "composer": {
+    "id": "gustav-mahler",
+    "name": "Gustav Mahler"
+   },
+   "catalogue": null,
+   "notes": "In the recording (file 10, 17:26). Listing: 'NYP Special Editions'. The only Boulez/NYP Mahler 3 performances were 21-26 October 1976 (Avery Fisher Hall, plus Carnegie Hall on 25 October), with John Ware on post horn. The exact date was not verified."
+  },
+  {
+   "work_id": "boulez-pli-selon-pli-improvisation-i-sur-mallarme-le-vierge-le-vivace-et-le-bel-",
+   "title": "Pli selon pli: Improvisation I sur Mallarmé ('Le vierge, le vivace et le bel aujourd'hui')",
+   "composer": {
+    "id": "pierre-boulez",
+    "name": "Pierre Boulez"
+   },
+   "catalogue": null,
+   "notes": "In the recording (file 12, 5:02). Listing: 'NYP Archives'. Boulez/NYP performed Improvisation I on 14 June 1974 (Rug Concert) and 20-25 March 1975, both with Phyllis Bryn-Julson. They gave all of Pli selon pli in March 1986, also with her. Which date was used is unknown."
+  },
+  {
+   "work_id": "wagner-siegfried-idyll",
+   "title": "Siegfried Idyll",
+   "composer": {
+    "id": "richard-wagner",
+    "name": "Richard Wagner"
+   },
+   "catalogue": null,
+   "notes": "Named in the CapRadio and Vermont listings ('complete performances of La Mer and Siegfried Idyll'). It is NOT in the nyphil.org on-demand segment list, and no file is long enough to hold it. Probably absent from this copy; the radio and web versions apparently differ."
+  },
+  {
+   "work_id": "wagner-tannhauser-overture",
+   "title": "Tannhäuser: Overture",
+   "composer": {
+    "id": "richard-wagner",
+    "name": "Richard Wagner"
+   },
+   "catalogue": "Sony SMK 64108",
+   "notes": "In the recording (file 14, 14:07; the nyphil.org file name says 'prelude_to_tannhauser'). Listing: 'from SMK 64108' (Sony, Boulez/NYP). The release was not verified. Boulez/NYP gave the overture in concert in January 1973."
+  },
+  {
+   "work_id": "boulez-explosante-fixe-excerpt",
+   "title": "...explosante-fixe... (excerpt)",
+   "composer": {
+    "id": "pierre-boulez",
+    "name": "Pierre Boulez"
+   },
+   "catalogue": null,
+   "notes": "Listing: 'NYP-CONTACT recording'. Not a separate segment on nyphil.org; possibly heard under 'Back announcement and credits' (file 15, 2:01). The only NYP CONTACT! performances were 8 June 2012 (Metropolitan Museum of Art) and 9 June 2012 (Symphony Space), conducted by David Robertson, not Boulez."
+  }
+ ],
+ "credits": [
+  {
+   "person": {
+    "id": "pierre-boulez",
+    "name": "Pierre Boulez",
+    "image_url": null
+   },
+   "role": "conductor",
+   "work_id": "boulez-explosante-fixe-excerpt",
+   "status": "confirmed",
+   "notes": "The CapRadio episode listing ('Conductor: Pierre Boulez') and the NY Phil's own episode page (artist 'Boulez, Conductor 1971-77') both name him. Each item comes from a different archival concert or commercial recording, not from one performance.",
+   "source_ids": [
+    "s1",
+    "s5"
+   ]
+  },
+  {
+   "person": {
+    "id": "new-york-philharmonic",
+    "name": "New York Philharmonic",
+    "image_url": null
+   },
+   "role": "orchestra",
+   "work_id": null,
+   "status": "confirmed",
+   "notes": "An NY Phil This Week episode drawn from the orchestra's archives and its Sony recordings.",
+   "source_ids": [
+    "s1",
+    "s5"
+   ]
+  },
+  {
+   "person": {
+    "id": "alec-baldwin",
+    "name": "Alec Baldwin",
+    "image_url": null
+   },
+   "role": "host / announcer",
+   "work_id": null,
+   "status": "production_only",
+   "notes": "Both pages name Baldwin only as the series host ('Alec Baldwin is the broadcast host'; 'hosted by Actor Alec Baldwin'). Neither says he presents this episode. The audio was not heard.",
+   "source_ids": [
+    "s1",
+    "s5"
+   ]
+  },
+  {
+   "person": {
+    "id": "pierre-boulez",
+    "name": "Pierre Boulez",
+    "image_url": null
+   },
+   "role": "speaker (archival interview excerpts)",
+   "work_id": null,
+   "status": "inferred",
+   "notes": "Downgraded from production_only. The WILL-FM text saying Boulez 'can be heard speaking' was seen only as a search snippet; the page is 404 with no Wayback copy. The nyphil.org segment titles mention 'discussion' but do not name the speakers. Not checked against the audio.",
+   "source_ids": [
+    "s3",
+    "s5"
+   ]
+  },
+  {
+   "person": {
+    "id": "phyllis-bryn-julson",
+    "name": "Phyllis Bryn-Julson",
+    "image_url": null
+   },
+   "role": "soprano",
+   "work_id": "boulez-pli-selon-pli-improvisation-i-sur-mallarme-le-vierge-le-vivace-et-le-bel-",
+   "status": "inferred",
+   "notes": "Stronger than the researcher found: the NY Phil's own episode page lists 'Phyllis Bryn-Julson' among this episode's artists. It labels her 'Narrator', which is evidently a mislabel, so the role is not stated by a date-specific source. She sang Improvisation I in every Boulez/NYP performance (1974, 1975, 1986). Left as inferred because the role named does not match.",
+   "source_ids": [
+    "s5",
+    "s4"
+   ]
+  },
+  {
+   "person": {
+    "id": "john-ware",
+    "name": "John Ware",
+    "image_url": null
+   },
+   "role": "post horn",
+   "work_id": "mahler-symphony-no-3-in-d-minor-third-movement-comodo-scherzando-ohne-hast",
+   "status": "inferred",
+   "notes": "Post horn soloist in the only Boulez/NYP Mahler 3 run (October 1976). This assumes the 'NYP Special Editions' recording comes from that run.",
+   "source_ids": [
+    "s4"
+   ]
+  },
+  {
+   "person": {
+    "id": "david-robertson",
+    "name": "David Robertson",
+    "image_url": null
+   },
+   "role": "conductor",
+   "work_id": "boulez-explosante-fixe-excerpt",
+   "status": "inferred",
+   "notes": "The listing labels this item 'NYP-CONTACT recording'. The only CONTACT! explosante-fixe performances (8-9 June 2012) were conducted by Robertson. The excerpt may not be in this copy (see file 15).",
+   "source_ids": [
+    "s1",
+    "s4"
+   ]
+  },
+  {
+   "person": {
+    "id": "robert-langevin",
+    "name": "Robert Langevin",
+    "image_url": null
+   },
+   "role": "MIDI flute",
+   "work_id": "boulez-explosante-fixe-excerpt",
+   "status": "inferred",
+   "notes": "Solo MIDI flute in the June 2012 NYP CONTACT! performances. The other flutes were Mindy Kaufman and Alexandra Sopp, with IRCAM computer-music staff, per the researcher's reading of the dataset.",
+   "source_ids": [
+    "s4"
+   ]
+  }
+ ],
+ "tracks": [
+  {
+   "id": "nypo-160322-boulez:01",
+   "index": 1,
+   "description": "Billboard and opening remarks (2:34; nyphil.org segment 01 '01_billboard_and_hand_off_to_debussy', 2:30)",
+   "title": "Billboard and opening remarks",
+   "work_id": null,
+   "segment": "announcer",
+   "duration_s": 154,
+   "stream_url": "/api/tracks/nypo-160322-boulez:01/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "nypo-160322-boulez:02",
+   "index": 2,
+   "description": "La Mer, complete (23:55; nyphil.org 23:56)",
+   "title": "La Mer, complete",
+   "work_id": "debussy-la-mer-complete",
+   "segment": "music",
+   "duration_s": 1435,
+   "stream_url": "/api/tracks/nypo-160322-boulez:02/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "nypo-160322-boulez:03",
+   "index": 3,
+   "description": "Back announcement, discussion and introduction to Carter (7:58; nyphil.org 7:56)",
+   "title": "Back announcement, discussion and introduction to Carter",
+   "work_id": "debussy-jeux-excerpt",
+   "segment": "announcer",
+   "duration_s": 478,
+   "stream_url": "/api/tracks/nypo-160322-boulez:03/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "nypo-160322-boulez:04",
+   "index": 4,
+   "description": "Complete (15:38; nyphil.org 15:40)",
+   "title": "Complete",
+   "work_id": "carter-a-symphony-of-three-orchestras",
+   "segment": "music",
+   "duration_s": 938,
+   "stream_url": "/api/tracks/nypo-160322-boulez:04/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "nypo-160322-boulez:05",
+   "index": 5,
+   "description": "Back announcement and introduction to Stravinsky (1:54; nyphil.org 1:51)",
+   "title": "Back announcement and introduction to Stravinsky",
+   "work_id": "varese-deserts-excerpt",
+   "segment": "announcer",
+   "duration_s": 114,
+   "stream_url": "/api/tracks/nypo-160322-boulez:05/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "nypo-160322-boulez:06",
+   "index": 6,
+   "description": "Second tableau, 'Petrushka's Room' (4:00; nyphil.org 3:57)",
+   "title": "Second tableau, 'Petrushka's Room'",
+   "work_id": "stravinsky-petrushka-1911-second-tableau-petrushka-s-room",
+   "segment": "music",
+   "duration_s": 240,
+   "stream_url": "/api/tracks/nypo-160322-boulez:06/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "nypo-160322-boulez:07",
+   "index": 7,
+   "description": "Back announcement and introduction to Berg (1:25; nyphil.org 1:24)",
+   "title": "Back announcement and introduction to Berg",
+   "work_id": null,
+   "segment": "announcer",
+   "duration_s": 85,
+   "stream_url": "/api/tracks/nypo-160322-boulez:07/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "nypo-160322-boulez:08",
+   "index": 8,
+   "description": "Three movements (15:00; nyphil.org 15:00)",
+   "title": "Three movements",
+   "work_id": "berg-lyric-suite-three-movements-arranged-for-string-orchestra",
+   "segment": "music",
+   "duration_s": 900,
+   "stream_url": "/api/tracks/nypo-160322-boulez:08/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "nypo-160322-boulez:09",
+   "index": 9,
+   "description": "Back announcement and introduction to Mahler (2:07; nyphil.org 2:03)",
+   "title": "Back announcement and introduction to Mahler",
+   "work_id": null,
+   "segment": "announcer",
+   "duration_s": 127,
+   "stream_url": "/api/tracks/nypo-160322-boulez:09/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "nypo-160322-boulez:10",
+   "index": 10,
+   "description": "Mvt 3: Comodo. Scherzando. Ohne Hast (17:26; nyphil.org 17:26)",
+   "title": "Mvt 3: Comodo. Scherzando. Ohne Hast",
+   "work_id": "mahler-symphony-no-3-in-d-minor-third-movement-comodo-scherzando-ohne-hast",
+   "segment": "music",
+   "duration_s": 1046,
+   "stream_url": "/api/tracks/nypo-160322-boulez:10/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "nypo-160322-boulez:11",
+   "index": 11,
+   "description": "Back announcement and introduction to Boulez (0:55; nyphil.org 0:55)",
+   "title": "Back announcement and introduction to Boulez",
+   "work_id": null,
+   "segment": "announcer",
+   "duration_s": 55,
+   "stream_url": "/api/tracks/nypo-160322-boulez:11/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "nypo-160322-boulez:12",
+   "index": 12,
+   "description": "Improvisation I sur Mallarmé (5:03; nyphil.org 5:02)",
+   "title": "Improvisation I sur Mallarmé",
+   "work_id": "boulez-pli-selon-pli-improvisation-i-sur-mallarme-le-vierge-le-vivace-et-le-bel-",
+   "segment": "music",
+   "duration_s": 303,
+   "stream_url": "/api/tracks/nypo-160322-boulez:12/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "nypo-160322-boulez:13",
+   "index": 13,
+   "description": "Back announcement, talk and introduction to Wagner (2:52; nyphil.org 2:50). The Siegfried Idyll named in the radio listings is not in this copy.",
+   "title": "Back announcement, talk and introduction to Wagner. The Siegfried Idyll named in the radio listings is not in this copy.",
+   "work_id": null,
+   "segment": "announcer",
+   "duration_s": 172,
+   "stream_url": "/api/tracks/nypo-160322-boulez:13/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "nypo-160322-boulez:14",
+   "index": 14,
+   "description": "Overture (14:08; nyphil.org 14:07)",
+   "title": "Overture",
+   "work_id": "wagner-tannhauser-overture",
+   "segment": "music",
+   "duration_s": 848,
+   "stream_url": "/api/tracks/nypo-160322-boulez:14/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "nypo-160322-boulez:15",
+   "index": 15,
+   "description": "Back announcement and credits (2:00; nyphil.org 2:01)",
+   "title": "Back announcement and credits",
+   "work_id": "boulez-explosante-fixe-excerpt",
+   "segment": "announcer",
+   "duration_s": 120,
+   "stream_url": "/api/tracks/nypo-160322-boulez:15/stream",
+   "format": "mp3"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "url": "https://www.capradio.org/classical/season/new-york-philharmonic-this-week/2016/03/27/nyp-032716/",
+   "wayback_url": null,
+   "title": "CapRadio - New York Philharmonic: Program Details 27 March 2016",
+   "type": "broadcast_listing",
+   "date_specific": true,
+   "excerpt": "Sunday, March 27, 2016 ... The New York Philharmonic remembers composer, conductor and former NY Phil Music Director (1971-77) Pierre Boulez ... Conductor: Pierre Boulez ... Debussy: La Mer (complete) 3/16/88 from NYP Archives ... Carter: Symphony of Three Orchestras (NYP Premiere performance) ... Berg: Lyric Suite from SMK 45838 | Mahler: Symphony No. 3: III (NYP Special Editions) | Boulez: Improvisation I from Pli selon Pli (NYP Archives) | Wagner: Siegfried-Idyll | Wagner: Overture to Tannhauser from SMK 64108 | Boulez: Explosante-fixe (excerpt) (NYP-CONTACT recording). Series header: 'Alec Baldwin is the broadcast host Sunday afternoon at 4 o'clock.'"
+  },
+  {
+   "id": "s2",
+   "url": "https://www.vermontpublic.org/vpr-classical/2016-03-24/remembering-pierre-boulez",
+   "wayback_url": null,
+   "title": "Vermont Public - Remembering Pierre Boulez (Walter Parker, 24 March 2016)",
+   "type": "broadcast_listing",
+   "date_specific": true,
+   "excerpt": "Published March 24, 2016 ... 'The New York Philharmonic remembers Pierre Boulez, who was Music Director from 1971 to 1977' ... complete performances of La Mer and Siegfried Idyll ... Broadcast Thursday, March 24, at 8 p.m. on Vermont Public Classical."
+  },
+  {
+   "id": "s3",
+   "url": "https://will.illinois.edu/eveningconcert/program/thursday-evening-concert-mar-24",
+   "wayback_url": null,
+   "title": "WILL-FM Evening Concert, Thursday 24 March 2016 (NYP 16-26)",
+   "type": "broadcast_listing",
+   "date_specific": true,
+   "excerpt": "NOT READ: HTTP 404 when fetched again by the reconciler; the researcher found no Wayback copy. Known only from a search snippet: 'The Philharmonic Remembers Pierre Boulez' with selections from the archives conducted by Boulez (NYP 16-26)."
+  },
+  {
+   "id": "s4",
+   "url": "https://github.com/nyphilarchive/PerformanceHistory",
+   "wayback_url": null,
+   "title": "New York Philharmonic Performance History open dataset (Programs/json/complete.json)",
+   "type": "archive_record",
+   "date_specific": false,
+   "excerpt": "Downloaded and queried by the reconciler. Boulez La Mer: 1969-03-13..17; 1973 tour and 1973-09-20..25; 1976-03-04, -06, -16 Avery Fisher Hall; 1988-06-18 Festival; 1992-12-07. No March 1988 Boulez concert (March 1988 subscription concerts: Tennstedt, Kruglikov). Carter Symphony of Three Orchestras: 1977-02-17/18/19/22, Boulez. Mahler 3: 1976-10-21..26 plus 10-25 Carnegie Hall, Minton, post horn Ware, John. Pli selon pli Improvisation I: 1974-06-14 and 1975-03-20..25, Bryn-Julson; whole work 1986-03-13..18, Bryn-Julson. Déserts: Bernstein 1964 only."
+  },
+  {
+   "id": "s5",
+   "url": "https://www.nyphil.org/watch-listen/audio/broadcasts/1516/remembering-pierre-boulez",
+   "wayback_url": "https://web.archive.org/web/20160831223507/http://nyphil.org:80/watch-listen/audio/broadcasts/1516/remembering-pierre-boulez",
+   "title": "New York Philharmonic - Watch & Listen: 'Remembering Pierre Boulez' (on-demand broadcast page)",
+   "type": "broadcast_listing",
+   "date_specific": true,
+   "excerpt": "Read via the Wayback copy (live URL now 404). Segments: Billboard and opening remarks (2:30) | La Mer (23:56) | Back announcement, discussion and introduction to Carter (7:56) | A Symphony of Three Orchestras (15:40) | ...intro to Stravinsky (1:51) | Petrushka's Room (3:57) | ...intro to Berg (1:24) | Three Movements from the Lyric Suite (15:00) | ...intro to Mahler (2:03) | Comodo, Scherzando, Ohne Hast (17:26) | ...intro to Boulez (0:55) | Improvisation sur Mallarmé I (5:02) | ...talk and intro to Wagner (2:50) | Overture to 'Tannhäuser' (14:07) | Back announcement and credits (2:01). Artists: 'Boulez, Conductor 1971-77'; 'Phyllis Bryn-Julson, Narrator'. Stream files are under .../full-concerts/1516/25_repeat_15-51/01_billboard_and_hand_off_to_debussy_REV_320k.mp3 ... 15_back_announce_and_credits_REV_320k.mp3. Series text: 'hosted by Actor Alec Baldwin ... syndicated ... by the WFMT Radio Network'."
+  },
+  {
+   "id": "s6",
+   "url": "https://www.nyphil.org/watch-listen/audio/broadcast-schedule",
+   "wayback_url": "https://web.archive.org/web/20160322131245/http://nyphil.org:80/watch-listen/audio/broadcast-schedule",
+   "title": "NY Phil broadcast schedule page (Wayback, 22 March 2016)",
+   "type": "other",
+   "date_specific": false,
+   "excerpt": "'In New York on 105.9 WQXR' ... 'The New York Philharmonic This Week is made available for streaming every Friday at Noon. Most broadcasts remain online for up to 90 days.' The 'Latest Broadcasts' list on this capture is stale (2014-15 dates) and does not show the Boulez episode."
+  },
+  {
+   "id": "s7",
+   "url": "https://www.wikidata.org/",
+   "wayback_url": null,
+   "title": "Wikidata entity lookups (wbgetentities / wbsearchentities)",
+   "type": "wikidata",
+   "date_specific": false,
+   "excerpt": "Verified: Q156193 Boulez, Q471154 NYP, Q790654 David Geffen Hall, Q170572 Alec Baldwin, Q1057812 La mer, Q30116719 Le Tombeau de Couperin, Q2355101 Lyric Suite, Q591542 Pli selon pli, Q2117942 Siegfried Idyll, Q206015 Rite of Spring, Q740162 Petrushka, Q1047743 Music for Strings..., Q3395745 Polyphonie X, Q3045077 Déserts, Q24077744 A Symphony of Three Orchestras."
+  },
+  {
+   "id": "s8",
+   "url": "tags",
+   "wayback_url": null,
+   "title": "Embedded ID3 tags (album '160322 Boulez NYPO', artist 'Boulez', date 2016, titles 01-15)",
+   "type": "tags",
+   "date_specific": false,
+   "excerpt": null
+  }
+ ],
+ "resources": [
+  {
+   "url": "https://www.nyphil.org/watch-listen/audio/broadcasts/1516/remembering-pierre-boulez",
+   "wayback_url": "https://web.archive.org/web/20160831223507/http://nyphil.org:80/watch-listen/audio/broadcasts/1516/remembering-pierre-boulez",
+   "title": "Remembering Pierre Boulez - NY Philharmonic on-demand broadcast page",
+   "kind": "broadcast page",
+   "description": "The NY Phil's own page for this episode, with the 15-segment running order that matches these files, artist bios and program notes. The live URL is gone; use the Wayback copy."
+  },
+  {
+   "url": "https://www.capradio.org/classical/season/new-york-philharmonic-this-week/2016/03/27/nyp-032716/",
+   "wayback_url": null,
+   "title": "The New York Philharmonic Remembers Pierre Boulez - program details (CapRadio, 27 March 2016)",
+   "kind": "broadcast page",
+   "description": "Full radio running order, with the source of each recording (NYP Archives, Sony catalogue numbers)."
+  },
+  {
+   "url": "https://www.vermontpublic.org/vpr-classical/2016-03-24/remembering-pierre-boulez",
+   "wayback_url": null,
+   "title": "Remembering Pierre Boulez (Vermont Public Classical, 24 March 2016)",
+   "kind": "broadcast page",
+   "description": "Station announcement of the 24 March 2016 airing."
+  },
+  {
+   "url": "https://archives.nyphil.org/index.php/artifact/7031dd6b-3ec8-4589-9e1b-9a0b5b2c1762-0.1/fullview",
+   "wayback_url": null,
+   "title": "NY Phil Digital Archives - March 1976 Boulez program with La Mer",
+   "kind": "archive record",
+   "description": "Printed program for the Boulez concerts of 4, 6 and 16 March 1976, the likely source of this La Mer. URL built from the dataset ID; returned HTTP 502 when checked, not opened."
+  },
+  {
+   "url": "https://archives.nyphil.org/index.php/artifact/28ffd03c-0f0d-43ff-be0e-c0d9fccca691-0.1/fullview",
+   "wayback_url": null,
+   "title": "NY Phil Digital Archives - February 1977 premiere of Carter's A Symphony of Three Orchestras",
+   "kind": "archive record",
+   "description": "Program for the Boulez-conducted premiere run, 17-22 February 1977. URL built from the dataset ID; returned HTTP 502 when checked, not opened."
+  },
+  {
+   "url": "https://archives.nyphil.org/index.php/artifact/38106094-2a14-40df-b8b5-ef1972fbe997-0.1/fullview",
+   "wayback_url": null,
+   "title": "NY Phil Digital Archives - October 1976 Boulez Mahler Third",
+   "kind": "archive record",
+   "description": "Program for Boulez's NYP Mahler 3, 21-26 October 1976. URL built from the dataset ID; not opened."
+  },
+  {
+   "url": "https://archives.nyphil.org/index.php/artifact/c305c81c-e1e6-4ba4-b4a0-2d43653cf6ae-0.1/fullview",
+   "wayback_url": null,
+   "title": "NY Phil Digital Archives - March 1975 Boulez program with Pli selon pli Improvisations I-II (Bryn-Julson)",
+   "kind": "archive record",
+   "description": "One candidate source for the Improvisation I heard here. URL built from the dataset ID; not opened."
+  },
+  {
+   "url": "https://archives.nyphil.org/index.php/artifact/ec5fa736-0555-4894-bb02-4393b0e43356-0.1/fullview",
+   "wayback_url": null,
+   "title": "NY Phil Digital Archives - CONTACT! June 2012 (explosante-fixe, cond. David Robertson)",
+   "kind": "archive record",
+   "description": "Source concert for the explosante-fixe excerpt. URL built from the dataset ID; not opened."
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Pierre_Boulez",
+   "wayback_url": null,
+   "title": "Pierre Boulez (Wikipedia)",
+   "kind": "wiki",
+   "description": null
+  }
+ ],
+ "open_questions": [
+  "Where did the collector get this copy, and what does 160322 mean? The 15 files match the nyphil.org on-demand segments exactly, so it was probably captured or downloaded from the NY Phil web player, not taped off air. Is 22 March 2016 the capture date? Station listings show airings on 24 and 27 March, and the NY Phil normally posted episodes online on Fridays. No 22 March airing was found.",
+  "La Mer date: the listing says 3/16/88, but the NYP Performance History has no Boulez/NYP concert in March 1988. 16 March 1976 at Avery Fisher Hall fits the day and month; 18 June 1988 is the only 1988 date. Hearing the host's back announcement in file 03 may settle it.",
+  "Siegfried Idyll: the radio listings name it as a complete performance, but it is not in the nyphil.org segment list or in these files. Did the radio broadcast differ from the web version, or did the collector's source omit it?",
+  "The nyphil.org stream folder is named '25_repeat_15-51', suggesting this was a repeat of an earlier program 15-51. The original air date of that program was not found.",
+  "The short excerpts (Rigaudon, Jeux, Lulu Rondo and Variations, Polyphonie X, Bartók, Rite, Une barque, Déserts, explosante-fixe) are not separate segments. Their placement inside the talk segments (files 01, 03, 05, 15) is inferred from the listing order; the audio was not heard.",
+  "The archival performance dates for Carter (17-22 Feb 1977), Mahler 3 (Oct 1976), Pli selon pli Improvisation I (1974, 1975 or 1986), Petrushka and the excerpts are not given in any listing.",
+  "Sony SMK 45838 (Berg) and SMK 64108 (Wagner) were not checked against label or discography data. The web-search budget was exhausted and the NYPL catalog page did not render. Their recording dates and venues are unknown.",
+  "The host was not confirmed for this episode; Alec Baldwin is the series host. Boulez's speaking excerpts are not confirmed either.",
+  "The nyphil.org page lists Phyllis Bryn-Julson as 'Narrator'. This is presumably a mislabel for soprano in Improvisation I; confirm by ear.",
+  "Wikidata QIDs left blank: Jeux, Lulu Suite (Q3267251 found but has no description, so it was not used), Mahler Symphony No. 3, explosante-fixe, the Tannhäuser Overture, Miroirs, David Robertson, Phyllis Bryn-Julson, Robert Langevin and John Ware. The Wikidata API rate-limited further lookups."
+ ],
+ "folder": "160322 Boulez NYPO - 01.mp3"
+}

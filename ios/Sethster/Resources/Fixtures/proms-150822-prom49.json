@@ -1,0 +1,523 @@
+{
+ "id": "proms-150822-prom49",
+ "title": "BBC Proms 2015, Prom 49",
+ "subtitle": "Hardenberger, Burton-Hill, Rolfs · Nelsons",
+ "composers": [
+  {
+   "id": "brett-dean",
+   "name": "Brett Dean"
+  },
+  {
+   "id": "gustav-mahler",
+   "name": "Gustav Mahler"
+  }
+ ],
+ "date": "2015-08-22",
+ "date_status": "confirmed",
+ "venue": {
+  "id": "royal-albert-hall",
+  "name": "Royal Albert Hall",
+  "city": "London"
+ },
+ "kind": "broadcast",
+ "collection": "BBC Proms",
+ "duration_s": 8021,
+ "artwork_url": null,
+ "confirmed_ratio": 1.0,
+ "summary": "Off-air recording of the BBC Radio 3 live broadcast of BBC Proms 2015 Prom 49, Royal Albert Hall, London, Saturday 22 August 2015: Andris Nelsons conducts the Boston Symphony Orchestra in Brett Dean's trumpet concerto Dramatis personae (soloist Håkan Hardenberger) and Mahler's Symphony No. 6, presented by Clemency Burton-Hill. This was the first concert of the BSO's 2015 European tour.",
+ "date_evidence": "Folder '150822 Prom 49' = 2015-08-22. The Royal Albert Hall catalogue record (PERF11527, re-read by the reconciler) gives Performance Date 22 August 2015, 18:35, Prom 49, 'Broadcast live on BBC Radio 3.' The BBC programme page b066zjlk (re-read) says 'Live from the Royal Albert Hall' with broadcast Sat 22 Aug 2015 18:30, and the Radio 3 listings PDF for 22-28 Aug 2015 (re-read) gives SAT 18:30 (part 1) and SAT 19:25 (part 2). Reviews dated to the night agree: Seen and Heard '22.8.2015', Bachtrack 'Reviewed at Royal Albert Hall, London on 22 August 2015', Boston Globe 'Saturday night', The Arts Desk (23 Aug) 'last night'. The BBC also lists a repeat on Mon 7 Sep 2015 at 2pm. The folder date points to the live 22 Aug transmission, but this is not verified from the audio.",
+ "candidate_dates": [
+  "2015-08-22"
+ ],
+ "broadcast_date": "2015-08-22",
+ "broadcaster": "BBC Radio 3",
+ "event_name": "BBC Proms 2015, Prom 49",
+ "program": [
+  {
+   "work_id": "dean-dramatis-personae-for-trumpet-and-orchestra",
+   "title": "Dramatis personae, for trumpet and orchestra",
+   "composer": {
+    "id": "brett-dean",
+    "name": "Brett Dean"
+   },
+   "catalogue": null,
+   "notes": "Composed 2013 for Håkan Hardenberger; first performance at the Proms. Three movements: I. Fall of a Superhero; II. Soliloquy; III. The Accidental Revolutionary. The BBC gives a duration of c28 min. No Wikidata item was found."
+  },
+  {
+   "work_id": "mahler-symphony-no-6-in-a-minor-tragic",
+   "title": "Symphony No. 6 in A minor 'Tragic'",
+   "composer": {
+    "id": "gustav-mahler",
+    "name": "Gustav Mahler"
+   },
+   "catalogue": null,
+   "notes": "Played after the interval with the Scherzo second and the Andante third. Seen and Heard ('Nelsons chose to put the Scherzo second'), The Arts Desk, the Boston Globe and Classical Iconoclast all report this order. Seen and Heard: 'there was no encore.'"
+  }
+ ],
+ "credits": [
+  {
+   "person": {
+    "id": "andris-nelsons",
+    "name": "Andris Nelsons",
+    "image_url": null
+   },
+   "role": "conductor",
+   "work_id": "dean-dramatis-personae-for-trumpet-and-orchestra",
+   "status": "confirmed",
+   "notes": "Named in the exact-date RAH archive record, the BBC broadcast pages and listing, and every review of the night. No change of conductor is reported anywhere.",
+   "source_ids": [
+    "s1",
+    "s2",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9"
+   ]
+  },
+  {
+   "person": {
+    "id": "boston-symphony-orchestra",
+    "name": "Boston Symphony Orchestra",
+    "image_url": null
+   },
+   "role": "orchestra",
+   "work_id": "dean-dramatis-personae-for-trumpet-and-orchestra",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1",
+    "s2",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9"
+   ]
+  },
+  {
+   "person": {
+    "id": "hakan-hardenberger",
+    "name": "Håkan Hardenberger",
+    "image_url": null
+   },
+   "role": "trumpet",
+   "work_id": "dean-dramatis-personae-for-trumpet-and-orchestra",
+   "status": "confirmed",
+   "notes": "The RAH record lists 'Hakan Hardenberger - trumpet'. The Boston Globe says the concerto was 'performed by soloist Hakan Hardenberger', and The Arts Desk comments on his playing that night. No substitution is reported.",
+   "source_ids": [
+    "s1",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9"
+   ]
+  },
+  {
+   "person": {
+    "id": "clemency-burton-hill",
+    "name": "Clemency Burton-Hill",
+    "image_url": null
+   },
+   "role": "presenter",
+   "work_id": null,
+   "status": "confirmed",
+   "notes": "'Presented by Clemency Burton-Hill' appears on BBC programme page b066zjlk (re-read by the reconciler) and on the Radio 3 listings PDF for both parts of the 22 Aug broadcast (re-read). These are broadcast-day listings and the voice was not checked against the audio. A presenter change on the night is possible but nothing suggests one.",
+   "source_ids": [
+    "s1",
+    "s2",
+    "s5"
+   ]
+  },
+  {
+   "person": {
+    "id": "thomas-rolfs",
+    "name": "Thomas Rolfs",
+    "image_url": null
+   },
+   "role": "principal trumpet (BSO)",
+   "work_id": "mahler-symphony-no-6-in-a-minor-tragic",
+   "status": "confirmed",
+   "notes": "Only the Claude researcher reported this credit. The reconciler re-read the Boston Globe review of the night: 'When principal trumpet player Thomas Rolfs stood to take a solo bow after a stellar night in the Mahler'. He is an orchestra member, not a billed soloist. No Wikidata QID was looked up.",
+   "source_ids": [
+    "s8"
+   ]
+  }
+ ],
+ "tracks": [
+  {
+   "id": "proms-150822-prom49:01",
+   "index": 1,
+   "description": "Radio 3 opening announcements and presenter introduction (Clemency Burton-Hill) to Prom 49 and the Dean, possibly with tuning (4:25). Inferred from duration and position.",
+   "title": "Radio 3 opening announcements and presenter introduction (Clemency Burton-Hill) to Prom 49 and the Dean, possibly with tuning. Inferred from duration and position.",
+   "work_id": "dean-dramatis-personae-for-trumpet-and-orchestra",
+   "segment": "announcer",
+   "duration_s": 265,
+   "stream_url": "/api/tracks/proms-150822-prom49:01/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "proms-150822-prom49:02",
+   "index": 2,
+   "description": "Complete concerto: I. Fall of a Superhero; II. Soliloquy; III. The Accidental Revolutionary, probably with applause (30:32 against the listed c28 min). Inferred.",
+   "title": "Complete concerto: I. Fall of a Superhero; II. Soliloquy; III. The Accidental Revolutionary, probably with applause. Inferred.",
+   "work_id": "dean-dramatis-personae-for-trumpet-and-orchestra",
+   "segment": "music",
+   "duration_s": 1832,
+   "stream_url": "/api/tracks/proms-150822-prom49:02/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "proms-150822-prom49:03",
+   "index": 3,
+   "description": "Applause and the presenter's start-of-interval talk (4:44). Inferred. The scheduled 19:05 Proms Extra interval feature (The Lumière Brothers in 1895) does not seem to be included, because tracks 03-04 together last only about 8 minutes of a 20-minute interval.",
+   "title": "Applause and the presenter's start-of-interval talk. Inferred. The scheduled 19:05 Proms Extra interval feature (The Lumière Brothers in 1895) does not seem to be included, because tracks 03-04 together last only about 8 minutes of a 20-minute interval.",
+   "work_id": null,
+   "segment": "intermission",
+   "duration_s": 284,
+   "stream_url": "/api/tracks/proms-150822-prom49:03/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "proms-150822-prom49:04",
+   "index": 4,
+   "description": "Return from the interval (part 2 starts 19:25): presenter introduction to Mahler 6, possibly with tuning (3:06). Inferred.",
+   "title": "Return from the interval (part 2 starts 19:25): presenter introduction to Mahler 6, possibly with tuning. Inferred.",
+   "work_id": "mahler-symphony-no-6-in-a-minor-tragic",
+   "segment": "intermission",
+   "duration_s": 186,
+   "stream_url": "/api/tracks/proms-150822-prom49:04/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "proms-150822-prom49:05",
+   "index": 5,
+   "description": "I. Allegro energico, ma non troppo. Heftig, aber markig (23:50)",
+   "title": "I. Allegro energico, ma non troppo. Heftig, aber markig",
+   "work_id": "mahler-symphony-no-6-in-a-minor-tragic",
+   "segment": "music",
+   "duration_s": 1430,
+   "stream_url": "/api/tracks/proms-150822-prom49:05/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "proms-150822-prom49:06",
+   "index": 6,
+   "description": "II. Scherzo. Wuchtig (14:24). The Scherzo came second in this performance, as reviews of the night confirm.",
+   "title": "II. Scherzo. Wuchtig. The Scherzo came second in this performance, as reviews of the night confirm.",
+   "work_id": "mahler-symphony-no-6-in-a-minor-tragic",
+   "segment": "music",
+   "duration_s": 864,
+   "stream_url": "/api/tracks/proms-150822-prom49:06/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "proms-150822-prom49:07",
+   "index": 7,
+   "description": "III. Andante moderato (17:35)",
+   "title": "III. Andante moderato",
+   "work_id": "mahler-symphony-no-6-in-a-minor-tragic",
+   "segment": "music",
+   "duration_s": 1055,
+   "stream_url": "/api/tracks/proms-150822-prom49:07/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "proms-150822-prom49:08",
+   "index": 8,
+   "description": "IV. Finale. Allegro moderato (30:51)",
+   "title": "IV. Finale. Allegro moderato",
+   "work_id": "mahler-symphony-no-6-in-a-minor-tragic",
+   "segment": "music",
+   "duration_s": 1851,
+   "stream_url": "/api/tracks/proms-150822-prom49:08/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "proms-150822-prom49:09",
+   "index": 9,
+   "description": "Applause and closing broadcast announcements (4:14). There was no encore (Seen and Heard). Inferred.",
+   "title": "Applause and closing broadcast announcements. There was no encore (Seen and Heard). Inferred.",
+   "work_id": "mahler-symphony-no-6-in-a-minor-tragic",
+   "segment": "applause",
+   "duration_s": 254,
+   "stream_url": "/api/tracks/proms-150822-prom49:09/stream",
+   "format": "mp3"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "url": "https://www.bbc.co.uk/programmes/b066zjlk",
+   "wayback_url": null,
+   "title": "BBC Radio 3 - BBC Proms, 2015, Prom 49 (part 1): Mahler - Symphony No 6",
+   "type": "broadcast_listing",
+   "date_specific": true,
+   "excerpt": "Live from the Royal Albert Hall, London. Presented by Clemency Burton-Hill. Brett Dean: Dramatis personae 7.05 pm INTERVAL 7.25 pm Mahler: Symphony No. 6 in A minor. Håkan Hardenberger (trumpet) Boston Symphony Orchestra Andris Nelsons (conductor) ... This Prom will be repeated on Monday 7th September at 2pm. ... Broadcast Sat 22 Aug 2015 18:30 BBC Radio 3"
+  },
+  {
+   "id": "s2",
+   "url": "https://www.bbc.co.uk/programmes/b066zjm7",
+   "wayback_url": null,
+   "title": "BBC Radio 3 - BBC Proms, 2015, Prom 49 (part 2): Mahler - Symphony No 6",
+   "type": "broadcast_listing",
+   "date_specific": true,
+   "excerpt": "(read by the Claude researcher) The Boston Symphony Orchestra's Prom under Andris Nelsons concludes with a performance of Mahler's Symphony No 6 in A minor. ... Orchestra: Boston Symphony Orchestra. Conductor: Andris Nelsons. Broadcast Sat 22 Aug 2015 19:25 BBC Radio 3"
+  },
+  {
+   "id": "s3",
+   "url": "https://www.bbc.co.uk/schedules/p00fzl8t/2015/08/22",
+   "wayback_url": null,
+   "title": "BBC Radio 3 schedule, Saturday 22 August 2015",
+   "type": "broadcast_listing",
+   "date_specific": true,
+   "excerpt": "(read by the Claude researcher) 18:30 BBC Proms - 2015, Prom 49 (part 1) ... 19:05 Proms Extra, The Lumiere Brothers in 1895 ... 19:25 Prom 49 (part 2)"
+  },
+  {
+   "id": "s4",
+   "url": "https://catalogue.royalalberthall.com/Record.aspx?id=PERF11527&src=CalmView.Performance",
+   "wayback_url": null,
+   "title": "Royal Albert Hall catalogue: BBC Proms 2015, Prom 49 - Boston Symphony Orchestra and Andris Nelsons",
+   "type": "archive_record",
+   "date_specific": true,
+   "excerpt": "22 August 2015 ... 18:35 ... 'Dramatis Personae', B Dean / INTERVAL / 'Symphony No.6 in A minor', Mahler ... Hakan Hardenberger - trumpet ... Boston Symphony Orchestra ... Andris Nelsons ... Broadcast live on BBC Radio 3."
+  },
+  {
+   "id": "s5",
+   "url": "https://www.radio-lists.org.uk/r3/2015/R3_2015_0822-0828_3columns_6pt_13pages.pdf",
+   "wayback_url": null,
+   "title": "Radio 3 Listings for 22-28 August 2015 (radio-lists.org.uk, from bbc.co.uk/programmes)",
+   "type": "broadcast_listing",
+   "date_specific": true,
+   "excerpt": "SAT 18:30 BBC Proms (b066zjlk) Prom 49 ... Live from the Royal Albert Hall, London Presented by Clemency Burton-Hill Brett Dean: Dramatis personae ... 7.25 pm Mahler: Symphony No. 6 in A minor Håkan Hardenberger (trumpet) Boston Symphony Orchestra Andris Nelsons (conductor) ... SAT 19:25 BBC Proms (b066zjm7) Prom 49 (part 2)"
+  },
+  {
+   "id": "s6",
+   "url": "https://seenandheard-international.com/2015/08/andris-nelsons-and-the-boston-symphony-bring-magnificent-mahler-to-the-proms/",
+   "wayback_url": "http://web.archive.org/web/20150924071531/http://seenandheard-international.com/2015/08/andris-nelsons-and-the-boston-symphony-bring-magnificent-mahler-to-the-proms/",
+   "title": "Andris Nelsons and the Boston Symphony Bring Magnificent Mahler to the Proms (Colin Clarke, Seen and Heard International)",
+   "type": "review",
+   "date_specific": true,
+   "excerpt": "Prom 49 - Dean, Mahler: Håkan Hardenberger (trumpet). Boston Symphony Orchestra/Andris Nelsons (conductor). Royal Albert Hall, London, 22.8.2015. ... Nelsons chose to put the Scherzo second ... there was no encore."
+  },
+  {
+   "id": "s7",
+   "url": "https://www.theartsdesk.com/classical-music/prom-49-hardenberger-boston-so-nelsons",
+   "wayback_url": null,
+   "title": "Prom 49: Hardenberger, Boston SO, Nelsons (David Nice, The Arts Desk, 23 Aug 2015)",
+   "type": "review",
+   "date_specific": true,
+   "excerpt": "Sunday, 23 August 2015 ... high hopes that their Mahler Six last night would be equally impressive ... Nelsons gets extra marks ... for putting that slow movement third ... its first Proms performance, but Håkan Hardenberger gave the UK premiere with Nelsons in Birmingham"
+  },
+  {
+   "id": "s8",
+   "url": "https://www.bostonglobe.com/arts/music/2015/08/23/andris-nelsons-bso-launch-european-tour-with-auspicious-concert-proms-london/fjBLN4ISAypLnIWMS3WzvJ/story.html",
+   "wayback_url": null,
+   "title": "Andris Nelsons, BSO launch European tour with auspicious concert at Proms in London (Jeremy Eichler, Boston Globe, 23 Aug 2015)",
+   "type": "review",
+   "date_specific": true,
+   "excerpt": "The night began with Brett Dean's trumpet concerto 'Dramatis personae,' performed by soloist Hakan Hardenberger. ... Hardenberger on Saturday took full advantage. ... When principal trumpet player Thomas Rolfs stood to take a solo bow after a stellar night in the Mahler"
+  },
+  {
+   "id": "s9",
+   "url": "https://bachtrack.com/review-prom-49-hardenberger-nelsons-boston-august-2015",
+   "wayback_url": null,
+   "title": "Prom 49: Boston Symphony Orchestra misses the magic in Mahler (George Slater-Walker, Bachtrack)",
+   "type": "review",
+   "date_specific": true,
+   "excerpt": "Reviewed at Royal Albert Hall, London on 22 August 2015. Håkan Hardenberger, Trumpet; Boston Symphony Orchestra; Andris Nelsons, Conductor. Dean: Dramatis Personae; Mahler: Symphony no. 6 in A minor 'Tragic'"
+  },
+  {
+   "id": "s10",
+   "url": "https://classical-iconoclast.blogspot.com/2015/08/andris-nelsons-mahler-6-bso-prom-49.html",
+   "wayback_url": null,
+   "title": "Classical Iconoclast: Andris Nelsons Mahler 6 BSO Prom 49",
+   "type": "review",
+   "date_specific": true,
+   "excerpt": "Nelsons' order worked better with the BSO because it injected dramatic urgency into the symphony sooner rather than later."
+  },
+  {
+   "id": "s11",
+   "url": "https://www.radio-lists.org.uk/proms/2015/promslist_2015.php",
+   "wayback_url": null,
+   "title": "Radio-Lists: Proms 2015",
+   "type": "broadcast_listing",
+   "date_specific": true,
+   "excerpt": "HTTP 403 on fetch; search snippet only: 'Prom 49: Mahler - Symphony No. 6 18:30 Saturday 22 Aug 2015 Royal Albert Hall Brett Dean Dramatis personae (28 mins) INTERVAL Mahler Symphony No.'"
+  },
+  {
+   "id": "s12",
+   "url": "https://www.bbc.co.uk/proms/events/performances/2015",
+   "wayback_url": null,
+   "title": "BBC Proms Performance Archive (2015)",
+   "type": "archive_record",
+   "date_specific": false,
+   "excerpt": "The Prom 49 event page could not be found: the URL returned 404, Wayback lookups failed and the web search budget ran out during reconciliation."
+  },
+  {
+   "id": "s13",
+   "url": "https://www.wikidata.org/wiki/Q382700",
+   "wayback_url": null,
+   "title": "Brett Dean - Wikidata",
+   "type": "wikidata",
+   "date_specific": false,
+   "excerpt": "Brett Dean (Q382700), Australian composer"
+  },
+  {
+   "id": "s14",
+   "url": "https://www.wikidata.org/wiki/Q7304",
+   "wayback_url": null,
+   "title": "Gustav Mahler - Wikidata",
+   "type": "wikidata",
+   "date_specific": false,
+   "excerpt": "Gustav Mahler (Q7304)"
+  },
+  {
+   "id": "s15",
+   "url": "https://www.wikidata.org/wiki/Q246487",
+   "wayback_url": null,
+   "title": "Symphony No. 6 (Mahler) - Wikidata",
+   "type": "wikidata",
+   "date_specific": false,
+   "excerpt": "Q246487 - Symphony No. 6, symphony by Gustav Mahler"
+  },
+  {
+   "id": "s16",
+   "url": "https://www.wikidata.org/wiki/Q453147",
+   "wayback_url": null,
+   "title": "Håkan Hardenberger - Wikidata",
+   "type": "wikidata",
+   "date_specific": false,
+   "excerpt": "Håkan Hardenberger (Q453147), Swedish trumpeter"
+  },
+  {
+   "id": "s17",
+   "url": "https://www.wikidata.org/wiki/Q864369",
+   "wayback_url": null,
+   "title": "Boston Symphony Orchestra - Wikidata",
+   "type": "wikidata",
+   "date_specific": false,
+   "excerpt": "Boston Symphony Orchestra (Q864369)"
+  },
+  {
+   "id": "s18",
+   "url": "https://www.wikidata.org/wiki/Q511817",
+   "wayback_url": null,
+   "title": "Andris Nelsons - Wikidata",
+   "type": "wikidata",
+   "date_specific": false,
+   "excerpt": "Andris Nelsons (Q511817), Latvian conductor"
+  },
+  {
+   "id": "s19",
+   "url": "https://www.wikidata.org/wiki/Q193639",
+   "wayback_url": null,
+   "title": "Royal Albert Hall - Wikidata",
+   "type": "wikidata",
+   "date_specific": false,
+   "excerpt": "Royal Albert Hall (Q193639)"
+  },
+  {
+   "id": "s20",
+   "url": "https://www.wikidata.org/wiki/Q5131241",
+   "wayback_url": null,
+   "title": "Clemency Burton-Hill - Wikidata",
+   "type": "wikidata",
+   "date_specific": false,
+   "excerpt": "Clemency Burton-Hill (Q5131241), English classical music broadcaster"
+  }
+ ],
+ "resources": [
+  {
+   "url": "https://catalogue.royalalberthall.com/Record.aspx?id=PERF11527&src=CalmView.Performance",
+   "wayback_url": null,
+   "title": "Royal Albert Hall performance record: Prom 49 (22 Aug 2015)",
+   "kind": "archive record",
+   "description": "The venue's own record of the date, with programme, performers, start time and a live-broadcast note."
+  },
+  {
+   "url": "https://www.bbc.co.uk/programmes/b066zjlk",
+   "wayback_url": null,
+   "title": "BBC Radio 3: Prom 49 (part 1), Dean Dramatis personae",
+   "kind": "broadcast page",
+   "description": "Official Radio 3 programme page for the first half, with running order, presenter and BBC programme note."
+  },
+  {
+   "url": "https://www.bbc.co.uk/programmes/b066zjm7",
+   "wayback_url": null,
+   "title": "BBC Radio 3: Prom 49 (part 2), Mahler Symphony No. 6",
+   "kind": "broadcast page",
+   "description": "Official Radio 3 programme page for the second half."
+  },
+  {
+   "url": "https://www.bbc.co.uk/schedules/p00fzl8t/2015/08/22",
+   "wayback_url": null,
+   "title": "BBC Radio 3 schedule, 22 August 2015",
+   "kind": "broadcast page",
+   "description": "The full evening schedule, including the Proms Extra interval talk."
+  },
+  {
+   "url": "https://www.radio-lists.org.uk/r3/2015/R3_2015_0822-0828_3columns_6pt_13pages.pdf",
+   "wayback_url": null,
+   "title": "BBC Radio 3 listings, 22-28 August 2015 (PDF)",
+   "kind": "broadcast listing",
+   "description": "Archived copy of the week's Radio 3 listings, including both parts of Prom 49."
+  },
+  {
+   "url": "https://www.theartsdesk.com/classical-music/prom-49-hardenberger-boston-so-nelsons",
+   "wayback_url": null,
+   "title": "The Arts Desk review (David Nice)",
+   "kind": "review",
+   "description": "Five-star review: 'easily the best Mahler Sixth I've ever heard in a concert hall'."
+  },
+  {
+   "url": "https://seenandheard-international.com/2015/08/andris-nelsons-and-the-boston-symphony-bring-magnificent-mahler-to-the-proms/",
+   "wayback_url": "http://web.archive.org/web/20150924071531/http://seenandheard-international.com/2015/08/andris-nelsons-and-the-boston-symphony-bring-magnificent-mahler-to-the-proms/",
+   "title": "Seen and Heard International review (Colin Clarke)",
+   "kind": "review",
+   "description": "Detailed review naming the date, programme and performers."
+  },
+  {
+   "url": "https://bachtrack.com/review-prom-49-hardenberger-nelsons-boston-august-2015",
+   "wayback_url": null,
+   "title": "Bachtrack review (George Slater-Walker)",
+   "kind": "review",
+   "description": "A more critical view of the Mahler."
+  },
+  {
+   "url": "https://www.bostonglobe.com/arts/music/2015/08/23/andris-nelsons-bso-launch-european-tour-with-auspicious-concert-proms-london/fjBLN4ISAypLnIWMS3WzvJ/story.html",
+   "wayback_url": null,
+   "title": "Boston Globe: Nelsons, BSO launch European tour at the Proms (Jeremy Eichler)",
+   "kind": "review",
+   "description": "Report on the concert that opened the BSO's 2015 European tour."
+  },
+  {
+   "url": "https://classical-iconoclast.blogspot.com/2015/08/andris-nelsons-mahler-6-bso-prom-49.html",
+   "wayback_url": null,
+   "title": "Classical Iconoclast: Nelsons Mahler 6, BSO, Prom 49",
+   "kind": "review",
+   "description": null
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Symphony_No._6_(Mahler)",
+   "wayback_url": null,
+   "title": "Wikipedia: Symphony No. 6 (Mahler)",
+   "kind": "wiki",
+   "description": null
+  }
+ ],
+ "open_questions": [
+  "The BBC Proms Performance Archive event page for 2015 Prom 49 was not found. The exact-date Royal Albert Hall archive record, the BBC broadcast pages and listings, and four reviews of the night all agree on the performers, and none reports a substitution.",
+  "The BBC lists a repeat on Mon 7 Sep 2015 at 2pm. The folder date 150822 points to the live 22 Aug broadcast, but the audio has not been checked. Since it is the same performance, only broadcast_date would change.",
+  "Track boundaries and the contents of the spoken and applause tracks (01, 03, 04, 09) are inferred from durations and the schedule, not from listening. Tracks 03-04 total only about 8 minutes, so the 20-minute interval and its Proms Extra talk (The Lumière Brothers in 1895) appear to have been cut.",
+  "Track 02 (30:32) is about 2.5 minutes longer than the listed c28 minutes for Dramatis personae. It probably includes applause. Whether Hardenberger played an encore after the concerto is not documented; Seen and Heard's 'no encore' remark appears to refer to the end of the concert.",
+  "The presenter credit rests on broadcast-day listings and has not been checked against the voice on the recording.",
+  "No Wikidata item was found for Dean's Dramatis personae, and none was looked up for Thomas Rolfs.",
+  "The Wayback availability API returned no snapshots for the BBC programme pages, the RAH record or the reviews, apart from the Seen and Heard snapshot."
+ ],
+ "folder": "BBC Proms/150822 Prom 49 Mahler 6 Nelsons"
+}

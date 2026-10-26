@@ -1,0 +1,820 @@
+[
+{
+"work_id": "wagner-das-rheingold",
+"value": "yes",
+"hint": "Rhinegold theft, Tarnhelm transformations, and Alberich’s curse",
+"reason": "The Rhinemaidens guard gold that Alberich steals to forge a magical ring, whose curse drives the drama."
+},
+{
+"work_id": "wagner-die-walkure",
+"value": "yes",
+"hint": "Valkyries, Wotan’s interventions, and the magic-fire finale",
+"reason": "Gods and Valkyries direct the action, culminating in Brünnhilde’s enchanted sleep within a ring of fire."
+},
+{
+"work_id": "britten-war-requiem",
+"value": "partial",
+"hint": "Libera me: Strange Meeting",
+"reason": "The final Owen setting imagines two dead enemy soldiers meeting in Hell within the larger antiwar requiem."
+},
+{
+"work_id": "wagner-lohengrin-prelude-to-act-i",
+"value": "partial",
+"hint": "Prelude to Act I",
+"reason": "The prelude inherits the opera’s supernatural Grail and enchanted-swan setting without staging the magical events themselves."
+},
+{
+"work_id": "debussy-syrinx",
+"value": "yes",
+"hint": "Pan’s final flute music in Psyché",
+"reason": "Written for the dying Pan in Psyché, this flute solo evokes the myth of the nymph Syrinx and her transformation into reeds."
+},
+{
+"work_id": "mahler-symphony-no-4-in-g-major",
+"value": "partial",
+"hint": "II: In gemächlicher Bewegung",
+"reason": "The scherzo’s deliberately mistuned solo violin represents the fiddling figure of Death within an otherwise broader symphony."
+},
+{
+"work_id": "rossini-semiramide",
+"value": "partial",
+"hint": "Act I finale: Nino’s apparition",
+"reason": "The murdered King Nino’s ghost interrupts the royal ceremony and demands vengeance, although the supplied synopsis stops before this event."
+},
+{
+"work_id": "offenbach-les-contes-dhoffmann",
+"value": "yes",
+"hint": "",
+"reason": "The Muse’s supernatural disguise frames Hoffmann’s fantastic encounters with demonic antagonists, enchantments, and a stolen reflection."
+},
+{
+"work_id": "donizetti-lucia-di-lammermoor",
+"value": "partial",
+"hint": "Act I: Regnava nel silenzio",
+"reason": "Lucia recounts seeing a murdered woman’s ghost at the fountain, introducing a supernatural omen into the human tragedy.",
+"performance_notes": {
+"met-080308-lucia": "In this Mary Zimmerman production, Lucia's ghost appears at the end and helps Edgardo guide the dagger.",
+"met-081003-lucia": "In this Mary Zimmerman production, Lucia's ghost appears at the end and helps Edgardo guide the dagger.",
+"met-090207-lucia": "In this Mary Zimmerman production, Lucia's ghost appears at the end and helps Edgardo guide the dagger.",
+"met-110319-lucia": "In this Mary Zimmerman production, Lucia's ghost appears at the end and helps Edgardo guide the dagger.",
+"met-150407-lucia": "In this Mary Zimmerman production, Lucia's ghost appears at the end and helps Edgardo guide the dagger.",
+"met-180322-lucia": "In this Mary Zimmerman production, Lucia's ghost appears at the end and helps Edgardo guide the dagger.",
+"met-180407-lucia": "In this Mary Zimmerman production, Lucia's ghost appears at the end and helps Edgardo guide the dagger.",
+"met-180502-lucia": "In this Mary Zimmerman production, Lucia's ghost appears at the end and helps Edgardo guide the dagger."
+}
+},
+{
+"work_id": "verdi-rigoletto",
+"value": "partial",
+"hint": "Act I: Monterone’s curse; final recognition of its fulfillment",
+"reason": "Monterone’s curse frames Rigoletto’s tragedy and is understood by Rigoletto as fulfilled in Gilda’s death, though its supernatural efficacy remains ambiguous."
+},
+{
+"work_id": "stravinsky-petrouchka-petrushka-burlesque-in-four-scenes-1947-revision",
+"value": "yes",
+"hint": "The puppets’ awakening and Petrushka’s final apparition",
+"reason": "A magician animates three puppets and Petrushka returns as a ghost after his apparent death."
+},
+{
+"work_id": "wagner-tannhauser-overture",
+"value": "partial",
+"hint": "Overture: Venusberg music",
+"reason": "The overture evokes the enchanted Venusberg and inherits the opera’s supernatural setting within its broader conflict of desire and redemption."
+},
+{
+"work_id": "handel-jephtha",
+"value": "partial",
+"hint": "Act III: the angel interrupts Iphis’s sacrifice",
+"reason": "An angel intervenes to prevent Iphis’s sacrifice, a supernatural resolution occurring after the supplied synopsis fragment."
+},
+{
+"work_id": "wagner-parsifal",
+"value": "yes",
+"hint": "Klingsor’s enchanted garden and the Holy Spear",
+"reason": "Klingsor’s sorcery, Kundry’s curse, and the miraculous Grail and Spear are central to the drama."
+},
+{
+"work_id": "wagner-siegfried",
+"value": "yes",
+"hint": "Fafner’s cave and Brünnhilde’s awakening",
+"reason": "Siegfried kills the dragon Fafner, understands the Forest Bird through dragon blood, and crosses magic fire to awaken Brünnhilde."
+},
+{
+"work_id": "wagner-der-fliegende-hollander",
+"value": "yes",
+"hint": "",
+"reason": "A cursed captain and his ghost ship must wander the seas until faithful love releases him."
+},
+{
+"work_id": "wagner-tristan-und-isolde",
+"value": "partial",
+"hint": "Act I: the love potion",
+"reason": "The love potion supplies an explicitly magical catalyst within the lovers’ predominantly human tragedy."
+},
+{
+"work_id": "bach-cantata-bwv-54-widerstehe-doch-der-sunde",
+"value": "partial",
+"hint": "Opening aria and concluding aria",
+"reason": "The opening and closing arias explicitly warn against Satan’s deception, a fatal curse, and the devil’s snares within a moral exhortation."
+},
+{
+"work_id": "handel-aci-galatea-e-polifemo",
+"value": "yes",
+"hint": "Polifemo’s attack and Aci’s transformation",
+"reason": "The Cyclops Polifemo kills Aci, whom the sea nymph Galatea has transformed into a river."
+},
+{
+"work_id": "ravel-daphnis-et-chloe-complete-ballet-with-chorus",
+"value": "partial",
+"hint": "The nymphs’ intervention and Pan’s rescue of Chloé",
+"reason": "Nymphs and an apparition of Pan intervene to rescue Chloé within the pastoral love story."
+},
+{
+"work_id": "wagner-parsifal-prelude-to-act-1-and-good-friday-music",
+"value": "partial",
+"hint": "Prelude to Act I and Good Friday music",
+"reason": "These orchestral excerpts inherit Parsifal’s Grail miracles, enchantment, and curse without presenting Klingsor’s sorcery directly."
+},
+{
+"work_id": "pletnev-dance-of-the-sugar-plum-fairy-arr-pletnev-encore",
+"value": "yes",
+"hint": "Dance of the Sugar Plum Fairy",
+"reason": "The excerpt portrays the supernatural fairy who presides over the Nutcracker’s magical kingdom."
+},
+{
+"work_id": "mahler-des-knaben-wunderhorn-selection-der-schildwache-nachtlied",
+"value": "partial",
+"hint": "Revelge",
+"reason": "The selected group includes Revelge, in which fallen soldiers rise for a spectral march."
+},
+{
+"work_id": "debussy-blanc-et-noir-prelude-a-lapres-midi-dun-faune",
+"value": "partial",
+"hint": "Prélude à l’après-midi d’un faune",
+"reason": "The combined entry includes Debussy’s depiction of a faun dreaming of nymphs alongside the unrelated En blanc et noir."
+},
+{
+"work_id": "mozart-requiem-in-d-minor-completion-by-pierre-henri-dutron-2016-partly-drawing",
+"value": "partial",
+"hint": "Confutatis and Domine Jesu Christe",
+"reason": "The Requiem text explicitly invokes the flames of the damned and deliverance from Hell within a larger liturgical work."
+},
+{
+"work_id": "handel-hercules",
+"value": "partial",
+"hint": "Nessus’s poisoned robe and the final announcement of Hercules’s apotheosis",
+"reason": "The centaur Nessus’s deadly gift and Hercules’s final elevation among the gods add supernatural elements to the domestic tragedy."
+},
+{
+"work_id": "britten-death-in-venice",
+"value": "partial",
+"hint": "Act II: dream of Apollo and Dionysus",
+"reason": "Apollo and Dionysus contend over Aschenbach in a dream sequence within an otherwise human story."
+},
+{
+"work_id": "britten-death-in-venice-op-88",
+"value": "partial",
+"hint": "Act II: dream of Apollo and Dionysus",
+"reason": "Apollo and Dionysus contend over Aschenbach in a dream sequence within an otherwise human story."
+},
+{
+"work_id": "messiaen-saint-francois-dassise",
+"value": "partial",
+"hint": "The angel’s visits, healing of the leper, and the stigmata",
+"reason": "An appearing angel and enacted miracles provide specific supernatural episodes in Francis’s spiritual life."
+},
+{
+"work_id": "strauss-ariadne-auf-naxos",
+"value": "partial",
+"hint": "The opera within the opera: nymphs and Bacchus’s arrival",
+"reason": "The embedded mythological opera includes three nymphs and the god Bacchus, giving the theatrical frame supernatural characters."
+},
+{
+"work_id": "berlioz-la-damnation-de-faust",
+"value": "yes",
+"hint": "The pact, Ride to the Abyss, and Pandemonium",
+"reason": "Méphistophélès obtains Faust’s soul and carries him to Hell, making demonic temptation and damnation central."
+},
+{
+"work_id": "berlioz-romeo-et-juliette-op-17-orchestral-excerpts-romeo-alone-festivities-at",
+"value": "partial",
+"hint": "Queen Mab Scherzo",
+"reason": "One of the specified excerpts depicts Queen Mab, the fairy who brings dreams."
+},
+{
+"work_id": "mahler-symphony-no-2-in-c-minor-resurrection",
+"value": "partial",
+"hint": "V: resurrection finale",
+"reason": "Mahler’s programme for the finale describes graves opening and the dead rising in procession, giving the symphony a specific supernatural vision."
+},
+{
+"work_id": "mahler-symphony-no-8-in-e-flat-major-symphony-of-a-thousand",
+"value": "partial",
+"hint": "Part II: final scene from Goethe’s Faust",
+"reason": "The Faust setting depicts the dead Faust’s soul among angels and blessed spirits within the two-part symphony."
+},
+{
+"work_id": "tchaikovsky-swan-lake",
+"value": "yes",
+"hint": "",
+"reason": "Rothbart’s enchantment transforms Odette and her companions into swans and governs the lovers’ fate."
+},
+{
+"work_id": "wolf-elfenlied-elves-song-for-soprano-chorus-and-orchestra",
+"value": "yes",
+"hint": "",
+"reason": "The poem depicts elves moving and singing through the night, making supernatural beings the song’s subject."
+},
+{
+"work_id": "wolf-der-feuerreiter-the-fire-rider-for-chorus-and-orchestra",
+"value": "yes",
+"hint": "The fire rider’s ride and discovery of his remains",
+"reason": "Mörike’s ballad presents a fire rider associated with forbidden magic and infernal fire who perishes and haunts the burned mill."
+},
+{
+"work_id": "offenbach-les-contes-dhoffmann-barcarolle-belle-nuit-o-nuit-damour",
+"value": "partial",
+"hint": "Giulietta episode: Barcarolle",
+"reason": "The nocturnal love song inherits the Giulietta story’s demonic theft of Hoffmann’s reflection without depicting that magic itself."
+},
+{
+"work_id": "humperdinck-hansel-und-gretel-abendsegen-abends-will-ich-schlafen-gehn",
+"value": "partial",
+"hint": "Act II: Abendsegen",
+"reason": "The children’s evening prayer belongs to the witch-and-enchantment story, but this duet itself is a prayer rather than an enacted spell."
+},
+{
+"work_id": "handel-apollo-e-dafne-cantata",
+"value": "partial",
+"hint": "Dafne’s transformation into a laurel",
+"reason": "Dafne escapes Apollo through a supernatural transformation into a tree at the cantata’s conclusion."
+},
+{
+"work_id": "hanson-merry-mount-opera-in-three-acts-libretto-by-richard-l-stokes-concert",
+"value": "yes",
+"hint": "Bradford’s infernal dream and the final conflagration",
+"reason": "Bradford’s demonic vision, infernal allegiance, and curse connect the opera’s central temptation to its catastrophic ending."
+},
+{
+"work_id": "ho-the-shaman-concerto-for-percussion-and-orchestra",
+"value": "yes",
+"hint": "Interlude: Conjuring the Spirits",
+"reason": "The composer explicitly models the concerto on a shaman mediating between human and spirit worlds, including an episode of spirit conjuring."
+},
+{
+"work_id": "dett-the-ordering-of-moses",
+"value": "partial",
+"hint": "The burning bush and the crossing of the Red Sea",
+"reason": "The oratorio depicts God speaking through the burning bush and the miraculous parting of the Red Sea within the Israelites’ liberation story."
+},
+{
+"work_id": "macmillan-woman-of-the-apocalypse",
+"value": "yes",
+"hint": "",
+"reason": "The orchestral programme draws on the apocalyptic woman confronted by the dragon in Revelation."
+},
+{
+"work_id": "stravinsky-the-firebird-closing-scenes",
+"value": "yes",
+"hint": "Closing scenes: enchantment broken and finale",
+"reason": "The closing sequence resolves Kashchei’s spell and the Firebird’s magical rescue of his captives."
+},
+{
+"work_id": "ravel-daphnis-et-chloe-complete-ballet",
+"value": "partial",
+"hint": "The nymphs’ intervention and Pan’s rescue of Chloé",
+"reason": "Nymphs and an apparition of Pan intervene to rescue Chloé within the pastoral love story."
+},
+{
+"work_id": "liszt-transcendental-etudes-etudes-dexecution-transcendante-complete-set-of-12",
+"value": "partial",
+"hint": "No. 5 Feux follets and No. 8 Wilde Jagd",
+"reason": "The complete étude cycle includes depictions of will-o’-the-wisps and the legendary supernatural Wild Hunt."
+},
+{
+"work_id": "mahler-revelge-des-knaben-wunderhorn",
+"value": "yes",
+"hint": "",
+"reason": "Revelge depicts dead soldiers rising to continue their ghostly march."
+},
+{
+"work_id": "ravel-daphnis-et-chloe-suite-no-2",
+"value": "partial",
+"hint": "Suite No. 2: Pantomime of Pan and Syrinx",
+"reason": "The suite includes the lovers’ reenactment of Pan’s pursuit of the nymph Syrinx and her transformation into reeds."
+},
+{
+"work_id": "weber-der-freischutz-overture",
+"value": "partial",
+"hint": "Overture",
+"reason": "The overture inherits Der Freischütz’s demonic bargain and magic bullets but does not enact the Wolf’s Glen scene."
+},
+{
+"work_id": "wagner-der-fliegende-hollander-overture",
+"value": "partial",
+"hint": "Overture",
+"reason": "The overture presents musical material from the cursed Dutchman’s ghost-ship story without staging the supernatural action itself."
+},
+{
+"work_id": "mussorgsky-pictures-at-an-exhibition-orch-maurice-ravel",
+"value": "partial",
+"hint": "The Hut on Fowl’s Legs (Baba Yaga) and Cum mortuis in lingua mortua",
+"reason": "The suite contains the witch Baba Yaga’s hut and a visionary passage addressing the dead among otherwise nonsupernatural pictures."
+},
+{
+"work_id": "sibelius-the-tempest-interlude-miranda-orchestral-encore",
+"value": "partial",
+"hint": "",
+"reason": "This excerpt inherits The Tempest’s sorcery and spirit-filled setting without identifying a supernatural event in the excerpt itself."
+},
+{
+"work_id": "sibelius-the-tempest-cortege-orchestral-encore",
+"value": "partial",
+"hint": "",
+"reason": "This excerpt inherits The Tempest’s sorcery and spirit-filled setting without identifying a supernatural event in the excerpt itself."
+},
+{
+"work_id": "bartok-the-miraculous-mandarin-suite-concert-version",
+"value": "partial",
+"hint": "Concert suite ending with the chase",
+"reason": "The suite derives from a ballet whose Mandarin survives repeated murder attempts, but ends before those explicitly supernatural episodes."
+},
+{
+"work_id": "tchaikovsky-dance-of-the-tumblers-from-the-snow-maiden",
+"value": "partial",
+"hint": "Dance of the Tumblers",
+"reason": "The human entertainers’ dance inherits The Snow Maiden’s supernatural fairy-tale setting without depicting enchantment itself."
+},
+{
+"work_id": "sibelius-lemminkainens-return-no-4-of-the-lemminkainen-suite-four-legends-from",
+"value": "partial",
+"hint": "Lemminkäinen’s Return",
+"reason": "The return movement inherits the Kalevala hero’s magical adventures and restoration to life without depicting the resurrection itself."
+},
+{
+"work_id": "sibelius-valse-triste-orchestral-encore",
+"value": "yes",
+"hint": "Kuolema: the dying mother’s nocturnal dance",
+"reason": "The waltz accompanies a dying woman’s vision of spectral dancers and the arrival of Death."
+},
+{
+"work_id": "rameau-les-arts-et-les-heures-from-les-boreades",
+"value": "partial",
+"hint": "Act IV: Les Arts et les heures",
+"reason": "This dance excerpt inherits Les Boréades’ divine interventions and magical instrument without specifying those events in the excerpt."
+},
+{
+"work_id": "purcell-suite-from-the-fairy-queen",
+"value": "partial",
+"hint": "Suite; individual movements unspecified",
+"reason": "The suite inherits The Fairy Queen’s enchanted fairy world, but its unspecified selections cannot be assumed to depict particular spells."
+},
+{
+"work_id": "arlen-over-the-rainbow-from-the-wizard-of-oz-encore-milos-solo-arr-toru",
+"value": "partial",
+"hint": "Over the Rainbow",
+"reason": "Dorothy’s opening song precedes the magical action but inherits The Wizard of Oz’s witches and enchanted setting."
+},
+{
+"work_id": "stravinsky-the-firebird-complete-ballet-1910",
+"value": "yes",
+"hint": "",
+"reason": "The magical Firebird helps Ivan defeat the sorcerer Kashchei and release his enchanted captives."
+},
+{
+"work_id": "mussorgsky-hopak-from-the-fair-at-sorochyntsi",
+"value": "partial",
+"hint": "Hopak",
+"reason": "The celebratory Hopak inherits the opera’s devil legends and infernal dream scene without depicting them itself."
+},
+{
+"work_id": "charpentier-medee-selections",
+"value": "partial",
+"hint": "Selections unspecified",
+"reason": "The selections inherit Médée’s sorcery and summoned infernal powers, but their unspecified contents do not establish a particular magical scene."
+},
+{
+"work_id": "lully-atys-selections",
+"value": "partial",
+"hint": "Selections unspecified",
+"reason": "The selections inherit Atys’s divine enchantment and transformation into a pine, though the performed scenes are unspecified."
+},
+{
+"work_id": "rameau-pigmalion-selections",
+"value": "partial",
+"hint": "Selections unspecified",
+"reason": "The selections inherit Pigmalion’s miraculous animation of a statue, though the record does not identify which scenes are performed."
+},
+{
+"work_id": "sibelius-valse-triste-op-44-no-1",
+"value": "yes",
+"hint": "Kuolema: the dying mother’s nocturnal dance",
+"reason": "The waltz accompanies a dying woman’s vision of spectral dancers and the arrival of Death."
+},
+{
+"work_id": "tchaikovsky-the-nutcracker-concert-suite-arranged-for-piano-by-mikhail-pletnev",
+"value": "partial",
+"hint": "Pletnev concert suite: selections unspecified",
+"reason": "The unspecified selections inherit the Nutcracker’s animated toys and enchanted kingdom without establishing which magical episodes are included."
+},
+{
+"work_id": "rachmaninoff-rhapsody-on-a-theme-of-paganini",
+"value": "partial",
+"hint": "Variations incorporating the Dies irae",
+"reason": "Rachmaninoff associated the Dies irae variations with the evil spirit of Paganini’s legendary bargain, a supernatural strand within the variation work."
+},
+{
+"work_id": "verdi-messa-da-requiem",
+"value": "partial",
+"hint": "Confutatis and Domine Jesu Christe",
+"reason": "The Requiem’s text explicitly describes the damned in flames and pleads for deliverance from Hell."
+},
+{
+"work_id": "handel-semele",
+"value": "yes",
+"hint": "Juno’s disguise, Somnus’s enchantment, and Jupiter’s revelation",
+"reason": "Divine disguises, enchanted sleep, and Jupiter’s fatal revelation govern Semele’s story."
+},
+{
+"work_id": "weber-overture-to-der-freischutz-op-77",
+"value": "partial",
+"hint": "Overture",
+"reason": "The overture inherits Der Freischütz’s demonic bargain and magic bullets but does not enact the Wolf’s Glen scene."
+},
+{
+"work_id": "gluck-iphigenie-en-tauride",
+"value": "partial",
+"hint": "Act II: Orestes’s Furies vision; final intervention of Diana",
+"reason": "Orestes is tormented by the Furies and Diana intervenes at the conclusion of the human rescue drama."
+},
+{
+"work_id": "wagner-die-walkure-der-ring-des-nibelungen-day-1-second-opera",
+"value": "yes",
+"hint": "The Valkyries and the magic-fire finale",
+"reason": "Valkyries collect fallen heroes and Wotan places Brünnhilde in enchanted sleep surrounded by magic fire."
+},
+{
+"work_id": "verdi-nabucco",
+"value": "partial",
+"hint": "Nabucco’s madness and the destruction of Baal’s idol",
+"reason": "The king’s divinely inflicted madness and the miraculous collapse of Baal’s idol introduce supernatural interventions into the historical drama."
+},
+{
+"work_id": "verdi-un-ballo-in-maschera",
+"value": "partial",
+"hint": "Act I: Ulrica’s invocation and prophecy",
+"reason": "Ulrica invokes infernal powers and prophesies the ruler’s death in a localized occult scene beyond the supplied synopsis fragment."
+},
+{
+"work_id": "mozart-don-giovanni",
+"value": "partial",
+"hint": "Act II: cemetery and supper scenes",
+"reason": "The dead Commendatore’s statue speaks and comes to dinner before dragging Don Giovanni to damnation."
+},
+{
+"work_id": "stravinsky-the-rakes-progress",
+"value": "yes",
+"hint": "Nick Shadow’s bargain and the graveyard card game",
+"reason": "The devilish Nick Shadow engineers Tom’s downfall and claims his soul in a supernatural bargain."
+},
+{
+"work_id": "mussorgsky-boris-godunov",
+"value": "partial",
+"hint": "Boris’s hallucination of the murdered child",
+"reason": "Boris’s guilt takes the form of a vision of the murdered child’s ghost within the historical tragedy."
+},
+{
+"work_id": "tchaikovsky-the-queen-of-spades",
+"value": "partial",
+"hint": "Act III: the Countess’s ghost reveals the cards",
+"reason": "The dead Countess appears to Hermann and reveals the three cards in a supernatural episode within his psychological tragedy."
+},
+{
+"work_id": "tchaikovsky-the-queen-of-spades-pikovaya-dama",
+"value": "partial",
+"hint": "Act III: the Countess’s ghost reveals the cards",
+"reason": "The dead Countess appears to Hermann and reveals the three cards in a supernatural episode within his psychological tragedy."
+},
+{
+"work_id": "stravinsky-le-rossignol-the-nightingale",
+"value": "partial",
+"hint": "Act III: Death at the emperor’s bedside",
+"reason": "The Nightingale confronts personified Death and the emperor’s haunting memories in the final act."
+},
+{
+"work_id": "mozart-idomeneo-re-di-creta-k-366",
+"value": "yes",
+"hint": "Neptune’s sea monster and the oracle",
+"reason": "Neptune enforces Idomeneo’s sacrificial vow through a sea monster and resolves the crisis through a supernatural voice."
+},
+{
+"work_id": "dun-the-first-emperor",
+"value": "partial",
+"hint": "Act II: the imperial inauguration",
+"reason": "The emperor encounters the ghosts of Yueyang and General Wang during the inauguration sequence."
+},
+{
+"work_id": "mozart-die-zauberflote-abridged-version-in-english-tr-j-d-mcclatchy",
+"value": "partial",
+"hint": "The serpent, enchanted flute and bells, and trials",
+"reason": "A monster and magical instruments provide supernatural episodes and assistance within the opera’s broader initiation story."
+},
+{
+"work_id": "strauss-die-agyptische-helena",
+"value": "yes",
+"hint": "Aithra’s island and the potions of forgetfulness and remembrance",
+"reason": "Aithra’s sorcery, spirits, and magical potions direct the attempt to reunite Helen and Menelaus."
+},
+{
+"work_id": "korngold-die-tote-stadt",
+"value": "partial",
+"hint": "Act I: Marie’s apparition and the dream sequence",
+"reason": "Paul sees his dead wife Marie in a vision framing the ensuing dream drama."
+},
+{
+"work_id": "various-the-125th-anniversary-gala-26-staged-scenes-and-excerpts-faust-through",
+"value": "partial",
+"hint": "Gala scenes from Faust and Das Rheingold; exact excerpts unspecified",
+"reason": "The mixed gala includes excerpts from Faust and Das Rheingold, so it inherits their supernatural content without identifying the exact scenes."
+},
+{
+"work_id": "korngold-die-tote-stadt-gluck-das-mir-verblieb",
+"value": "partial",
+"hint": "Act I: Glück, das mir verblieb",
+"reason": "The love song inherits Die tote Stadt’s ghostly vision of Marie, although the song itself is sung by living characters."
+},
+{
+"work_id": "wagner-das-rheingold-final-scene-zur-burg-fuhrt-die-brucke-abendlich-strahlt",
+"value": "yes",
+"hint": "Das Rheingold: final scene",
+"reason": "The gods enter Valhalla across a supernatural rainbow bridge while the Rhinemaidens lament their stolen gold."
+},
+{
+"work_id": "wagner-die-walkure-der-ring-des-nibelungen-day-1-of-the-trilogy",
+"value": "yes",
+"hint": "The Valkyries and the magic-fire finale",
+"reason": "Valkyries collect fallen heroes and Wotan places Brünnhilde in enchanted sleep surrounded by magic fire."
+},
+{
+"work_id": "ades-the-exterminating-angel",
+"value": "yes",
+"hint": "",
+"reason": "An inexplicable force prevents the guests from leaving the room and drives the opera’s entire ordeal."
+},
+{
+"work_id": "thomas-hamlet",
+"value": "partial",
+"hint": "The dead king’s appearances",
+"reason": "The murdered king’s ghost commands Hamlet to avenge him in supernatural episodes within the revenge tragedy."
+},
+{
+"work_id": "humperdinck-hansel-und-gretel",
+"value": "yes",
+"hint": "The witch’s house and the release of the enchanted children",
+"reason": "A witch traps children with magic, and breaking her spell restores the gingerbread children to life."
+},
+{
+"work_id": "tchaikovsky-the-maid-of-orleans",
+"value": "partial",
+"hint": "Joan’s angelic summons and the final heavenly voices",
+"reason": "Angelic voices direct and frame Joan’s mission within the historical tragedy."
+},
+{
+"work_id": "verdi-don-carlos",
+"value": "partial",
+"hint": "Final scene: the monk identified with Charles V",
+"reason": "The concluding intervention of the monk associated with the dead Charles V supplies an ambiguously ghostly resolution."
+},
+{
+"work_id": "gruenberg-the-emperor-jones",
+"value": "partial",
+"hint": "Jones’s forest visions",
+"reason": "Jones encounters phantoms of people and terrors from his past during his flight, presented as visions rather than confirmed revenants."
+},
+{
+"work_id": "massenet-cendrillon-cinderella-abridged-english-language-version",
+"value": "yes",
+"hint": "The Fairy Godmother’s transformation and the enchanted meeting",
+"reason": "A fairy’s spells transform Cendrillon’s circumstances and enable her reunion with the Prince."
+},
+{
+"work_id": "cherubini-medea-italian-version-with-sung-recitatives",
+"value": "partial",
+"hint": "Medea’s magical backstory and invocation of infernal powers",
+"reason": "Medea’s established sorcery and infernal invocations frame a revenge plot carried out largely through poison and murder."
+},
+{
+"work_id": "verdi-don-carlo",
+"value": "partial",
+"hint": "Final scene: the monk identified with Charles V",
+"reason": "The concluding intervention of the monk associated with the dead Charles V supplies an ambiguously ghostly resolution."
+},
+{
+"work_id": "catan-florencia-en-el-amazonas",
+"value": "partial",
+"hint": "Riolobo’s supernatural intervention and Florencia’s final transformation",
+"reason": "Supernatural interventions on the river and Florencia’s transformation into a butterfly punctuate the passengers’ emotional journeys."
+},
+{
+"work_id": "handel-rinaldo",
+"value": "yes",
+"hint": "Armida’s enchantments and the rescue from her palace",
+"reason": "Armida’s sorcery and the heroes’ magical countermeasures drive the abduction and rescue plot."
+},
+{
+"work_id": "gounod-faust",
+"value": "yes",
+"hint": "Faust’s pact, Walpurgis Night, and Marguerite’s salvation",
+"reason": "Faust’s bargain with Méphistophélès and the resulting supernatural temptations drive the opera."
+},
+{
+"work_id": "dvorak-rusalka",
+"value": "yes",
+"hint": "",
+"reason": "The water spirit Rusalka accepts Ježibaba’s transformative spell and suffers its fatal curse."
+},
+{
+"work_id": "handel-samson",
+"value": "partial",
+"hint": "Act III: Samson’s destruction of the temple",
+"reason": "Samson’s divinely restored strength destroys the Philistine temple in the oratorio’s supernatural climax."
+},
+{
+"work_id": "puccini-le-villi-act-ii-intermezzo-la-tregenda",
+"value": "yes",
+"hint": "Act II intermezzo: La Tregenda",
+"reason": "The intermezzo depicts the spectral dance of the Villi, dead betrayed women who force faithless lovers to dance to death."
+},
+{
+"work_id": "donizetti-lucia-di-lammermoor-tombe-deglavi-miei-fra-poco-a-me-ricovero",
+"value": "partial",
+"hint": "Act III: Tombe degl’avi miei and Fra poco a me ricovero",
+"reason": "Edgardo’s tomb-side lament inherits Lucia’s earlier ghost omen, although the aria itself contains no apparition.",
+"performance_notes": {
+"met-080308-lucia": "In this Mary Zimmerman production, Lucia's ghost appears at the end and helps Edgardo guide the dagger.",
+"met-081003-lucia": "In this Mary Zimmerman production, Lucia's ghost appears at the end and helps Edgardo guide the dagger.",
+"met-090207-lucia": "In this Mary Zimmerman production, Lucia's ghost appears at the end and helps Edgardo guide the dagger.",
+"met-110319-lucia": "In this Mary Zimmerman production, Lucia's ghost appears at the end and helps Edgardo guide the dagger.",
+"met-150407-lucia": "In this Mary Zimmerman production, Lucia's ghost appears at the end and helps Edgardo guide the dagger.",
+"met-180322-lucia": "In this Mary Zimmerman production, Lucia's ghost appears at the end and helps Edgardo guide the dagger.",
+"met-180407-lucia": "In this Mary Zimmerman production, Lucia's ghost appears at the end and helps Edgardo guide the dagger.",
+"met-180502-lucia": "In this Mary Zimmerman production, Lucia's ghost appears at the end and helps Edgardo guide the dagger."
+}
+},
+{
+"work_id": "wagner-tannhauser",
+"value": "yes",
+"hint": "Venusberg and the miraculous flowering staff",
+"reason": "The enchanted realm of Venus and the miraculous sign of pardon frame and motivate Tannhäuser’s struggle."
+},
+{
+"work_id": "verdi-la-forza-del-destino",
+"value": "partial",
+"hint": "Act I: the dying Marquis curses Leonora",
+"reason": "The father’s deathbed curse supplies a supernatural or superstitious frame for the subsequent human catastrophes without establishing literal magic."
+},
+{
+"work_id": "mozart-die-zauberflote",
+"value": "partial",
+"hint": "The serpent, enchanted flute and bells, and trials",
+"reason": "A monster and magical instruments provide supernatural episodes and assistance within the opera’s broader initiation story."
+},
+{
+"work_id": "donizetti-lucia-di-lammermoor-mad-scene-act-3-scene-2",
+"value": "yes",
+"hint": "Act III mad scene: the fountain phantom returns in Lucia’s vision",
+"reason": "During the mad scene Lucia imagines the fountain’s terrifying phantom rising between her and Edgardo."
+},
+{
+"work_id": "boito-mefistofele",
+"value": "yes",
+"hint": "The pact, witches’ sabbath, and Faust’s death",
+"reason": "Mephistopheles wagers for Faust’s soul and leads him through supernatural temptations and a witches’ sabbath."
+},
+{
+"work_id": "verdi-il-trovatore",
+"value": "partial",
+"hint": "Act I: Ferrando’s account of the accused witch and her haunting",
+"reason": "Ferrando’s ghost story and accusations of witchcraft frame the tragedy, though the alleged supernatural agency remains uncertain."
+},
+{
+"work_id": "verdi-don-carlo-tu-che-le-vanita",
+"value": "partial",
+"hint": "Final act: Tu che le vanità",
+"reason": "Elisabetta’s aria inherits Don Carlo’s ghostly concluding frame without itself depicting Charles V’s apparition."
+},
+{
+"work_id": "janacek-the-makropulos-case-final-scene-sung-in-english",
+"value": "yes",
+"hint": "Final scene: revelation and destruction of the elixir formula",
+"reason": "The final scene reveals the life-prolonging potion that has sustained Emilia for centuries and ends with its formula being burned."
+},
+{
+"work_id": "rachmaninoff-the-isle-of-the-dead-symphonic-poem-after-arnold-bocklin",
+"value": "yes",
+"hint": "",
+"reason": "The symphonic poem evokes the passage of the dead to Böcklin’s otherworldly island, traditionally associated with Charon’s ferry."
+},
+{
+"work_id": "stravinsky-the-firebird-complete-ballet",
+"value": "yes",
+"hint": "",
+"reason": "The magical Firebird helps Ivan defeat the sorcerer Kashchei and release his enchanted captives."
+},
+{
+"work_id": "berlioz-symphonie-fantastique",
+"value": "partial",
+"hint": "V: Songe d’une nuit du sabbat",
+"reason": "The final movement depicts a dream of witches, shades, and a grotesque funeral sabbath within the five-movement programme."
+},
+{
+"work_id": "strauss-daphne-op-82-concert-performance",
+"value": "partial",
+"hint": "Final scene: Daphne becomes a laurel tree",
+"reason": "Apollo’s divine intervention transforms Daphne into a laurel at the conclusion of the pastoral tragedy."
+},
+{
+"work_id": "strauss-ariadne-auf-naxos-second-version-1916-prologue-and-opera",
+"value": "partial",
+"hint": "The opera within the opera: nymphs and Bacchus’s arrival",
+"reason": "The embedded mythological opera includes three nymphs and the god Bacchus, giving the theatrical frame supernatural characters."
+},
+{
+"work_id": "wagner-der-fliegende-hollander-the-flying-dutchman-single-act-version-without",
+"value": "yes",
+"hint": "",
+"reason": "A cursed captain and his ghost ship must wander the seas until faithful love releases him."
+},
+{
+"work_id": "stravinsky-trois-mouvements-de-petrouchka-three-movements-from-petrushka",
+"value": "partial",
+"hint": "Russian Dance, Petrushka’s Room, and Shrovetide Fair",
+"reason": "The piano movements inherit Petrushka’s magically animated puppet characters but omit the ballet’s final ghost apparition."
+},
+{
+"work_id": "verdi-macbeth-paris-version-1865-with-the-1847-florence-final-aria-mal-per-me",
+"value": "partial",
+"hint": "Witches’ prophecies, Banquo’s ghost, and the apparitions",
+"reason": "Witches and supernatural apparitions steer Macbeth’s choices in several scenes within the political tragedy."
+},
+{
+"work_id": "verdi-macbeth",
+"value": "partial",
+"hint": "Witches’ prophecies, Banquo’s ghost, and the apparitions",
+"reason": "Witches and supernatural apparitions steer Macbeth’s choices in several scenes within the political tragedy."
+},
+{
+"work_id": "tchaikovsky-the-maid-of-orleans-orleanskaya-deva",
+"value": "partial",
+"hint": "Joan’s angelic summons and the final heavenly voices",
+"reason": "Angelic voices direct and frame Joan’s mission within the historical tragedy."
+},
+{
+"work_id": "strauss-daphne-bukolische-tragodie-in-einem-aufzug-libretto-by-joseph-gregor",
+"value": "partial",
+"hint": "Final scene: Daphne becomes a laurel tree",
+"reason": "Apollo’s divine intervention transforms Daphne into a laurel at the conclusion of the pastoral tragedy."
+},
+{
+"work_id": "wagner-lohengrin",
+"value": "yes",
+"hint": "The swan knight’s arrival and Gottfried’s restoration",
+"reason": "Ortrud’s enchantment transforms Gottfried into a swan, and the Grail knight’s supernatural mission resolves the mystery."
+},
+{
+"work_id": "wagner-die-walkure-der-ring-des-nibelungen-erster-tag",
+"value": "yes",
+"hint": "The Valkyries and the magic-fire finale",
+"reason": "Valkyries collect fallen heroes and Wotan places Brünnhilde in enchanted sleep surrounded by magic fire."
+},
+{
+"work_id": "berlioz-les-troyens",
+"value": "partial",
+"hint": "Hector’s ghost and the later summons from the dead",
+"reason": "Ghosts and divine messengers direct Aeneas’s departure and punctuate the larger epic of Troy and Carthage."
+},
+{
+"work_id": "stravinsky-divertimento-from-le-baiser-de-la-fee-the-fairys-kiss",
+"value": "partial",
+"hint": "Divertimento: excerpts from The Fairy’s Kiss",
+"reason": "The divertimento inherits the fairy’s fateful claim on the young man, but its concert selections do not establish the complete supernatural action."
+},
+{
+"work_id": "debussy-prelude-a-lapres-midi-dun-faune",
+"value": "yes",
+"hint": "",
+"reason": "The tone poem depicts the dreams and desires of a faun in a world populated by nymphs."
+},
+{
+"work_id": "gluck-orfeo-ed-euridice",
+"value": "yes",
+"hint": "Act II: the Furies and the Elysian Fields",
+"reason": "Orfeo descends to the underworld, tames the Furies with his singing and leads Euridice back from among the dead."
+},
+{
+"work_id": "gluck-orphee-et-eurydice-1774-paris-version-of-orfeo-ed-euridice",
+"value": "yes",
+"hint": "Act II: the Furies and the Elysian Fields",
+"reason": "Orfeo descends to the underworld, tames the Furies with his singing and leads Euridice back from among the dead."
+}
+]

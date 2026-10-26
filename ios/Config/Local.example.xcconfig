@@ -1,0 +1,15 @@
+// Copy to Local.xcconfig (gitignored) and fill in your own server addresses.
+// xcconfig treats "//" as a comment, so write URLs as https:/$()/host (the $() expands to nothing).
+// Lists are space-separated.
+
+// The server the app uses by default.
+SETHSTER_DEFAULT_SERVER = https:/$()/music.example.com
+
+// Tried in order when the configured server doesn't answer (e.g. a Tailscale or LAN name).
+SETHSTER_FALLBACK_SERVERS = https:/$()/nas.your-tailnet.ts.example
+
+// Origins that are the same server, so one sign-in session works on all of them.
+SETHSTER_TRUSTED_ALIASES = https:/$()/music.example.com https:/$()/nas.your-tailnet.ts.example
+
+// Earlier built-in defaults; a saved server equal to one of these is migrated to the default.
+SETHSTER_LEGACY_DEFAULTS =

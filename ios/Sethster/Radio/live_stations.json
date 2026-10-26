@@ -1,0 +1,1204 @@
+{
+  "format_version": 1,
+  "verified_at": "2026-10-18T18:06:44+00:00",
+  "stations": [
+    {
+      "id": "bbc-radio-3",
+      "name": "BBC Radio 3",
+      "broadcaster": "BBC",
+      "country": "GB",
+      "city": "London",
+      "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_three",
+      "stream_url": "https://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d320000.norewind.m3u8",
+      "format": "hls",
+      "bitrate_kbps": 320,
+      "content_type": "application/vnd.apple.mpegurl",
+      "logo_url": "https://sounds.files.bbci.co.uk/3.7.0/networks/bbc_radio_three/blocks-colour_600x600.png",
+      "description": "Live concerts and opera broadcasts, including the BBC Proms, Radio 3 in Concert and Saturday opera relays",
+      "airs_opera": true,
+      "metadata": {
+        "type": "json",
+        "url": "https://rms.api.bbc.co.uk/v2/services/bbc_radio_three/segments/latest",
+        "fields": {
+          "artist": "data.0.titles.primary",
+          "title": "data.0.titles.secondary"
+        }
+      },
+      "tags": [
+        "opera",
+        "concerts",
+        "public"
+      ],
+      "https": true,
+      "verified": {
+        "status": 206,
+        "content_type": "application/vnd.apple.mpegurl",
+        "bytes": 616,
+        "segment": {
+          "status": 200,
+          "ct": "video/MP2T",
+          "bytes": 268088,
+          "file": "MPEG transport stream data"
+        },
+        "metadata_sample": {
+          "artist": "Walter Galpin Alcock",
+          "title": "Marche Triomphale"
+        }
+      }
+    },
+    {
+      "id": "wqxr",
+      "name": "WQXR",
+      "broadcaster": "New York Public Radio",
+      "country": "US",
+      "city": "New York",
+      "homepage": "https://www.wqxr.org",
+      "stream_url": "https://stream.wqxr.org/wqxr-web",
+      "format": "mp3",
+      "bitrate_kbps": 128,
+      "content_type": "audio/mpeg",
+      "logo_url": "https://media.wnyc.org/i/500/500/c/80/1/wqxr_1_1.png",
+      "description": "New York's classical station; carries the Metropolitan Opera Saturday broadcasts in season and live concerts",
+      "airs_opera": true,
+      "metadata": {
+        "type": "json",
+        "url": "https://api.wnyc.org/api/v1/whats_on/wqxr/",
+        "fields": {
+          "title": "current_playlist_item.catalog_entry.title",
+          "composer": "current_playlist_item.catalog_entry.composer.name",
+          "programme": "current_show.title"
+        }
+      },
+      "tags": [
+        "opera",
+        "concerts",
+        "public"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/mpeg",
+        "bytes": 435592,
+        "icy_metaint": 1024,
+        "icy_name": "WQXR",
+        "icy_br": "128",
+        "file": "MPEG ADTS, layer III, v1, 128 kbps, 48 kHz, JntStereo",
+        "metadata_sample": {
+          "title": "Violin Sonata No. 1 in G, Op. 78",
+          "composer": "Johannes Brahms",
+          "programme": "Weekend Afternoons with Annie Bergen"
+        }
+      }
+    },
+    {
+      "id": "wqxr-operavore",
+      "name": "WQXR Operavore",
+      "broadcaster": "New York Public Radio",
+      "country": "US",
+      "city": "New York",
+      "homepage": "https://www.wqxr.org/operavore",
+      "stream_url": "https://opera-stream.wqxr.org/operavore",
+      "format": "mp3",
+      "bitrate_kbps": 128,
+      "content_type": "audio/mpeg",
+      "logo_url": "https://media.wnyc.org/i/500/500/c/80/1/wqxr_1_1.png",
+      "description": "24/7 opera stream: arias, scenes and complete opera recordings",
+      "airs_opera": true,
+      "metadata": {
+        "type": "json",
+        "url": "https://api.wnyc.org/api/v1/whats_on/operavore/",
+        "fields": {
+          "title": "current_playlist_item.catalog_entry.title",
+          "composer": "current_playlist_item.catalog_entry.composer.name"
+        }
+      },
+      "tags": [
+        "opera",
+        "public",
+        "opera-only"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/mpeg",
+        "bytes": 429426,
+        "icy_metaint": 1024,
+        "icy_name": "Operavore",
+        "icy_br": "128",
+        "file": "MPEG ADTS, layer III, v1, 128 kbps, 48 kHz, JntStereo",
+        "metadata_sample": {
+          "title": "Mefistofele: Ave, Signor",
+          "composer": "Arrigo Boito"
+        }
+      }
+    },
+    {
+      "id": "wfmt",
+      "name": "WFMT 98.7",
+      "broadcaster": "Window to the World Communications",
+      "country": "US",
+      "city": "Chicago",
+      "homepage": "https://www.wfmt.com",
+      "stream_url": "https://wfmt.streamguys1.com/main-mp3",
+      "format": "mp3",
+      "bitrate_kbps": 128,
+      "content_type": "audio/mpeg",
+      "logo_url": "https://www.wfmt.com/wp-content/uploads/2018/07/cropped-wfmt-favicon_512-192x192.png",
+      "description": "Chicago classical station with Lyric Opera of Chicago and Chicago Symphony broadcasts",
+      "airs_opera": true,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "opera",
+        "concerts",
+        "public"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/mpeg",
+        "bytes": 326894,
+        "icy_metaint": 1024,
+        "icy_br": "128",
+        "file": "MPEG ADTS, layer III, v1, 128 kbps, 48 kHz, JntStereo"
+      }
+    },
+    {
+      "id": "kusc",
+      "name": "Classical KUSC",
+      "broadcaster": "University of Southern California",
+      "country": "US",
+      "city": "Los Angeles",
+      "homepage": "https://www.kusc.org",
+      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSCMP256.mp3",
+      "format": "mp3",
+      "bitrate_kbps": 256,
+      "content_type": "audio/mpeg",
+      "logo_url": "https://www.kusc.org/icons/cc/apple-touch-icon.png",
+      "description": "Los Angeles classical station; LA Opera and LA Phil broadcasts, Met Opera Saturdays",
+      "airs_opera": true,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "opera",
+        "concerts",
+        "public"
+      ],
+      "https": true,
+      "verified": {
+        "status": 206,
+        "content_type": "audio/mpeg",
+        "bytes": 32768,
+        "icy_metaint": 16000,
+        "icy_name": "Classical KUSC",
+        "icy_br": "256",
+        "file": "MPEG ADTS, layer III, v1, 256 kbps, 44.1 kHz, JntStereo"
+      }
+    },
+    {
+      "id": "crb-classical",
+      "name": "CRB Classical 99.5 (WCRB)",
+      "broadcaster": "GBH",
+      "country": "US",
+      "city": "Boston",
+      "homepage": "https://www.classicalwcrb.org",
+      "stream_url": "https://wgbh-live.streamguys1.com/classical-hi",
+      "format": "aac",
+      "bitrate_kbps": 256,
+      "content_type": "audio/aac",
+      "logo_url": "https://www.classicalwcrb.org/apple-touch-icon.png",
+      "description": "Boston classical station; Boston Symphony Orchestra live broadcasts and Met Opera Saturdays",
+      "airs_opera": true,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "opera",
+        "concerts",
+        "public"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/aac",
+        "bytes": 668898,
+        "icy_metaint": 4096,
+        "icy_br": "258",
+        "file": "MPEG ADTS, AAC, v2 LC, 48 kHz, stereo"
+      }
+    },
+    {
+      "id": "wdav",
+      "name": "WDAV 89.9 Classical Public Radio",
+      "broadcaster": "Davidson College",
+      "country": "US",
+      "city": "Davidson, NC",
+      "homepage": "https://www.wdav.org",
+      "stream_url": "https://wdav-ice.streamguys1.com/live-mp3",
+      "format": "mp3",
+      "bitrate_kbps": 128,
+      "content_type": "audio/mpeg",
+      "logo_url": "https://wdav.org/wp-content/themes/wdav2024/images/favicon.png",
+      "description": "Charlotte-area classical public radio with regional concert and opera broadcasts",
+      "airs_opera": true,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "concerts",
+        "public"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/mpeg",
+        "bytes": 243183,
+        "icy_metaint": 16000,
+        "icy_br": "128",
+        "file": "MPEG ADTS, layer III, v1, 128 kbps, 48 kHz, Stereo"
+      }
+    },
+    {
+      "id": "radio-swiss-classic",
+      "name": "Radio Swiss Classic",
+      "broadcaster": "SRG SSR",
+      "country": "CH",
+      "city": "Bern",
+      "homepage": "https://www.radioswissclassic.ch",
+      "stream_url": "https://stream.srg-ssr.ch/srgssr/rsc_de/mp3/128",
+      "format": "mp3",
+      "bitrate_kbps": 128,
+      "content_type": "audio/mpeg",
+      "logo_url": "https://www.radioswissclassic.ch/favicon.ico",
+      "description": "Non-stop classical music with minimal talk",
+      "airs_opera": false,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "public",
+        "non-stop"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/mpeg",
+        "bytes": 262207,
+        "icy_metaint": 16384,
+        "icy_name": "Swiss Classic D",
+        "icy_br": "128",
+        "file": "MPEG ADTS, layer III, v1, 128 kbps, 48 kHz, Stereo"
+      }
+    },
+    {
+      "id": "france-musique",
+      "name": "France Musique",
+      "broadcaster": "Radio France",
+      "country": "FR",
+      "city": "Paris",
+      "homepage": "https://www.radiofrance.fr/francemusique",
+      "stream_url": "https://icecast.radiofrance.fr/francemusique-hifi.aac",
+      "format": "aac",
+      "bitrate_kbps": 192,
+      "content_type": "audio/aac",
+      "logo_url": "https://www.radiofrance.fr/external/favicons/francemusique/favicon.png",
+      "description": "French public classical station with live concerts and opera from Paris and European houses",
+      "airs_opera": true,
+      "metadata": {
+        "type": "json",
+        "url": "https://api.radiofrance.fr/livemeta/live/4/transistor_musical_player",
+        "fields": {
+          "programme": "now.firstLine",
+          "title": "now.secondLine"
+        }
+      },
+      "tags": [
+        "opera",
+        "concerts",
+        "public"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/aac",
+        "bytes": 338660,
+        "icy_name": "francemusique-hifi.aac",
+        "icy_br": "192",
+        "file": "MPEG ADTS, AAC, v4 LC, 48 kHz, stereo",
+        "metadata_sample": {
+          "programme": "France Musique",
+          "title": "Ce monde a besoin de musique"
+        }
+      }
+    },
+    {
+      "id": "france-musique-opera",
+      "name": "France Musique Opéra",
+      "broadcaster": "Radio France",
+      "country": "FR",
+      "city": "Paris",
+      "homepage": "https://www.radiofrance.fr/francemusique/radio-opera",
+      "stream_url": "https://icecast.radiofrance.fr/francemusiqueopera-hifi.aac",
+      "format": "aac",
+      "bitrate_kbps": 192,
+      "content_type": "audio/aac",
+      "logo_url": "https://www.radiofrance.fr/external/favicons/francemusique/favicon.png",
+      "description": "Radio France opera webradio: the great arias and opera scenes, non-stop",
+      "airs_opera": true,
+      "metadata": {
+        "type": "json",
+        "url": "https://api.radiofrance.fr/livemeta/live/409/transistor_musical_player",
+        "fields": {
+          "programme": "now.firstLine",
+          "title": "now.secondLine"
+        }
+      },
+      "tags": [
+        "opera",
+        "public",
+        "opera-only"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/aac",
+        "bytes": 353204,
+        "icy_name": "francemusiqueopera-hifi.aac",
+        "icy_br": "192",
+        "file": "MPEG ADTS, AAC, v4 LC, 48 kHz, stereo",
+        "metadata_sample": {
+          "programme": "Opéra",
+          "title": "Ferruccio Busoni • Arlecchino : Ein Schauspiel it's für Kinder nicht noch Götter (1er mouvement, Arlecchino als Schalk) Arlecchino et Matteo"
+        }
+      }
+    },
+    {
+      "id": "france-musique-concerts",
+      "name": "France Musique Concerts Radio France",
+      "broadcaster": "Radio France",
+      "country": "FR",
+      "city": "Paris",
+      "homepage": "https://www.radiofrance.fr/francemusique/radio-concerts",
+      "stream_url": "https://icecast.radiofrance.fr/francemusiqueconcertsradiofrance-hifi.aac",
+      "format": "aac",
+      "bitrate_kbps": 192,
+      "content_type": "audio/aac",
+      "logo_url": "https://www.radiofrance.fr/external/favicons/francemusique/favicon.png",
+      "description": "Concert recordings by Radio France's orchestras and choir",
+      "airs_opera": false,
+      "metadata": {
+        "type": "json",
+        "url": "https://api.radiofrance.fr/livemeta/live/403/transistor_musical_player",
+        "fields": {
+          "programme": "now.firstLine",
+          "title": "now.secondLine"
+        }
+      },
+      "tags": [
+        "concerts",
+        "public"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/aac",
+        "bytes": 355986,
+        "icy_name": "francemusiqueconcertsradiofrance-hifi.aac",
+        "icy_br": "192",
+        "file": "MPEG ADTS, AAC, v4 LC, 48 kHz, stereo",
+        "metadata_sample": {
+          "programme": "Concerts Radio France",
+          "title": "Les grandes pages du répertoire des concertos et de la musique symphonique choisies dans les concerts des formations de Radio France."
+        }
+      }
+    },
+    {
+      "id": "radio-classique",
+      "name": "Radio Classique",
+      "broadcaster": "Groupe Les Echos-Le Parisien",
+      "country": "FR",
+      "city": "Paris",
+      "homepage": "https://www.radioclassique.fr",
+      "stream_url": "https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3",
+      "format": "mp3",
+      "bitrate_kbps": 128,
+      "content_type": "audio/mpeg",
+      "logo_url": "https://www.radioclassique.fr/favicon.ico",
+      "description": "French commercial classical station: classical repertoire plus business news in the mornings",
+      "airs_opera": false,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "commercial"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/mpeg",
+        "bytes": 298482,
+        "icy_metaint": 16000,
+        "icy_name": "Radio Classique",
+        "icy_br": "128",
+        "file": "MPEG ADTS, layer III, v1, 128 kbps, 48 kHz, Stereo"
+      }
+    },
+    {
+      "id": "br-klassik",
+      "name": "BR-Klassik",
+      "broadcaster": "Bayerischer Rundfunk",
+      "country": "DE",
+      "city": "Munich",
+      "homepage": "https://www.br-klassik.de",
+      "stream_url": "https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high",
+      "format": "mp3",
+      "bitrate_kbps": 256,
+      "content_type": "audio/mpeg",
+      "logo_url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:476e47d76c4bbf78?w=512",
+      "description": "Bavarian public classical station; Bavarian State Opera, Bayreuth Festival and BR Symphony relays",
+      "airs_opera": true,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "opera",
+        "concerts",
+        "public"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/mpeg",
+        "bytes": 441994,
+        "icy_metaint": 16384,
+        "icy_name": "BR Klassik",
+        "icy_br": "256",
+        "file": "MPEG ADTS, layer III, v1, 256 kbps, 48 kHz, JntStereo"
+      }
+    },
+    {
+      "id": "swr-kultur",
+      "name": "SWR Kultur",
+      "broadcaster": "Südwestrundfunk",
+      "country": "DE",
+      "city": "Stuttgart",
+      "homepage": "https://www.swr.de/swrkultur/",
+      "stream_url": "https://dispatcher.rndfnk.com/swr/swr2/live/mp3/256/stream.mp3",
+      "format": "mp3",
+      "bitrate_kbps": 256,
+      "content_type": "audio/mpeg",
+      "logo_url": "https://www.swr.de/assets/swr/swrkultur/apple-touch-icon.png",
+      "description": "SWR's culture channel (formerly SWR2): concerts, opera evenings and festival relays",
+      "airs_opera": true,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "opera",
+        "concerts",
+        "public",
+        "culture"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/mpeg",
+        "bytes": 442298,
+        "icy_metaint": 16384,
+        "icy_name": "SWR2 MP3 256",
+        "icy_br": "256",
+        "file": "MPEG ADTS, layer III, v1, 256 kbps, 48 kHz, JntStereo"
+      }
+    },
+    {
+      "id": "hr2-kultur",
+      "name": "hr2-kultur",
+      "broadcaster": "Hessischer Rundfunk",
+      "country": "DE",
+      "city": "Frankfurt",
+      "homepage": "https://www.hr2.de",
+      "stream_url": "https://dispatcher.rndfnk.com/hr/hr2/live/mp3/high",
+      "format": "mp3",
+      "bitrate_kbps": 256,
+      "content_type": "audio/mpeg",
+      "logo_url": "https://www.hr2.de/favicon.png",
+      "description": "Hessian culture channel: classical music, hr-Sinfonieorchester concerts and opera broadcasts",
+      "airs_opera": true,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "opera",
+        "concerts",
+        "public",
+        "culture"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/mpeg",
+        "bytes": 440458,
+        "icy_metaint": 16384,
+        "icy_name": "hr2",
+        "icy_br": "256",
+        "file": "MPEG ADTS, layer III, v1, 256 kbps, 48 kHz, JntStereo"
+      }
+    },
+    {
+      "id": "mdr-klassik",
+      "name": "MDR Klassik",
+      "broadcaster": "Mitteldeutscher Rundfunk",
+      "country": "DE",
+      "city": "Leipzig",
+      "homepage": "https://www.mdr.de/klassik/",
+      "stream_url": "https://mdr-284350-0.sslcast.mdr.de/mdr/284350/0/mp3/high/stream.mp3",
+      "format": "mp3",
+      "bitrate_kbps": 128,
+      "content_type": "audio/mpeg",
+      "logo_url": "https://www.mdr.de/resources/assets/resources/images/favicon/apple-touch-icon.png",
+      "description": "Central German public classical music channel, largely non-stop recordings",
+      "airs_opera": false,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "public"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/mpeg",
+        "bytes": 265792,
+        "icy_metaint": 16384,
+        "icy_name": "MDR KLASSIK",
+        "icy_br": "128",
+        "file": "MPEG ADTS, layer III, v1, 128 kbps, 48 kHz, JntStereo"
+      }
+    },
+    {
+      "id": "klassik-radio",
+      "name": "Klassik Radio",
+      "broadcaster": "Klassik Radio AG",
+      "country": "DE",
+      "city": "Augsburg",
+      "homepage": "https://www.klassikradio.de",
+      "stream_url": "https://live.streams.klassikradio.de/klassikradio-deutschland/stream/mp3",
+      "format": "mp3",
+      "bitrate_kbps": 192,
+      "content_type": "audio/mpeg",
+      "logo_url": "https://klassikradio.de/img/ms-mediumtile.png",
+      "description": "German commercial classical station: light classics, film music and crossover",
+      "airs_opera": false,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "commercial"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/mpeg",
+        "bytes": 704200,
+        "icy_metaint": 8192,
+        "icy_name": "Klassik Radio - Deutschland national",
+        "icy_br": "192",
+        "file": "MPEG ADTS, layer III, v1, 192 kbps, 44.1 kHz, JntStereo"
+      }
+    },
+    {
+      "id": "klassik-radio-opera",
+      "name": "Klassik Radio Opera",
+      "broadcaster": "Klassik Radio AG",
+      "country": "DE",
+      "city": "Augsburg",
+      "homepage": "https://www.klassikradio.de",
+      "stream_url": "https://stream.klassikradio.de/opera/mp3-128/",
+      "format": "mp3",
+      "bitrate_kbps": 128,
+      "content_type": "audio/mpeg",
+      "logo_url": "https://klassikradio.de/img/ms-mediumtile.png",
+      "description": "Non-stop opera webradio ('Best of Oper'): arias and opera highlights",
+      "airs_opera": true,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "opera",
+        "commercial",
+        "opera-only"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/mpeg",
+        "bytes": 490437,
+        "icy_metaint": 8192,
+        "icy_name": "Best of Oper",
+        "icy_br": "128",
+        "file": "MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo"
+      }
+    },
+    {
+      "id": "oe1",
+      "name": "Ö1",
+      "broadcaster": "ORF",
+      "country": "AT",
+      "city": "Vienna",
+      "homepage": "https://oe1.orf.at",
+      "stream_url": "https://orf-live.ors-shoutcast.at/oe1-q2a",
+      "format": "mp3",
+      "bitrate_kbps": 192,
+      "content_type": "audio/mpeg",
+      "logo_url": "https://oe1.orf.at/static/img/logo_oe1.png",
+      "description": "Austrian public culture channel; Vienna State Opera, Salzburg Festival and Vienna Philharmonic relays",
+      "airs_opera": true,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "opera",
+        "concerts",
+        "public",
+        "culture"
+      ],
+      "https": true,
+      "verified": {
+        "status": 206,
+        "content_type": "audio/mpeg",
+        "bytes": 32768,
+        "icy_metaint": 16000,
+        "icy_br": "192",
+        "file": "MPEG ADTS, layer III, v1, 192 kbps, 48 kHz, JntStereo"
+      }
+    },
+    {
+      "id": "npo-klassiek",
+      "name": "NPO Klassiek",
+      "broadcaster": "NPO",
+      "country": "NL",
+      "city": "Hilversum",
+      "homepage": "https://www.npoklassiek.nl",
+      "stream_url": "https://icecast.omroep.nl/radio4-bb-mp3",
+      "format": "mp3",
+      "bitrate_kbps": 192,
+      "content_type": "audio/mpeg",
+      "logo_url": "https://www.npoklassiek.nl/svg/npo-klassiek-logo.svg",
+      "description": "Dutch public classical station (formerly Radio 4) with Concertgebouw concerts and the Saturday Matinee opera",
+      "airs_opera": true,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "opera",
+        "concerts",
+        "public"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/mpeg",
+        "bytes": 790385,
+        "icy_metaint": 16000,
+        "icy_name": "NPO Klassiek",
+        "icy_br": "192",
+        "file": "MPEG ADTS, layer III, v1, 192 kbps, 48 kHz, JntStereo"
+      }
+    },
+    {
+      "id": "concertzender",
+      "name": "Concertzender",
+      "broadcaster": "Stichting Concertzender",
+      "country": "NL",
+      "city": "Utrecht",
+      "homepage": "https://www.concertzender.nl",
+      "stream_url": "http://streams.greenhost.nl:8080/live",
+      "format": "mp3",
+      "bitrate_kbps": 256,
+      "content_type": "audio/mpeg",
+      "logo_url": "https://www.concertzender.nl/favicon.ico",
+      "description": "Dutch listener-supported station with curated classical, early-music and contemporary programmes (http only)",
+      "airs_opera": false,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "non-profit",
+        "http-only"
+      ],
+      "https": false,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/mpeg",
+        "bytes": 897472,
+        "icy_metaint": 16000,
+        "icy_name": "Concertzender",
+        "icy_br": "256",
+        "file": "data"
+      }
+    },
+    {
+      "id": "venice-classic-radio",
+      "name": "Venice Classic Radio",
+      "broadcaster": "Venice Classic Radio",
+      "country": "IT",
+      "city": "Venice",
+      "homepage": "https://www.veniceclassicradio.eu",
+      "stream_url": "https://uk2.streamingpulse.com/ssl/vcr1",
+      "format": "mp3",
+      "bitrate_kbps": 128,
+      "content_type": "audio/mpeg",
+      "logo_url": "https://veniceclassicradio.eu/favicon.ico",
+      "description": "Italian non-stop classical webradio ('Auditorium' channel) with full works, no ads",
+      "airs_opera": false,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "non-stop",
+        "independent"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/mpeg",
+        "bytes": 441399,
+        "icy_metaint": 8192,
+        "icy_name": "VCR Auditorium | Venice Classic Radio Italia",
+        "icy_br": "128",
+        "file": "MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo"
+      }
+    },
+    {
+      "id": "rai-radio-3",
+      "name": "Rai Radio 3",
+      "broadcaster": "Rai",
+      "country": "IT",
+      "city": "Rome",
+      "homepage": "https://www.raiplaysound.it/radio3",
+      "stream_url": "https://icestreaming.rai.it/3.mp3",
+      "format": "mp3",
+      "bitrate_kbps": 320,
+      "content_type": "audio/mpeg",
+      "logo_url": "https://www.raicom.rai.it/wp-content/uploads/2021/12/RADIO3-1024x1024.jpg",
+      "description": "Italian public culture channel; live opera from La Scala, the Met and Italian houses (Radio3 Suite)",
+      "airs_opera": true,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "opera",
+        "concerts",
+        "public",
+        "culture"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/mpeg",
+        "bytes": 499815,
+        "icy_metaint": 16000,
+        "icy_name": "Radio3",
+        "icy_br": "320",
+        "file": "data"
+      }
+    },
+    {
+      "id": "rai-radio-classica",
+      "name": "Rai Radio Classica",
+      "broadcaster": "Rai",
+      "country": "IT",
+      "city": "Rome",
+      "homepage": "https://www.raiplaysound.it",
+      "stream_url": "https://icestreaming.rai.it/5.mp3",
+      "format": "mp3",
+      "bitrate_kbps": 256,
+      "content_type": "audio/mpeg",
+      "logo_url": "https://www.raicom.rai.it/wp-content/uploads/2021/12/RADIO3-1024x1024.jpg",
+      "description": "Rai's non-stop classical channel (ex-Filodiffusione) from the Radio 3 family",
+      "airs_opera": false,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "public",
+        "non-stop"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/mpeg",
+        "bytes": 417216,
+        "icy_metaint": 16000,
+        "icy_name": "Radio Classica",
+        "icy_br": "256",
+        "file": "data"
+      }
+    },
+    {
+      "id": "radio-clasica",
+      "name": "Radio Clásica",
+      "broadcaster": "RNE (RTVE)",
+      "country": "ES",
+      "city": "Madrid",
+      "homepage": "https://www.rtve.es/play/radio/radio-clasica/",
+      "stream_url": "https://dispatcher.rndfnk.com/crtve/rnerc/main/mp3/high",
+      "format": "mp3",
+      "bitrate_kbps": 128,
+      "content_type": "audio/mpeg",
+      "logo_url": "https://www.rtve.es/favicon.ico",
+      "description": "Spanish public classical station with live concerts and opera from Teatro Real and Liceu",
+      "airs_opera": true,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "opera",
+        "concerts",
+        "public"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/mpeg",
+        "bytes": 262496,
+        "icy_metaint": 16384,
+        "icy_name": "RADIO CLÁSICA",
+        "icy_br": "128",
+        "file": "MPEG ADTS, layer III, v1, 128 kbps, 48 kHz, JntStereo"
+      }
+    },
+    {
+      "id": "classic-fm",
+      "name": "Classic FM",
+      "broadcaster": "Global",
+      "country": "GB",
+      "city": "London",
+      "homepage": "https://www.classicfm.com",
+      "stream_url": "https://media-ice.musicradio.com/ClassicFMMP3",
+      "format": "mp3",
+      "bitrate_kbps": 128,
+      "content_type": "audio/mpeg",
+      "logo_url": "https://www.classicfm.com/assets_v4r/classic/img/favicon-196x196.png",
+      "description": "UK commercial classical station: popular classics and film scores",
+      "airs_opera": false,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "commercial"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/mpeg",
+        "bytes": 433619,
+        "icy_metaint": 8000,
+        "icy_name": "Classic FM",
+        "icy_br": "128",
+        "file": "MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo"
+      }
+    },
+    {
+      "id": "rte-lyric-fm",
+      "name": "RTÉ lyric fm",
+      "broadcaster": "RTÉ",
+      "country": "IE",
+      "city": "Limerick",
+      "homepage": "https://www.rte.ie/lyricfm/",
+      "stream_url": "https://icecast.rte.ie/lyric",
+      "format": "mp3",
+      "bitrate_kbps": 160,
+      "content_type": "audio/mpeg",
+      "logo_url": "https://www.rte.ie/apple-touch-icon.png",
+      "description": "Irish public classical station with RTÉ orchestra concerts and opera nights",
+      "airs_opera": true,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "opera",
+        "concerts",
+        "public"
+      ],
+      "https": true,
+      "verified": {
+        "status": 206,
+        "content_type": "audio/mpeg",
+        "bytes": 32768,
+        "icy_metaint": 16000,
+        "icy_name": "RTE_LYRIC_FM",
+        "icy_br": "160",
+        "file": "MPEG ADTS, layer III, v1, 160 kbps, 44.1 kHz, JntStereo"
+      }
+    },
+    {
+      "id": "dr-p2",
+      "name": "DR P2",
+      "broadcaster": "DR",
+      "country": "DK",
+      "city": "Copenhagen",
+      "homepage": "https://www.dr.dk/lyd/p2",
+      "stream_url": "https://live-icy.dr.dk/A/A04H.mp3",
+      "format": "mp3",
+      "bitrate_kbps": 128,
+      "content_type": "audio/mpeg",
+      "logo_url": "https://www.dr.dk/nyhedsbrev/images/drlyd.png",
+      "description": "Danish public classical channel; DR orchestra concerts and Royal Danish Opera relays",
+      "airs_opera": true,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "opera",
+        "concerts",
+        "public"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/mpeg",
+        "bytes": 248980,
+        "icy_metaint": 16000,
+        "icy_name": "P2",
+        "icy_br": "128",
+        "file": "MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo"
+      }
+    },
+    {
+      "id": "sr-p2",
+      "name": "Sveriges Radio P2",
+      "broadcaster": "Sveriges Radio",
+      "country": "SE",
+      "city": "Stockholm",
+      "homepage": "https://www.sverigesradio.se/p2",
+      "stream_url": "https://live1.sr.se/p2-aac-320",
+      "format": "aac",
+      "bitrate_kbps": 320,
+      "content_type": "audio/aac",
+      "logo_url": "https://sverigesradio.se/favicon.ico",
+      "description": "Swedish public classical channel; Royal Swedish Opera and Berwaldhallen concerts, Saturday opera",
+      "airs_opera": true,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "opera",
+        "concerts",
+        "public"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/aac",
+        "bytes": 510072,
+        "icy_metaint": 16384,
+        "icy_br": "304",
+        "file": "MPEG ADTS, AAC, v4 LC, 48 kHz, stereo"
+      }
+    },
+    {
+      "id": "nrk-klassisk",
+      "name": "NRK Klassisk",
+      "broadcaster": "NRK",
+      "country": "NO",
+      "city": "Oslo",
+      "homepage": "https://radio.nrk.no/direkte/klassisk",
+      "stream_url": "https://lyd.nrk.no/nrk_radio_klassisk_mp3_h",
+      "format": "mp3",
+      "bitrate_kbps": 192,
+      "content_type": "audio/mpeg",
+      "logo_url": "https://static.nrk.no/radio/dist/images/channel-logos/nrk-logo-nrk-klassisk--color-light.svg",
+      "description": "Norwegian public classical channel, mostly non-stop with concert recordings",
+      "airs_opera": false,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "public"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/mpeg",
+        "bytes": 507151,
+        "icy_metaint": 16000,
+        "icy_name": "NRK Klassisk",
+        "icy_br": "192",
+        "file": "data"
+      }
+    },
+    {
+      "id": "yle-klassinen",
+      "name": "Yle Klassinen",
+      "broadcaster": "Yle",
+      "country": "FI",
+      "city": "Helsinki",
+      "homepage": "https://yle.fi/klassinen",
+      "stream_url": "https://icecast.live.yle.fi/radio/YleKlassinen/icecast.audio",
+      "format": "aac",
+      "bitrate_kbps": null,
+      "content_type": "audio/aacp",
+      "logo_url": "https://images.cdn.yle.fi/image/upload/c_scale,h_180,w_180/yle-areena-app.png",
+      "description": "Finnish public classical channel; Finnish Radio Symphony concerts and opera broadcasts",
+      "airs_opera": true,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "opera",
+        "concerts",
+        "public"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/aacp",
+        "bytes": 577746,
+        "icy_metaint": 8192,
+        "icy_name": "Yle Klassinen",
+        "file": "MPEG ADTS, AAC, v4 LC, 48 kHz, stereo"
+      }
+    },
+    {
+      "id": "abc-classic",
+      "name": "ABC Classic",
+      "broadcaster": "Australian Broadcasting Corporation",
+      "country": "AU",
+      "city": "Sydney",
+      "homepage": "https://www.abc.net.au/listen/live/classic",
+      "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8",
+      "format": "hls",
+      "bitrate_kbps": null,
+      "content_type": "application/vnd.apple.mpegURL",
+      "logo_url": "https://www.abc.net.au/apple-touch-icon.png",
+      "description": "Australian public classical station with symphony orchestra concerts and Opera Australia broadcasts",
+      "airs_opera": true,
+      "metadata": {
+        "type": "json",
+        "url": "https://music.abcradio.net.au/api/v1/plays/classic/now.json?tz=Australia%2FSydney",
+        "fields": {
+          "title": "now.recording.title",
+          "artist": "now.summary.artist"
+        }
+      },
+      "tags": [
+        "opera",
+        "concerts",
+        "public"
+      ],
+      "https": true,
+      "verified": {
+        "status": 200,
+        "content_type": "application/vnd.apple.mpegURL",
+        "bytes": 459,
+        "segment": {
+          "status": 200,
+          "ct": "video/mp2t",
+          "bytes": 301928,
+          "file": "MPEG transport stream data"
+        },
+        "metadata_sample": {
+          "title": "Symphony No. 9 in D minor, Op. 125 'Choral': III. Adagio molto e cantabile",
+          "artist": "Beethoven, Ludwig van"
+        }
+      }
+    },
+    {
+      "id": "linn-classical",
+      "name": "Linn Classical",
+      "broadcaster": "Linn",
+      "country": "GB",
+      "city": "Glasgow",
+      "homepage": "https://www.linn.co.uk",
+      "stream_url": "http://radio.linn.co.uk:8004/autodj",
+      "format": "mp3",
+      "bitrate_kbps": 320,
+      "content_type": "audio/mpeg",
+      "logo_url": "https://small.linncdn.com/website/responsive/images/icons/linn-icon-x120.png",
+      "description": "High-bitrate non-stop classical from the Linn Records catalogue (http only)",
+      "airs_opera": false,
+      "metadata": {
+        "type": "icy",
+        "url": null,
+        "fields": {}
+      },
+      "tags": [
+        "non-stop",
+        "http-only"
+      ],
+      "https": false,
+      "verified": {
+        "status": 200,
+        "content_type": "audio/mpeg",
+        "bytes": 530713,
+        "icy_metaint": 16000,
+        "icy_name": "Linn Classical",
+        "icy_br": "320",
+        "file": "data"
+      }
+    }
+  ],
+  "not_included": [
+    {
+      "name": "Met Opera Radio (SiriusXM channel 355)",
+      "reason": "Paid SiriusXM subscription channel; no free official stream exists. The Met's free Saturday Matinee radio broadcasts (Dec-May season) air on included public stations such as WQXR, WFMT, KUSC and CRB Classical, and in Europe on several public broadcasters."
+    },
+    {
+      "name": "CBC Music",
+      "reason": "Streams verify (HLS and StreamTheWorld MP3) but CBC Music is now a mostly popular-music network, so it was left out of a classical/opera list."
+    }
+  ]
+}

@@ -1,0 +1,915 @@
+{
+ "id": "met-160409-boccanegra",
+ "title": "Simon Boccanegra",
+ "subtitle": "Domingo, Haroutounian, Calleja · Levine",
+ "composers": [
+  {
+   "id": "giuseppe-verdi",
+   "name": "Giuseppe Verdi"
+  }
+ ],
+ "date": "2016-04-09",
+ "date_status": "confirmed",
+ "venue": {
+  "id": "metropolitan-opera-house-lincoln-center",
+  "name": "Metropolitan Opera House, Lincoln Center",
+  "city": "New York"
+ },
+ "kind": "broadcast",
+ "collection": "Met",
+ "duration_s": 12173,
+ "artwork_url": null,
+ "confirmed_ratio": 0.74,
+ "summary": "Off-air recording of the Metropolitan Opera's live Saturday matinee radio broadcast of Verdi's Simon Boccanegra on 9 April 2016 (Toll Brothers-Metropolitan Opera International Radio Network), with James Levine conducting Plácido Domingo (Boccanegra), Lianna Haroutounian (Amelia), Joseph Calleja (Gabriele Adorno), Ferruccio Furlanetto (Fiesco) and Brian Mulligan (Paolo) in Giancarlo del Monaco's 1995 production.",
+ "date_evidence": "Folder '160409 Boccanegra' = 2016-04-09; the tag date is 2016. The MetOpera Database record CID 356423 (re-read by the reconciler) lists Simon Boccanegra at the Metropolitan Opera House, Sat, April 9, 2016 Matinee, as a 'Toll Brothers-Metropolitan Opera International Radio Network Broadcast ... Broadcast live'. It was the only Saturday-matinee radio broadcast in the five-performance run (Apr 1, 5, 9, 13, 16). The Met's Saturday Matinee Broadcasts page (Wayback 2016-04-09) and dated affiliate listings (CapRadio, Red River, Interlochen, WCLV, RTP Antena 2) all advertise it as live on April 9. Met matinee broadcasts are live, so the performance and broadcast dates are the same.",
+ "candidate_dates": [
+  "2016-04-09"
+ ],
+ "broadcast_date": "2016-04-09",
+ "broadcaster": "Toll Brothers-Metropolitan Opera International Radio Network (also live on Metropolitan Opera Radio, SiriusXM channel 74; relayed internationally, e.g. RTP Antena 2)",
+ "event_name": "Met Opera Saturday matinee broadcast (2015-16 season)",
+ "program": [
+  {
+   "work_id": "verdi-simon-boccanegra",
+   "title": "Simon Boccanegra",
+   "composer": {
+    "id": "giuseppe-verdi",
+    "name": "Giuseppe Verdi"
+   },
+   "catalogue": null,
+   "notes": "1881 revised version (libretto Francesco Maria Piave, revised by Arrigo Boito). Prologue and three acts, given with one intermission: Prologue & Act I 93 min; intermission 35 min; Acts II & III 61 min; estimated running time 3 h 9 min (metopera.org). This was the opera's 142nd Met performance."
+  }
+ ],
+ "credits": [
+  {
+   "person": {
+    "id": "placido-domingo",
+    "name": "Plácido Domingo",
+    "image_url": null
+   },
+   "role": "Simon Boccanegra",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1",
+    "s3",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12"
+   ]
+  },
+  {
+   "person": {
+    "id": "lianna-haroutounian",
+    "name": "Lianna Haroutounian",
+    "image_url": null
+   },
+   "role": "Amelia (Maria Boccanegra / Amelia Grimaldi)",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": "Interlochen and WCLV listings: her network broadcast debut.",
+   "source_ids": [
+    "s1",
+    "s3",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12"
+   ]
+  },
+  {
+   "person": {
+    "id": "joseph-calleja",
+    "name": "Joseph Calleja",
+    "image_url": null
+   },
+   "role": "Gabriele Adorno",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1",
+    "s3",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12"
+   ]
+  },
+  {
+   "person": {
+    "id": "ferruccio-furlanetto",
+    "name": "Ferruccio Furlanetto",
+    "image_url": null
+   },
+   "role": "Jacopo Fiesco",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1",
+    "s3",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12"
+   ]
+  },
+  {
+   "person": {
+    "id": "brian-mulligan",
+    "name": "Brian Mulligan",
+    "image_url": null
+   },
+   "role": "Paolo Albiani",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1",
+    "s11"
+   ]
+  },
+  {
+   "person": {
+    "id": "richard-bernstein",
+    "name": "Richard Bernstein",
+    "image_url": null
+   },
+   "role": "Pietro",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": "American bass-baritone. No confident Wikidata match.",
+   "source_ids": [
+    "s1"
+   ]
+  },
+  {
+   "person": {
+    "id": "edyta-kulczak",
+    "name": "Edyta Kulczak",
+    "image_url": null
+   },
+   "role": "Maid (Amelia's maid)",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1"
+   ]
+  },
+  {
+   "person": {
+    "id": "noah-baetge",
+    "name": "Noah Baetge",
+    "image_url": null
+   },
+   "role": "Captain (of the crossbowmen)",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1"
+   ]
+  },
+  {
+   "person": {
+    "id": "james-levine",
+    "name": "James Levine",
+    "image_url": null
+   },
+   "role": "conductor",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": null,
+   "source_ids": [
+    "s1",
+    "s3",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12"
+   ]
+  },
+  {
+   "person": {
+    "id": "metropolitan-opera-orchestra",
+    "name": "Metropolitan Opera Orchestra",
+    "image_url": null
+   },
+   "role": "orchestra",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": "RTP Antena 2's listing for the 9 April live relay (published 6 April 2016) reads 'Coro e Orquestra do Metropolitan'. The Met archive record does not list ensembles.",
+   "source_ids": [
+    "s11",
+    "s1"
+   ]
+  },
+  {
+   "person": {
+    "id": "metropolitan-opera-chorus",
+    "name": "Metropolitan Opera Chorus",
+    "image_url": null
+   },
+   "role": "chorus",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": "Same RTP Antena 2 listing. No source read names the chorus master (see open questions).",
+   "source_ids": [
+    "s11",
+    "s1"
+   ]
+  },
+  {
+   "person": {
+    "id": "eric-einhorn",
+    "name": "Eric Einhorn",
+    "image_url": null
+   },
+   "role": "stage director (revival)",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": "AGMAZINE Summer 2016 photo caption: 'Saturday, April 9, 2016, after a performance of Simon Boccanegra at The Metropolitan Opera ... Stage Director Eric Einhorn'. The Met's 1 April 2016 record also lists him as Stage Director.",
+   "source_ids": [
+    "s14",
+    "s2"
+   ]
+  },
+  {
+   "person": {
+    "id": "giancarlo-del-monaco",
+    "name": "Giancarlo del Monaco",
+    "image_url": null
+   },
+   "role": "production",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "production_only",
+   "notes": "1995 production, revived. Credited on the Met's production page.",
+   "source_ids": [
+    "s5"
+   ]
+  },
+  {
+   "person": {
+    "id": "michael-scott",
+    "name": "Michael Scott",
+    "image_url": null
+   },
+   "role": "set and costume designer",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "production_only",
+   "notes": null,
+   "source_ids": [
+    "s5"
+   ]
+  },
+  {
+   "person": {
+    "id": "wayne-chouinard",
+    "name": "Wayne Chouinard",
+    "image_url": null
+   },
+   "role": "lighting designer",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "production_only",
+   "notes": null,
+   "source_ids": [
+    "s5"
+   ]
+  },
+  {
+   "person": {
+    "id": "mary-jo-heath",
+    "name": "Mary Jo Heath",
+    "image_url": null
+   },
+   "role": "intermission interviewer (interviews Joseph Calleja)",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": "The Met's page of intermission features for this broadcast lists 'Mary Jo Heath interviews Joseph Calleja'. It was the season's only Boccanegra radio broadcast.",
+   "source_ids": [
+    "s4"
+   ]
+  },
+  {
+   "person": {
+    "id": "mary-jo-heath",
+    "name": "Mary Jo Heath",
+    "image_url": null
+   },
+   "role": "radio host",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "production_only",
+   "notes": "Eastman (5 Oct 2015) says she became the Met's radio host in September 2015. No source read names her as host on 9 April itself, but her intermission interview supports it.",
+   "source_ids": [
+    "s15",
+    "s4"
+   ]
+  },
+  {
+   "person": {
+    "id": "loren-toolajian",
+    "name": "Loren Toolajian",
+    "image_url": null
+   },
+   "role": "intermission interviewer ('Backstage Pass': Haroutounian and Furlanetto; Domingo)",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "confirmed",
+   "notes": "Listed on the Met's page of intermission features for this broadcast. Whether both Backstage Pass segments aired in the single intermission, or one aired before or after the opera, is unverified.",
+   "source_ids": [
+    "s4"
+   ]
+  },
+  {
+   "person": {
+    "id": "ira-siff",
+    "name": "Ira Siff",
+    "image_url": null
+   },
+   "role": "radio commentator",
+   "work_id": "verdi-simon-boccanegra",
+   "status": "production_only",
+   "notes": "Eastman (Oct 2015) names 'Ira Siff on the Saturday matinées' as commentator for the 2015-16 season. No source read names him for 9 April.",
+   "source_ids": [
+    "s15"
+   ]
+  }
+ ],
+ "tracks": [
+  {
+   "id": "met-160409-boccanegra:01",
+   "index": 1,
+   "description": "Broadcast opening: host introduction, possibly running into the start of the Prologue (7:16; inferred)",
+   "title": "Broadcast opening: host introduction, possibly running into the start of the Prologue",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "announcer",
+   "duration_s": 436,
+   "stream_url": "/api/tracks/met-160409-boccanegra:01/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-160409-boccanegra:02",
+   "index": 2,
+   "description": "Prologue (18:46; inferred)",
+   "title": "Prologue",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 1126,
+   "stream_url": "/api/tracks/met-160409-boccanegra:02/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-160409-boccanegra:03",
+   "index": 3,
+   "description": "Prologue, end; probably also the pause or scene change after the Prologue and the start of Act I (13:58; inferred)",
+   "title": "Prologue, end; probably also the pause or scene change after the Prologue and the start of Act I",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 838,
+   "stream_url": "/api/tracks/met-160409-boccanegra:03/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-160409-boccanegra:04",
+   "index": 4,
+   "description": "Act I, scene 1 (6:11; inferred). The bitrate drops from 320 to 128 kbps from this file on.",
+   "title": "Act I, scene 1. The bitrate drops from 320 to 128 kbps from this file on.",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 371,
+   "stream_url": "/api/tracks/met-160409-boccanegra:04/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-160409-boccanegra:05",
+   "index": 5,
+   "description": "Act I, scene 1 (5:23; inferred)",
+   "title": "Act I, scene 1",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 323,
+   "stream_url": "/api/tracks/met-160409-boccanegra:05/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-160409-boccanegra:06",
+   "index": 6,
+   "description": "Act I, scene 1, probably the Amelia-Boccanegra recognition duet (14:15; inferred)",
+   "title": "Act I, scene 1, probably the Amelia-Boccanegra recognition duet",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 855,
+   "stream_url": "/api/tracks/met-160409-boccanegra:06/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-160409-boccanegra:07",
+   "index": 7,
+   "description": "Act I, scene 1, end (4:52; inferred)",
+   "title": "Act I, scene 1, end",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 292,
+   "stream_url": "/api/tracks/met-160409-boccanegra:07/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-160409-boccanegra:08",
+   "index": 8,
+   "description": "Act I, pause or scene change to the Council Chamber, likely with host commentary (1:22; inferred)",
+   "title": "Act I, pause or scene change to the Council Chamber, likely with host commentary",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 82,
+   "stream_url": "/api/tracks/met-160409-boccanegra:08/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-160409-boccanegra:09",
+   "index": 9,
+   "description": "Act I, scene 2: Council Chamber (6:13; inferred)",
+   "title": "Act I, scene 2: Council Chamber",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 373,
+   "stream_url": "/api/tracks/met-160409-boccanegra:09/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-160409-boccanegra:10",
+   "index": 10,
+   "description": "Act I, scene 2: Council Chamber, the 'Plebe! Patrizi!' ensemble (15:34; inferred)",
+   "title": "Act I, scene 2: Council Chamber, the 'Plebe! Patrizi!' ensemble",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 934,
+   "stream_url": "/api/tracks/met-160409-boccanegra:10/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-160409-boccanegra:11",
+   "index": 11,
+   "description": "Act I, scene 2, end: Paolo's self-curse; Act I curtain and applause (4:21; inferred)",
+   "title": "Act I, scene 2, end: Paolo's self-curse; Act I curtain and applause",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 261,
+   "stream_url": "/api/tracks/met-160409-boccanegra:11/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-160409-boccanegra:12",
+   "index": 12,
+   "description": "Applause / host lead-in to the intermission (0:33; inferred)",
+   "title": "Applause / host lead-in to the intermission",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "intermission",
+   "duration_s": 33,
+   "stream_url": "/api/tracks/met-160409-boccanegra:12/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-160409-boccanegra:13",
+   "index": 13,
+   "description": "Intermission (36:59). Per the Met, the features were: Backstage Pass (Loren Toolajian with Haroutounian and Furlanetto; with Domingo), Mary Jo Heath's interview with Joseph Calleja, and a Verdi-Boito feature. Which of these fill this file is unverified.",
+   "title": "Intermission. Per the Met, the features were: Backstage Pass (Loren Toolajian with Haroutounian and Furlanetto; with Domingo), Mary Jo Heath's interview with Joseph Calleja, and a Verdi-Boito feature. Which of these fill this file is unverified.",
+   "work_id": null,
+   "segment": "intermission",
+   "duration_s": 2219,
+   "stream_url": "/api/tracks/met-160409-boccanegra:13/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-160409-boccanegra:14",
+   "index": 14,
+   "description": "Act II, possibly preceded by the end of the intermission and the host's re-introduction (10:19; inferred)",
+   "title": "Act II, possibly preceded by the end of the intermission and the host's re-introduction",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "intermission",
+   "duration_s": 619,
+   "stream_url": "/api/tracks/met-160409-boccanegra:14/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-160409-boccanegra:15",
+   "index": 15,
+   "description": "Act II (3:30; inferred)",
+   "title": "Act II",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 210,
+   "stream_url": "/api/tracks/met-160409-boccanegra:15/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-160409-boccanegra:16",
+   "index": 16,
+   "description": "Act II, to the end of the act (13:25; inferred)",
+   "title": "Act II, to the end of the act",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 805,
+   "stream_url": "/api/tracks/met-160409-boccanegra:16/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-160409-boccanegra:17",
+   "index": 17,
+   "description": "Pause or scene change between Act II and Act III, likely with host commentary (1:22; inferred). It closely matches file 08 in length but differs in byte size, so it is not a file duplicate. Codex instead placed it inside Act II.",
+   "title": "Pause or scene change between Act II and Act III, likely with host commentary. It closely matches file 08 in length but differs in byte size, so it is not a file duplicate. Codex instead placed it inside Act II.",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 82,
+   "stream_url": "/api/tracks/met-160409-boccanegra:17/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-160409-boccanegra:18",
+   "index": 18,
+   "description": "Act III, opening (5:52; inferred). Codex instead placed this file at the end of Act II.",
+   "title": "Act III, opening. Codex instead placed this file at the end of Act II.",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 352,
+   "stream_url": "/api/tracks/met-160409-boccanegra:18/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-160409-boccanegra:19",
+   "index": 19,
+   "description": "Act III, including the Fiesco-Boccanegra duet (19:39; inferred)",
+   "title": "Act III, including the Fiesco-Boccanegra duet",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 1179,
+   "stream_url": "/api/tracks/met-160409-boccanegra:19/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-160409-boccanegra:20",
+   "index": 20,
+   "description": "Act III, finale: death of Boccanegra (6:22; inferred)",
+   "title": "Act III, finale: death of Boccanegra",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "music",
+   "duration_s": 382,
+   "stream_url": "/api/tracks/met-160409-boccanegra:20/stream",
+   "format": "mp3"
+  },
+  {
+   "id": "met-160409-boccanegra:21",
+   "index": 21,
+   "description": "Curtain calls and applause, then the host's sign-off and broadcast close (6:41; inferred)",
+   "title": "Curtain calls and applause, then the host's sign-off and broadcast close",
+   "work_id": "verdi-simon-boccanegra",
+   "segment": "applause",
+   "duration_s": 401,
+   "stream_url": "/api/tracks/met-160409-boccanegra:21/stream",
+   "format": "mp3"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "url": "https://archives.metopera.org/MetOperaSearch/record.jsp?dockey=0385948",
+   "wayback_url": "https://web.archive.org/web/20231202094231/https://archives.metopera.org/MetOperaSearch/record.jsp?dockey=0385948",
+   "title": "MetOpera Database: [Met Performance] CID:356423, Simon Boccanegra (142), Metropolitan Opera House, Sat, April 9, 2016 Matinee",
+   "type": "archive_record",
+   "date_specific": true,
+   "excerpt": "Simon Boccanegra Plácido Domingo; Amelia Lianna Haroutounian; Gabriele Adorno Joseph Calleja; Jacopo Fiesco Ferruccio Furlanetto; Paolo Albiani Brian Mulligan; Pietro Richard Bernstein; Maid Edyta Kulczak; Captain Noah Baetge; Conductor James Levine. Toll Brothers-Metropolitan Opera International Radio Network Broadcast. Broadcast live on Metropolitan Radio Sirius XM channel 74. (Re-read 2026-10-17: no cast change, replacement or debut noted.)"
+  },
+  {
+   "id": "s2",
+   "url": "https://archives.metopera.org/MetOperaSearch/record.jsp?dockey=0385940",
+   "wayback_url": null,
+   "title": "MetOpera Database: CID:356410, Simon Boccanegra, Fri, April 1, 2016 (first night of the run)",
+   "type": "archive_record",
+   "date_specific": false,
+   "excerpt": "Conductor James Levine; Stage Director Eric Einhorn ... Simon Boccanegra received five performances this season."
+  },
+  {
+   "id": "s3",
+   "url": "https://www.metopera.org/Season/Radio/Saturday-Matinee-Broadcasts/",
+   "wayback_url": "https://web.archive.org/web/20160409214321/http://www.metopera.org:80/Season/Radio/Saturday-Matinee-Broadcasts/",
+   "title": "Metropolitan Opera: Saturday Matinee Broadcasts (2015-16)",
+   "type": "broadcast_listing",
+   "date_specific": true,
+   "excerpt": "April 9, 2016 12:30 pm Simon Boccanegra Verdi Levine; Haroutounian, Calleja, Domingo, Furlanetto"
+  },
+  {
+   "id": "s4",
+   "url": "https://www.metopera.org/Configuration-Pages/Promo-Buckets/2015-16/Radio/Matinee-Broadcast-Promo-Buckets/simon-boccanegra-radio/La-Boheme-Intermission-Features--Saturday-Matinee-Broadcasts/",
+   "wayback_url": "https://web.archive.org/web/20160412122052/http://www.metopera.org:80/Configuration-Pages/Promo-Buckets/2015-16/Radio/Matinee-Broadcast-Promo-Buckets/simon-boccanegra-radio/La-Boheme-Intermission-Features--Saturday-Matinee-Broadcasts/",
+   "title": "Simon Boccanegra Intermission Features | Saturday Matinee Broadcasts",
+   "type": "broadcast_listing",
+   "date_specific": true,
+   "excerpt": "SINGLE INTERMISSION FEATURES: Backstage Pass: Loren Toolajian interviews Lianna Haroutounian and Ferruccio Furlanetto; Mary Jo Heath interviews Joseph Calleja; Verdi Boito Feature; Backstage Pass: Loren Toolajian interviews Plácio [sic] Domingo"
+  },
+  {
+   "id": "s5",
+   "url": "https://www.metopera.org/Season/2015-16-Season/simon-boccanegra-verdi-tickets/",
+   "wayback_url": "https://web.archive.org/web/20160409035353/http://www.metopera.org:80/Season/2015-16-Season/simon-boccanegra-verdi-tickets/",
+   "title": "Metropolitan Opera: Simon Boccanegra (2015-16 production page)",
+   "type": "other",
+   "date_specific": false,
+   "excerpt": "Estimated Run Time 3 hrs 9 mins; Prologue & Act I 93 mins; Intermission 35 mins; Act II & III 61 mins ... Production Giancarlo del Monaco; Set & Costume Designer Michael Scott; Lighting Designer Wayne Chouinard"
+  },
+  {
+   "id": "s6",
+   "url": "https://www.metopera.org/Season/2015-16-Programs/Programs--Simon-Boccanegra/",
+   "wayback_url": "https://web.archive.org/web/20160409002824/http://www.metopera.org:80/Season/2015-16-Programs/Programs--Simon-Boccanegra/",
+   "title": "Programs: Simon Boccanegra (2015-16 Playbill PDFs)",
+   "type": "program",
+   "date_specific": false,
+   "excerpt": "These PDFs do not include cast changes that occurred after the program went to print. ... PDF links for 040116, 040516, 040916, 041316, 041616"
+  },
+  {
+   "id": "s7",
+   "url": "https://www.metopera.org/metoperafiles/season/2015-16/operas/simon_boccanegra/programs/040916%20Boccanegra.pdf",
+   "wayback_url": null,
+   "title": "Met Playbill PDF for the April 9, 2016 Simon Boccanegra",
+   "type": "program",
+   "date_specific": true,
+   "excerpt": "Not read. The live URL redirects to a queue-it bot-protection page (checked 2026-10-17). Wayback has no capture (the CDX shows none, and the link from the 2016-05-06 programs-page snapshot returns 404)."
+  },
+  {
+   "id": "s8",
+   "url": "https://www.capradio.org/classical/season/the-metropolitan-opera/2016/04/09/met-opera-simon-boccanegra/",
+   "wayback_url": "https://web.archive.org/web/20180204143501/http://www.capradio.org/classical/season/the-metropolitan-opera/2016/04/09/met-opera-simon-boccanegra/",
+   "title": "Capital Public Radio: Met Opera: Simon Boccanegra (Saturday, April 9, 2016)",
+   "type": "broadcast_listing",
+   "date_specific": true,
+   "excerpt": "Saturday, April 9, 2016 ... Start time: 10:00 AM ... Approximate running time 3 hrs 9 min ... Conductor: James Levine; Amelia Grimaldi: Lianna Haroutounian; Gabriele Adorno: Joseph Calleja; Jacopo Fiesco: Ferruccio Furlanetto; Simon Boccanegra: Plácido Domingo"
+  },
+  {
+   "id": "s9",
+   "url": "https://www.redriverradio.org/cultural-community-information/2016-04-01/metropolitan-opera-verdis-simon-boccanegra",
+   "wayback_url": "https://web.archive.org/web/20220124063404/https://www.redriverradio.org/cultural-community-information/2016-04-01/metropolitan-opera-verdis-simon-boccanegra",
+   "title": "Red River Radio: Metropolitan Opera: Verdi's Simon Boccanegra",
+   "type": "broadcast_listing",
+   "date_specific": true,
+   "excerpt": "Airs Saturday, April 9, at 12 noon ... Toll Brothers-Metropolitan Opera International Radio Network ... conducted by Met Music Director James Levine"
+  },
+  {
+   "id": "s10",
+   "url": "https://www.interlochenpublicradio.org/show/metropolitan-opera/2016-04-05/metropolitan-opera-simon-boccanegra",
+   "wayback_url": null,
+   "title": "Interlochen Public Radio: Metropolitan Opera: Simon Boccanegra",
+   "type": "broadcast_listing",
+   "date_specific": true,
+   "excerpt": "Listen LIVE on Classical IPR on Saturday, April 9 at 1pm ET ... conducted by Met Music Director James Levine ... Lianna Haroutounian, who makes her network broadcast debut as ... Amelia, tenor Joseph Calleja ... bass Ferruccio Furlanetto"
+  },
+  {
+   "id": "s11",
+   "url": "https://antena2.rtp.pt/canto/metropolitan/verdi-simao-boccanegra-9-abril-17h30/",
+   "wayback_url": null,
+   "title": "RTP Antena 2: Verdi, Simão Boccanegra, 9 Abril 17h30 (published 6 Apr 2016)",
+   "type": "broadcast_listing",
+   "date_specific": true,
+   "excerpt": "Transmissão em direto ... a partir de The Metropolitan Opera de Nova Iorque ... Plácido Domingo (BT), Lianna Haroutounian (S), Ferruccio Furlanetto (B), Joseph Calleja (T), Brian Mulligan (B) ... Coro e Orquestra do Metropolitan ... Direção: James Levine"
+  },
+  {
+   "id": "s12",
+   "url": "https://www.ideastream.org/2016-04-09/program-guide-04-09-2016",
+   "wayback_url": null,
+   "title": "WCLV/Ideastream program guide, April 9, 2016",
+   "type": "broadcast_listing",
+   "date_specific": true,
+   "excerpt": "13:00 THE METROPOLITAN OPERA ... a live broadcast of Verdi's Simon Boccanegra ... The intermission features artist interviews."
+  },
+  {
+   "id": "s13",
+   "url": "https://www.yourclassical.org/story/2016/04/09/met-opera-simon-boccanegra",
+   "wayback_url": null,
+   "title": "YourClassical: Met Opera: Simon Boccanegra, April 9, 2016",
+   "type": "broadcast_listing",
+   "date_specific": true,
+   "excerpt": "April 9, 2016 ... another collaboration of legends James Levine and Plácido Domingo"
+  },
+  {
+   "id": "s14",
+   "url": "https://www.musicalartists.org/wp-content/uploads/2016/11/Summer_2016_AGMAZINE.pdf",
+   "wayback_url": null,
+   "title": "AGMAZINE, Summer 2016: photo caption, 9 April 2016",
+   "type": "other",
+   "date_specific": true,
+   "excerpt": "Saturday, April 9, 2016, after a performance of Simon Boccanegra at The Metropolitan Opera, left to right: Production Stage Manager Ray Menard, Company Manager Stephen Brown, Stage Manager Gary Dietrich, Plácido Domingo, Master Electrician PJ Volpe, violinist Sylvia Danburg Volpe, Stephen Hawking, Stage Director Eric Einhorn, Stage Manager James Darrah and Stage Manager Scott Moon"
+  },
+  {
+   "id": "s15",
+   "url": "https://www.esm.rochester.edu/?p=17296",
+   "wayback_url": null,
+   "title": "Eastman School of Music (5 Oct 2015): Mary Jo Heath, Met radio host",
+   "type": "other",
+   "date_specific": false,
+   "excerpt": "currently serves as the Radio Host for the Metropolitan Opera ... just the fourth full-time radio host in the company's history ... [commentators] Ira Siff on the Saturday matinées"
+  },
+  {
+   "id": "s16",
+   "url": "https://newyorkclassicalreview.com/2016/04/domingo-and-levine-bring-rich-visceral-advocacy-to-mets-boccanegra/",
+   "wayback_url": "https://web.archive.org/web/20160410104237/http://newyorkclassicalreview.com/2016/04/domingo-and-levine-bring-rich-visceral-advocacy-to-mets-boccanegra/",
+   "title": "New York Classical Review (George Grella): Domingo and Levine bring rich, visceral advocacy to Met's 'Boccanegra'",
+   "type": "review",
+   "date_specific": false,
+   "excerpt": "Review of the April 1 opening night, not April 9: 'a richly assured performance' ... Mulligan gave Paolo 'a burning fervor' ... Haroutounian 'A star of the evening.'"
+  },
+  {
+   "id": "s17",
+   "url": "https://parterre.com/2016/04/04/doge-days/",
+   "wayback_url": "https://web.archive.org/web/20160410113200/http://parterre.com/2016/04/04/doge-days/",
+   "title": "parterre box: doge days (review of the run's opening)",
+   "type": "review",
+   "date_specific": false,
+   "excerpt": "Not fetched. Seen only in search results (published April 4, 2016, before the broadcast)."
+  },
+  {
+   "id": "s18",
+   "url": "https://www.newyorker.com/goings-on-about-town/classical-music/the-met-simon-boccanegra-review",
+   "wayback_url": null,
+   "title": "The New Yorker: The Met: Simon Boccanegra",
+   "type": "review",
+   "date_specific": false,
+   "excerpt": "Published April 7, 2016. Names Domingo, Haroutounian, Calleja, Furlanetto, Mulligan and Levine. Not tied to the April 9 matinee."
+  },
+  {
+   "id": "s19",
+   "url": "https://archives.metopera.org/MetOperaSearch/search.jsp?q=%22Simon%20Boccanegra%22&src=browser&sort=PDATE",
+   "wayback_url": null,
+   "title": "MetOpera Database search: Simon Boccanegra",
+   "type": "archive_record",
+   "date_specific": false,
+   "excerpt": "2016 performances: Apr 1 (CID 356410), Apr 5 (356417), Sat Apr 9 (356423), Apr 13 (356432), Sat Apr 16 (356436)"
+  },
+  {
+   "id": "s20",
+   "url": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q7317|Q548161|Q130853|Q22248538|Q536328|Q695741|Q17007761|Q336388|Q188031|Q11343914|Q1522389|Q27064122|Q123498096",
+   "wayback_url": null,
+   "title": "Wikidata: label check for all QIDs used (re-checked 2026-10-17)",
+   "type": "wikidata",
+   "date_specific": false,
+   "excerpt": "Q22248538 Lianna Haroutounian, Armenian opera singer; Q17007761 Brian Mulligan, American operatic baritone; Q1522389 Giancarlo del Monaco, Italian opera director; Q27064122 Mary Jo Heath, American radio announcer; Q123498096 Ira Siff; Q11343914 Metropolitan Opera Orchestra; Q548161 Simon Boccanegra; Q188031 Metropolitan Opera House"
+  },
+  {
+   "id": "s21",
+   "url": "https://hanslick.acdh.oeaw.ac.at/hsl_work_id_5509.html",
+   "wayback_url": null,
+   "title": "Hanslick Digital Edition: Simon Boccanegra work authority record",
+   "type": "other",
+   "date_specific": false,
+   "excerpt": "Title: Simon Boccanegra ... Verdi, Giuseppe ... Wikidata: Q548161."
+  }
+ ],
+ "resources": [
+  {
+   "url": "https://archives.metopera.org/MetOperaSearch/record.jsp?dockey=0385948",
+   "wayback_url": "https://web.archive.org/web/20231202094231/https://archives.metopera.org/MetOperaSearch/record.jsp?dockey=0385948",
+   "title": "MetOpera Database: Simon Boccanegra, April 9, 2016 matinee (broadcast)",
+   "kind": "archive record",
+   "description": "The Met's own archive record of this performance, with the full cast and broadcast note."
+  },
+  {
+   "url": "https://www.metopera.org/Configuration-Pages/Promo-Buckets/2015-16/Radio/Matinee-Broadcast-Promo-Buckets/simon-boccanegra-radio/La-Boheme-Intermission-Features--Saturday-Matinee-Broadcasts/",
+   "wayback_url": "https://web.archive.org/web/20160412122052/http://www.metopera.org:80/Configuration-Pages/Promo-Buckets/2015-16/Radio/Matinee-Broadcast-Promo-Buckets/simon-boccanegra-radio/La-Boheme-Intermission-Features--Saturday-Matinee-Broadcasts/",
+   "title": "Simon Boccanegra: intermission features (Saturday Matinee Broadcast)",
+   "kind": "broadcast page",
+   "description": "The interviews and features scheduled for this broadcast's intermission."
+  },
+  {
+   "url": "https://www.metopera.org/Season/Radio/Saturday-Matinee-Broadcasts/",
+   "wayback_url": "https://web.archive.org/web/20160409214321/http://www.metopera.org:80/Season/Radio/Saturday-Matinee-Broadcasts/",
+   "title": "Met Opera: Saturday Matinee Broadcasts 2015-16",
+   "kind": "broadcast page",
+   "description": "The season's broadcast schedule, as captured on the day of the broadcast."
+  },
+  {
+   "url": "https://www.metopera.org/Season/2015-16-Season/simon-boccanegra-verdi-tickets/",
+   "wayback_url": "https://web.archive.org/web/20160409035353/http://www.metopera.org:80/Season/2015-16-Season/simon-boccanegra-verdi-tickets/",
+   "title": "Met Opera: Simon Boccanegra 2015-16 production page",
+   "kind": "article",
+   "description": "The production page: run time, creative team, and video clips (Act III excerpt; Levine and Domingo in rehearsal)."
+  },
+  {
+   "url": "https://www.metopera.org/Season/2015-16-Programs/Programs--Simon-Boccanegra/",
+   "wayback_url": "https://web.archive.org/web/20160409002824/http://www.metopera.org:80/Season/2015-16-Programs/Programs--Simon-Boccanegra/",
+   "title": "Met Opera: Simon Boccanegra programs (Playbill PDFs, incl. April 9)",
+   "kind": "program",
+   "description": "Links to the printed programs. The PDFs themselves may not load."
+  },
+  {
+   "url": "https://www.musicalartists.org/wp-content/uploads/2016/11/Summer_2016_AGMAZINE.pdf",
+   "wayback_url": null,
+   "title": "AGMAZINE Summer 2016: backstage photo after the April 9 performance",
+   "kind": "photos",
+   "description": "Photo taken backstage after this performance, with Plácido Domingo, Stephen Hawking, stage director Eric Einhorn and Met stage staff."
+  },
+  {
+   "url": "https://antena2.rtp.pt/canto/metropolitan/verdi-simao-boccanegra-9-abril-17h30/",
+   "wayback_url": null,
+   "title": "RTP Antena 2 (Portugal): live relay listing",
+   "kind": "broadcast page",
+   "description": "A Portuguese radio listing for the live relay, with the principal cast, chorus and orchestra."
+  },
+  {
+   "url": "https://www.capradio.org/classical/season/the-metropolitan-opera/2016/04/09/met-opera-simon-boccanegra/",
+   "wayback_url": "https://web.archive.org/web/20180204143501/http://www.capradio.org/classical/season/the-metropolitan-opera/2016/04/09/met-opera-simon-boccanegra/",
+   "title": "Capital Public Radio broadcast listing, April 9, 2016",
+   "kind": "broadcast page",
+   "description": null
+  },
+  {
+   "url": "https://www.interlochenpublicradio.org/show/metropolitan-opera/2016-04-05/metropolitan-opera-simon-boccanegra",
+   "wayback_url": null,
+   "title": "Interlochen Public Radio broadcast listing",
+   "kind": "broadcast page",
+   "description": null
+  },
+  {
+   "url": "https://www.redriverradio.org/cultural-community-information/2016-04-01/metropolitan-opera-verdis-simon-boccanegra",
+   "wayback_url": "https://web.archive.org/web/20220124063404/https://www.redriverradio.org/cultural-community-information/2016-04-01/metropolitan-opera-verdis-simon-boccanegra",
+   "title": "Red River Radio broadcast listing",
+   "kind": "broadcast page",
+   "description": null
+  },
+  {
+   "url": "https://www.ideastream.org/2016-04-09/program-guide-04-09-2016",
+   "wayback_url": null,
+   "title": "WCLV/Ideastream program guide, April 9, 2016",
+   "kind": "broadcast page",
+   "description": null
+  },
+  {
+   "url": "https://www.yourclassical.org/story/2016/04/09/met-opera-simon-boccanegra",
+   "wayback_url": null,
+   "title": "YourClassical: broadcast page and synopsis",
+   "kind": "broadcast page",
+   "description": "The broadcast page, with an act-by-act synopsis and production photos."
+  },
+  {
+   "url": "https://newyorkclassicalreview.com/2016/04/domingo-and-levine-bring-rich-visceral-advocacy-to-mets-boccanegra/",
+   "wayback_url": "https://web.archive.org/web/20160410104237/http://newyorkclassicalreview.com/2016/04/domingo-and-levine-bring-rich-visceral-advocacy-to-mets-boccanegra/",
+   "title": "New York Classical Review: Domingo and Levine bring rich, visceral advocacy to Met's 'Boccanegra'",
+   "kind": "review",
+   "description": "Review of the April 1 opening night, with the same cast."
+  },
+  {
+   "url": "https://parterre.com/2016/04/04/doge-days/",
+   "wayback_url": "https://web.archive.org/web/20160410113200/http://parterre.com/2016/04/04/doge-days/",
+   "title": "parterre box: doge days",
+   "kind": "review",
+   "description": "Review of the run's opening."
+  },
+  {
+   "url": "https://www.newyorker.com/goings-on-about-town/classical-music/the-met-simon-boccanegra-review",
+   "wayback_url": null,
+   "title": "The New Yorker: The Met: Simon Boccanegra",
+   "kind": "review",
+   "description": "A preview and review of the 2016 revival."
+  },
+  {
+   "url": "https://www.metopera.org/Discover/Synopses/Simon-Boccanegra/",
+   "wayback_url": null,
+   "title": "Met Opera: Simon Boccanegra synopsis",
+   "kind": "article",
+   "description": null
+  },
+  {
+   "url": "https://ondemand.metopera.org/?upc=811357011669",
+   "wayback_url": null,
+   "title": "Met Opera on Demand: Simon Boccanegra",
+   "kind": "audio",
+   "description": "Met Opera on Demand page for Simon Boccanegra, which may include this broadcast (subscription; page is script-driven)."
+  },
+  {
+   "url": "https://www.opera-online.com/en/items/productions/simon-boccanegra-the-metropolitan-opera-2016-2016",
+   "wayback_url": null,
+   "title": "Opera Online: Simon Boccanegra, Metropolitan Opera 2016",
+   "kind": "article",
+   "description": null
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Simon_Boccanegra",
+   "wayback_url": null,
+   "title": "Wikipedia: Simon Boccanegra",
+   "kind": "wiki",
+   "description": null
+  }
+ ],
+ "open_questions": [
+  "Track boundaries come from file durations and the Met's published timings (Prologue & Act I 93 min; intermission 35 min; Acts II & III 61 min), not from listening. Files 01-12 (98.8 min) fit the introduction plus Prologue and Act I, file 13 (37.0 min) the intermission, and files 14-21 (67.1 min) Acts II-III plus curtain calls. The Prologue/Act I and Act II/Act III breaks are not pinned. Claude put Act III from file 18 and Codex from file 19; this record follows Claude.",
+  "Files 08 and 17 are almost the same length (82.1 s and 82.0 s) but differ in byte size, so they are not file copies. They are taken to be scene-change pauses with host commentary. Only listening can confirm that, or show they are the same filler audio repeated.",
+  "Files 01-03 are about 320 kbps and files 04-21 about 128 kbps, with different tag frames (TSOC/composer vs TCM/TSC/TSP). The first 40 minutes may come from a different capture or source (e.g. a SiriusXM or web stream versus FM).",
+  "The April 9 Playbill PDF (040916 Boccanegra.pdf) could not be read: the live URL is behind queue-it bot protection and the Wayback Machine has no capture. It would show the chorus master (presumably Donald Palumbo, the Met's chorus director, but no source read says so for this date), and possibly the production staff. The Met's programs page warns that the PDFs leave out late cast changes.",
+  "No source records a cast change for April 9. The Met archive record (the authoritative per-date source) lists the same principals as the run's announced cast and notes no replacement. Both researchers found no reviews of the April 9 matinee itself; only opening-night (April 1) reviews were found. The reconciler's web search budget ran out before a further targeted search for substitutions.",
+  "The host (Mary Jo Heath) and commentator (Ira Siff) rest on a season-level source (Eastman, Oct 2015). Heath's interview with Calleja is listed for this broadcast. Listening to file 01 would confirm both.",
+  "The Met lists four features for this broadcast (two Backstage Pass segments by Loren Toolajian, Heath's interview with Calleja, a Verdi-Boito feature), but it is unverified which aired in the single intermission (file 13) and which, if any, ran before the opera or after it (files 01, 21)."
+ ],
+ "folder": "Met/160409 Boccanegra"
+}

@@ -1,0 +1,70 @@
+name: Sethster
+options:
+  bundleIdPrefix: com.goatsandmonkeys
+  deploymentTarget:
+    iOS: "18.0"
+  createIntermediateGroups: true
+settings:
+  base:
+    SWIFT_VERSION: "6.0"
+    SWIFT_STRICT_CONCURRENCY: complete
+    DEVELOPMENT_TEAM: MMZ8VT9YVZ
+    CODE_SIGN_STYLE: Automatic
+    ENABLE_USER_SCRIPT_SANDBOXING: YES
+targets:
+  Sethster:
+    type: application
+    platform: iOS
+    attributes:
+      SystemCapabilities:
+        com.apple.Push:
+          enabled: 1
+    sources:
+      - path: Sethster
+    configFiles:
+      Debug: Config/Sethster.xcconfig
+      Release: Config/Sethster.xcconfig
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.goatsandmonkeys.sethster
+        PRODUCT_NAME: Sethster
+        MARKETING_VERSION: "0.1"
+        CURRENT_PROJECT_VERSION: "13"
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+        TARGETED_DEVICE_FAMILY: "1,2"
+        GENERATE_INFOPLIST_FILE: YES
+        SWIFT_EMIT_LOC_STRINGS: YES
+        # CarPlay audio entitlement, granted by Apple (Oct 2026); applies to every config and SDK.
+        CODE_SIGN_ENTITLEMENTS: Sethster/Entitlements/Sethster.entitlements
+    info:
+      path: Sethster/Info.plist
+      properties:
+        CFBundleDisplayName: Sethster
+        # Server addresses from Config/Local.xcconfig (gitignored), read by AppModel.
+        SethsterDefaultServer: $(SETHSTER_DEFAULT_SERVER)
+        SethsterFallbackServers: $(SETHSTER_FALLBACK_SERVERS)
+        SethsterTrustedAliases: $(SETHSTER_TRUSTED_ALIASES)
+        SethsterLegacyDefaults: $(SETHSTER_LEGACY_DEFAULTS)
+        UIAppFonts: [Lexend.ttf]
+        ITSAppUsesNonExemptEncryption: false
+        UILaunchScreen:
+          UIColorName: Paper
+        UIBackgroundModes: [audio]
+        # Explicit scene manifest only to add the CarPlay scene; the phone window scene is still
+        # SwiftUI's WindowGroup (no delegate class declared for it).
+        UIApplicationSceneManifest:
+          UIApplicationSupportsMultipleScenes: false
+          UISceneConfigurations:
+            CPTemplateApplicationSceneSessionRoleApplication:
+              - UISceneConfigurationName: CarPlay
+                UISceneDelegateClassName: $(PRODUCT_MODULE_NAME).CarPlaySceneDelegate
+        CFBundleURLTypes:
+          - CFBundleURLName: com.goatsandmonkeys.sethster
+            CFBundleURLSchemes: [sethster]
+        UISupportedInterfaceOrientations: [UIInterfaceOrientationPortrait, UIInterfaceOrientationLandscapeLeft, UIInterfaceOrientationLandscapeRight]
+        UISupportedInterfaceOrientations~ipad: [UIInterfaceOrientationPortrait, UIInterfaceOrientationPortraitUpsideDown, UIInterfaceOrientationLandscapeLeft, UIInterfaceOrientationLandscapeRight]
+        NSLocalNetworkUsageDescription: Sethster connects to your family music server on the local network.
+        NSAppTransportSecurity:
+          NSAllowsLocalNetworking: true
+          NSAllowsArbitraryLoads: true
